@@ -1,0 +1,1484 @@
+,Site.ID,From (m),To (m),Depth,Material.simplified,Deposit.type,Deposit.type.conf,Mid_VI,EI_pred
+1,174-18,1.5,2.4,1.95,Fine,Glaciolacustrine,2,45,0.298536151
+2,174-22,1.5,2.4,1.95,Fine,Glaciolacustrine,3,45,0.121459011
+3,174-36,0.1,1.7,0.9,Fine,Glaciolacustrine,3,45,0.12548621
+4,174-39,0.1,1,0.55,Fine,Glaciolacustrine,2,45,0.308958621
+5,174-53,0.1,1.5,0.8,Fine,Glaciolacustrine,2,45,0.307082835
+6,174-60,4.6,5.8,5.2,Fine,Glaciolacustrine,2,8,0.157886213
+7,177 South - 15,0.1,1.8,0.95,Fine,Glaciolacustrine,3,45,0.125291908
+8,177 South - 3,0.2,1.5,0.85,Fine,Glaciolacustrine,3,45,0.125680767
+9,177 South - 3,4.3,5,4.65,Fine,Glaciolacustrine,3,45,0.111605459
+10,177 South - 5,0.1,1.5,0.8,Fine,Glaciolacustrine,2,45,0.307082835
+11,177 South - 7,0.1,1.5,0.8,Fine,Glaciolacustrine,3,45,0.125875578
+12,177 South - 8,4.3,4.6,4.45,Fine,Glaciolacustrine,3,87,0.22013297
+13,177 South - 8,0.1,1.5,0.8,Fine,Glaciolacustrine,3,45,0.125875578
+14,19A-01,0,1.5,0.75,Fine,Glaciolacustrine,2,45,0.307457488
+15,19A-06,0.8,1.5,1.15,Fine,Glaciolacustrine,3,45,0.124517242
+16,19A-09,0.2,1.5,0.85,Fine,Glaciolacustrine,2,45,0.306708434
+17,19A-10,0.2,1,0.6,Fine,Glaciolacustrine,2,45,0.30858296
+18,19A-10,1,1.5,1.25,Fine,Glaciolacustrine,2,45,0.303722359
+19,19A-11,0.2,1.8,1,Fine,Glaciolacustrine,2,8,0.1786316
+20,309-03,2.4,3,2.7,Fine,Glaciolacustrine,2,45,0.29303598
+21,309-11,1,2.9,1.95,Fine,Glaciolacustrine,2,45,0.298536151
+22,309-11,4.6,5.8,5.2,Fine,Glaciolacustrine,2,45,0.275135709
+23,309-22,2.6,5.8,4.2,Fine,Glaciolacustrine,2,45,0.282214617
+24,309-38,0.1,0.6,0.35,Fine,Glaciolacustrine,2,45,0.310463768
+25,309-51,0.6,1.5,1.05,Fine,Glaciolacustrine,2,8,0.178372678
+26,312-04,8.2,8.5,8.35,Fine,Glaciolacustrine,2,45,0.25356612
+27,312-04,0.1,1,0.55,Fine,Glaciolacustrine,2,45,0.308958621
+28,312-12,1.5,3,2.25,Fine,Glaciolacustrine,2,8,0.172245611
+29,312-16,0.1,1.2,0.65,Fine,Glaciolacustrine,2,45,0.308207551
+30,312-18,3.8,4.6,4.2,Fine,Glaciolacustrine,2,45,0.282214617
+31,312-23,0.1,0.3,0.2,Fine,Glaciolacustrine,2,45,0.311595251
+32,AH112.2C,2.1,3.5,2.8,Fine,Glaciolacustrine,2,0,0.149053846
+33,AH112.2C,3.5,4.4,3.95,Fine,Glaciolacustrine,2,8,0.163849665
+34,AH112.2C,1.5,2.1,1.8,Fine,Glaciolacustrine,2,45,0.299643225
+35,AH112.2C,1,1.5,1.25,Fine,Glaciolacustrine,2,8,0.177339899
+36,AH112.2C,4.4,7.8,6.1,Fine,Glaciolacustrine,2,8,0.153701413
+37,AH112.2N,3,5.2,4.1,Fine,Glaciolacustrine,3,8,0.059078042
+38,AH112.2N,0.1,3,1.55,Fine,Glaciolacustrine,3,45,0.122980066
+39,AH112.2S,1.5,5.2,3.35,Fine,Glaciolacustrine,3,0,0.052327911
+40,AH112.2S,0.3,1.5,0.9,Fine,Glaciolacustrine,3,45,0.12548621
+41,ENG.YARC03097-01//HUS_P (NTGS 8),6.1,10.4,8.25,Fine,Glaciolacustrine,3,45,0.099544669
+42,ENG.YARC03097-01//I401A_Pit (NTGS 15),0.9,5.9,3.4,Fine,Glaciolacustrine,2,8,0.166529782
+43,ENG.YARC03097-01//TVC_H (NTGS 5),2,11.7,6.85,Fine,Glaciolacustrine,3,8,0.053816997
+44,ENG.YARC03097-01//TVC_P (NTGS 4),6.7,9,7.85,Fine,Glaciolacustrine,3,45,0.100826158
+45,ENG.YARC03097-01//TVC_P (NTGS 4),9,10.1,9.55,Fine,Glaciolacustrine,3,8,0.049072493
+46,GSC1A - P1,1.5,8,4.75,Fine,Glaciolacustrine,3,45,0.111254096
+47,GSC1A - P1,8,10.1,9.05,Fine,Glaciolacustrine,3,45,0.097024388
+48,GSC1A - P1,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+49,GSC1A - P4,1.5,6,3.75,Fine,Glaciolacustrine,3,45,0.114810931
+50,GSC1A - P4,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+51,GSC1A - P5,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+52,GSC1A - P5,1.5,8,4.75,Fine,Glaciolacustrine,3,45,0.111254096
+53,GSC1A - P5,8,9,8.5,Fine,Glaciolacustrine,3,45,0.098750992
+54,GSC1A - P6,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+55,GSC3 - 14,0.6,2,1.3,Fine,Glaciolacustrine,3,45,0.123938905
+56,GSC3 - 14,0.2,0.6,0.4,Fine,Glaciolacustrine,3,45,0.127443262
+57,GSC3 - 16,0,1.5,0.75,Fine,Glaciolacustrine,3,8,0.066119007
+58,GSC3 - 16,4.6,7.3,5.95,Fine,Glaciolacustrine,3,0,0.047868805
+59,GSC3 - 16,2.1,4.6,3.35,Fine,Glaciolacustrine,3,8,0.060592215
+60,GSC3 - 17,0,1.8,0.9,Fine,Glaciolacustrine,3,8,0.065788113
+61,GSC3 - 24,2.1,3.4,2.75,Fine,Glaciolacustrine,3,45,0.118464845
+62,GSC3 - 24,0.2,2.1,1.15,Fine,Glaciolacustrine,3,45,0.124517242
+63,GSC3 - 25,1.4,2.1,1.75,Fine,Glaciolacustrine,3,0,0.05525812
+64,GSC3 - 31,0.8,3.7,2.25,Fine,Glaciolacustrine,3,8,0.062877033
+65,GSC3 - 7,0.2,1.8,1,Fine,Glaciolacustrine,3,45,0.125097861
+66,GSC3 - 7,3.1,3.4,3.25,Fine,Glaciolacustrine,3,8,0.060796756
+67,GSC4 - 11,4.3,4.7,4.5,Fine,Glaciolacustrine,3,45,0.112134297
+68,GSC4 - 12,2.1,2.9,2.5,Fine,Glaciolacustrine,3,0,0.053866367
+69,GSC4 - 12,2.9,6.1,4.5,Fine,Glaciolacustrine,3,8,0.058284676
+70,GSC4 - 13,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+71,GSC4 - 13,3.1,4.9,4,Fine,Glaciolacustrine,3,0,0.051178745
+72,GSC4 - 13,4.9,6.1,5.5,Fine,Glaciolacustrine,3,8,0.056343647
+73,GSC4 - 13,1.5,3.1,2.3,Fine,Glaciolacustrine,3,45,0.12014123
+74,GSC4 - 14,5.5,6,5.75,Fine,Glaciolacustrine,3,8,0.055867714
+75,GSC4 - 14,3.7,4.2,3.95,Fine,Glaciolacustrine,3,8,0.059378086
+76,GSC4 - 16,3.5,6,4.75,Fine,Glaciolacustrine,3,45,0.111254096
+77,GSC4 - 16,1.5,3.5,2.5,Fine,Glaciolacustrine,3,8,0.062350977
+78,GSC4 - 18,5.5,6,5.75,Fine,Glaciolacustrine,3,8,0.055867714
+79,GSC4 - 19,1.5,2.4,1.95,Fine,Glaciolacustrine,3,45,0.121459011
+80,GSC4 - 36,2.4,3.1,2.75,Fine,Glaciolacustrine,3,45,0.118464845
+81,GSC4 - 36,3.1,5.2,4.15,Fine,Glaciolacustrine,3,45,0.113376643
+82,GSC4 - 40,2.4,3,2.7,Fine,Glaciolacustrine,3,0,0.053500694
+83,GSC4 - 44,0,4,2,Fine,Glaciolacustrine,3,0,0.054790587
+84,GSC4 - 5,0,1.8,0.9,Fine,Glaciolacustrine,3,45,0.12548621
+85,GSC4 - 5,1.8,3.4,2.6,Fine,Glaciolacustrine,3,8,0.062141678
+86,GSC4 - 5,4.9,6.1,5.5,Fine,Glaciolacustrine,3,8,0.056343647
+87,GSC4 - 55,1.5,1.9,1.7,Fine,Glaciolacustrine,3,8,0.064048595
+88,GSC4 - 6,5.5,6.1,5.8,Fine,Glaciolacustrine,3,8,0.055772969
+89,GSC4 - 6,0.3,5.5,2.9,Fine,Glaciolacustrine,3,45,0.117910502
+90,GSC4 - 7,1.2,3.1,2.15,Fine,Glaciolacustrine,3,8,0.063088584
+91,GSC4 - 8,3.1,5.2,4.15,Fine,Glaciolacustrine,3,45,0.113376643
+92,GSC4 - 8,5.2,6.1,5.65,Fine,Glaciolacustrine,3,0,0.048364879
+93,GSC4 - 8,1.5,3.1,2.3,Fine,Glaciolacustrine,3,8,0.0627715
+94,GSC4 - 9,1.3,3.1,2.2,Fine,Glaciolacustrine,3,0,0.05441917
+95,I401A - 33,4.4,5.9,5.15,Fine,Glaciolacustrine,2,0,0.138812245
+96,I401A - 33,7.2,7.6,7.4,Fine,Glaciolacustrine,2,0,0.129559493
+97,I401A - 33,5.9,7.2,6.55,Fine,Glaciolacustrine,2,45,0.26575462
+98,I401A - 34,3,3.8,3.4,Fine,Glaciolacustrine,2,45,0.287956026
+99,I401A - 34,2.3,3,2.65,Fine,Glaciolacustrine,2,0,0.14972802
+100,I401A - 34,3.8,6.1,4.95,Fine,Glaciolacustrine,2,8,0.159064782
+101,I401A - 35,2.4,6.1,4.25,Fine,Glaciolacustrine,2,0,0.14266385
+102,I401A - 35,1.5,2.4,1.95,Fine,Glaciolacustrine,2,8,0.173761742
+103,I401A - 35,0.5,1.5,1,Fine,Glaciolacustrine,2,0,0.157308605
+104,I401A - 43,3,4.6,3.8,Fine,Glaciolacustrine,2,0,0.14462243
+105,I401A - 43,4.6,6.1,5.35,Fine,Glaciolacustrine,2,45,0.274083354
+106,I401A - 52,4.1,5.6,4.85,Fine,Glaciolacustrine,2,0,0.140086445
+107,I401A - 52,2.6,3.4,3,Fine,Glaciolacustrine,2,0,0.148158799
+108,I401A - 52,1.1,2.3,1.7,Fine,Glaciolacustrine,2,0,0.154055578
+109,I401A - 52,2.3,2.6,2.45,Fine,Glaciolacustrine,2,8,0.171240629
+110,I401A - 52,3.4,4.1,3.75,Fine,Glaciolacustrine,2,8,0.164820262
+111,I401A - 57,0,3.8,1.9,Fine,Glaciolacustrine,2,0,0.15313619
+112,I401A - 57,7.6,9.1,8.35,Fine,Glaciolacustrine,2,0,0.125811032
+113,I401A - 59,5.8,9.1,7.45,Fine,Glaciolacustrine,2,0,0.12935989
+114,I401A - 60,1.8,3,2.4,Fine,Glaciolacustrine,2,45,0.295228977
+115,I401A - 60,0,1.8,0.9,Fine,Glaciolacustrine,2,45,0.306334286
+116,I401A - 61,6.1,7,6.55,Fine,Glaciolacustrine,2,0,0.132992479
+117,I401A - 64,2.3,6.1,4.2,Fine,Glaciolacustrine,2,0,0.142880386
+118,I401A - 64,0,1.5,0.75,Fine,Glaciolacustrine,2,0,0.158483712
+119,I401A - 64,1.5,2.3,1.9,Fine,Glaciolacustrine,2,45,0.298904916
+120,I401A - 68,1.8,6.1,3.95,Fine,Glaciolacustrine,2,8,0.163849665
+121,I401A - P6,0,1.2,0.6,Fine,Glaciolacustrine,3,45,0.126657374
+122,I401A - P6,1.5,9.1,5.3,Fine,Glaciolacustrine,3,0,0.048949601
+123,I401A - P6,1.2,1.5,1.35,Fine,Glaciolacustrine,3,45,0.123746632
+124,I401A - P7,2.7,3,2.85,Fine,Glaciolacustrine,3,8,0.061621226
+125,I401A - P7,3,6.1,4.55,Fine,Glaciolacustrine,3,45,0.111957778
+126,I401A - P7,6.1,8.2,7.15,Fine,Glaciolacustrine,3,8,0.053269803
+127,I401A - P7,8.2,10.7,9.45,Fine,Glaciolacustrine,3,45,0.095785367
+128,KP7 - P1,0.2,1.5,0.85,Fine,Glaciolacustrine,3,0,0.056971626
+129,KP7 - P1,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+130,KP7 - P1,3,4.3,3.65,Fine,Glaciolacustrine,3,45,0.115171925
+131,KP7 - P2,0.3,1.5,0.9,Fine,Glaciolacustrine,2,45,0.306334286
+132,KP7 - P2,2.3,3.1,2.7,Fine,Glaciolacustrine,2,0,0.14950302
+133,KP7 - P3,0.3,3.7,2,Fine,Glaciolacustrine,3,8,0.063407124
+134,KP7 - P3a,0.5,3.1,1.8,Fine,Glaciolacustrine,3,45,0.122027524
+135,KP7 - P3a,3.1,6.1,4.6,Fine,Glaciolacustrine,3,45,0.111781499
+136,PW10 - 12,0.2,1.2,0.7,Fine,Glaciolacustrine,2,45,0.307832394
+137,PW10 - 12,1.2,1.8,1.5,Fine,Glaciolacustrine,2,45,0.301864352
+138,PW10 - 12,3.1,5.6,4.35,Fine,Glaciolacustrine,2,45,0.281145811
+139,PW10 - 12,4.6,6.1,5.35,Fine,Glaciolacustrine,2,0,0.137968122
+140,PW10 - 14,1.5,3.1,2.3,Fine,Glaciolacustrine,3,45,0.12014123
+141,PW10 - 14,0.6,1.5,1.05,Fine,Glaciolacustrine,3,45,0.124904067
+142,PW10 - 16,0.3,1.8,1.05,Fine,Glaciolacustrine,3,45,0.124904067
+143,PW10 - 18,6.4,8,7.2,Fine,Glaciolacustrine,2,0,0.130360495
+144,PW10 - 18,3.7,6.4,5.05,Fine,Glaciolacustrine,2,45,0.276190549
+145,PW10 - 21,0.2,6.1,3.15,Fine,Glaciolacustrine,3,45,0.116991521
+146,PW10 - 22,1.2,4.6,2.9,Fine,Glaciolacustrine,3,45,0.117910502
+147,PW10 - 22,4.6,6.1,5.35,Fine,Glaciolacustrine,3,45,0.109165879
+148,PW10 - 28,3.1,6.1,4.6,Fine,Glaciolacustrine,3,45,0.111781499
+149,PW10 - 28,1.8,3.1,2.45,Fine,Glaciolacustrine,3,8,0.062455867
+150,PW10 - 28,0.2,1.8,1,Fine,Glaciolacustrine,3,45,0.125097861
+151,PW10 - 30,3.1,4.6,3.85,Fine,Glaciolacustrine,3,0,0.051441863
+152,PW10 - 30,0.2,3.1,1.65,Fine,Glaciolacustrine,3,45,0.122598295
+153,PW10 - 8,1.4,1.5,1.45,Fine,Glaciolacustrine,3,45,0.123362845
+154,PW10 - 8,1.5,3.1,2.3,Fine,Glaciolacustrine,3,0,0.054234328
+155,PW10 - 8,3.1,5,4.05,Fine,Glaciolacustrine,3,45,0.113733764
+156,PW10 - P4,1.5,3.1,2.3,Fine,Glaciolacustrine,3,45,0.12014123
+157,PW10 - P4,9.1,10.1,9.6,Fine,Glaciolacustrine,3,45,0.095324331
+158,PW10 - P4,7.6,9.1,8.35,Fine,Glaciolacustrine,3,0,0.044065502
+159,PW11 - 10,1.5,2.7,2.1,Fine,Glaciolacustrine,2,45,0.297431412
+160,PW11 - 10,0,1.5,0.75,Fine,Glaciolacustrine,2,45,0.307457488
+161,PW11 - 16,0.2,1.8,1,Fine,Glaciolacustrine,3,45,0.125097861
+162,PW11 - 16,3.8,4.6,4.2,Fine,Glaciolacustrine,3,8,0.058878782
+163,PW11 - 16,4.6,8,6.3,Fine,Glaciolacustrine,3,45,0.105928829
+164,PW11 - 16,8,8.5,8.25,Fine,Glaciolacustrine,3,45,0.099544669
+165,PW11 - 17,0,1.5,0.75,Fine,Glaciolacustrine,3,8,0.066119007
+166,PW11 - 17,3.1,6.1,4.6,Fine,Glaciolacustrine,3,45,0.111781499
+167,PW11 - 17,1.5,3.1,2.3,Fine,Glaciolacustrine,3,0,0.054234328
+168,PW11 - 18,0.2,1.5,0.85,Fine,Glaciolacustrine,3,45,0.125680767
+169,PW11 - 18,1.5,6.1,3.8,Fine,Glaciolacustrine,3,8,0.05967952
+170,PW11 - 22,1.5,4.6,3.05,Fine,Glaciolacustrine,3,8,0.061207726
+171,PW11 - 22,0,1.5,0.75,Fine,Glaciolacustrine,3,8,0.066119007
+172,PW11 - 22,4.6,6.1,5.35,Fine,Glaciolacustrine,3,45,0.109165879
+173,PW11 - 6,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+174,PW11 - 6,0.1,1.5,0.8,Fine,Glaciolacustrine,3,45,0.125875578
+175,PW11 - 6,3,7.6,5.3,Fine,Glaciolacustrine,3,8,0.05672706
+176,PW11 - 8,1.5,6.1,3.8,Fine,Glaciolacustrine,3,45,0.114630797
+177,PW11 - 8,0.1,1.5,0.8,Fine,Glaciolacustrine,3,45,0.125875578
+178,PW11 - P2,3.7,10.1,6.9,Fine,Glaciolacustrine,3,0,0.046328606
+179,PW11 - P2,0,3.7,1.85,Fine,Glaciolacustrine,3,0,0.05507067
+180,PW12 - 12,8,10.3,9.15,Fine,Glaciolacustrine,3,45,0.096713321
+181,PW12 - 12,1.5,8,4.75,Fine,Glaciolacustrine,3,45,0.111254096
+182,PW12 - 12,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+183,PW12 - 19,8,10.3,9.15,Fine,Glaciolacustrine,3,45,0.096713321
+184,PW12 - 19,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+185,PW12 - 19,6.1,8,7.05,Fine,Glaciolacustrine,3,45,0.103432405
+186,PW12 - 19,3,6.1,4.55,Fine,Glaciolacustrine,3,8,0.058186192
+187,PW12 - 19,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+188,PW12 - 25,0.1,1.1,0.6,Fine,Glaciolacustrine,3,45,0.126657374
+189,PW12 - 25,1.1,2.5,1.8,Fine,Glaciolacustrine,3,45,0.122027524
+190,PW12 - 25,8,10.2,9.1,Fine,Glaciolacustrine,3,45,0.096868745
+191,PW12 - 25,2.5,8,5.25,Fine,Glaciolacustrine,3,45,0.109511547
+192,PW12 - 31,3,4.6,3.8,Fine,Glaciolacustrine,3,8,0.05967952
+193,PW12 - 31,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+194,PW12 - 31,4.6,10.3,7.45,Fine,Glaciolacustrine,3,0,0.045457885
+195,PW12 - 31,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+196,PW12 - 32,7.6,10.1,8.85,Fine,Glaciolacustrine,3,0,0.043309035
+197,PW12 - 32,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+198,PW12 - 32,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+199,PW12 - 32,3,7.6,5.3,Fine,Glaciolacustrine,3,8,0.05672706
+200,PW12 - 34,0.2,0.9,0.55,Fine,Glaciolacustrine,3,87,0.244638679
+201,PW12 - 34,0.9,7,3.95,Fine,Glaciolacustrine,3,45,0.114091852
+202,PW12 - 43,0.1,1.1,0.6,Fine,Glaciolacustrine,3,8,0.06645141
+203,PW12 - 43,5.6,7.2,6.4,Fine,Glaciolacustrine,3,45,0.105592978
+204,PW12 - 43,1.1,5.6,3.35,Fine,Glaciolacustrine,3,0,0.052327911
+205,PW12 - 48,5.6,7.2,6.4,Fine,Glaciolacustrine,3,45,0.105592978
+206,PW12 - 48,0.1,1.1,0.6,Fine,Glaciolacustrine,3,45,0.126657374
+207,PW12 - 48,2.6,4.1,3.35,Fine,Glaciolacustrine,3,8,0.060592215
+208,PW12 - 48,4.1,5.6,4.85,Fine,Glaciolacustrine,3,45,0.110903686
+209,PW12 - 48,1.1,2.6,1.85,Fine,Glaciolacustrine,3,45,0.121837769
+210,PW12 - 55,3,6.1,4.55,Fine,Glaciolacustrine,3,45,0.111957778
+211,PW12 - 55,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+212,PW12 - 55,1.5,3,2.25,Fine,Glaciolacustrine,3,0,0.054326677
+213,PW12 - 56A,3,4.6,3.8,Fine,Glaciolacustrine,3,0,0.051529844
+214,PW12 - 56A,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+215,PW12 - 56A,4.6,10.1,7.35,Fine,Glaciolacustrine,3,8,0.052907843
+216,PW12 - 57,0,4.3,2.15,Fine,Glaciolacustrine,3,45,0.120704497
+217,PW12 - 57,4.3,6.1,5.2,Fine,Glaciolacustrine,3,45,0.109684735
+218,PW12 - 58,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+219,PW12 - 58,1.5,4.6,3.05,Fine,Glaciolacustrine,3,0,0.052866235
+220,PW12 - 58,4.6,6.1,5.35,Fine,Glaciolacustrine,3,45,0.109165879
+221,PW12 - 60,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+222,PW12 - 60,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+223,PW12 - 67,2.6,4,3.3,Fine,Glaciolacustrine,3,8,0.060694407
+224,PW12 - 67,4,7.2,5.6,Fine,Glaciolacustrine,3,45,0.108305832
+225,PW12 - 68,1.1,4.1,2.6,Fine,Glaciolacustrine,3,0,0.053683245
+226,PW12 - 68,4.1,7.2,5.65,Fine,Glaciolacustrine,3,45,0.108134528
+227,PW12 - 69,5.6,7.2,6.4,Fine,Glaciolacustrine,3,0,0.047133461
+228,PW12 - 69,2.6,4.1,3.35,Fine,Glaciolacustrine,3,45,0.116260751
+229,PW12 - 69,2,2.6,2.3,Fine,Glaciolacustrine,3,45,0.12014123
+230,PW12 - 69,4.1,5.6,4.85,Fine,Glaciolacustrine,3,8,0.057598473
+231,PW12 - 70,3.5,4.1,3.8,Fine,Glaciolacustrine,3,8,0.05967952
+232,PW12 - 70,5.6,7.2,6.4,Fine,Glaciolacustrine,3,45,0.105592978
+233,PW12 - 70,4.1,5.6,4.85,Fine,Glaciolacustrine,3,45,0.110903686
+234,PW12 - 70,2.6,3.5,3.05,Fine,Glaciolacustrine,3,0,0.052866235
+235,PW12 - 71,0.1,0.9,0.5,Fine,Glaciolacustrine,3,45,0.127049806
+236,PW12 - 71,1.5,4,2.75,Fine,Glaciolacustrine,3,45,0.118464845
+237,PW12 - 71,0.9,1.5,1.2,Fine,Glaciolacustrine,3,45,0.12432421
+238,PW12 - 71,5.5,7,6.25,Fine,Glaciolacustrine,3,45,0.106097102
+239,PW12 - 71,4,5.5,4.75,Fine,Glaciolacustrine,3,8,0.057793774
+240,PW12 - 72,1.1,2.6,1.85,Fine,Glaciolacustrine,3,45,0.121837769
+241,PW12 - 72,4.1,7.2,5.65,Fine,Glaciolacustrine,3,45,0.108134528
+242,PW12 - 72,2.6,4.1,3.35,Fine,Glaciolacustrine,3,8,0.060592215
+243,PW12 - P1,1.5,3.1,2.3,Fine,Glaciolacustrine,3,45,0.12014123
+244,PW12 - P1,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+245,PW12 - P1,3.1,6.1,4.6,Fine,Glaciolacustrine,3,8,0.05808786
+246,PW12 - P2,1.5,6.1,3.8,Fine,Glaciolacustrine,3,8,0.05967952
+247,PW12 - P2,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+248,PW12 - P3,1.5,4.6,3.05,Fine,Glaciolacustrine,3,8,0.061207726
+249,PW12 - P3,4.6,10.1,7.35,Fine,Glaciolacustrine,3,45,0.102448261
+250,PW12 - P4,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+251,PW12 - P4,3,8,5.5,Fine,Glaciolacustrine,3,45,0.108649145
+252,PW12 - P4,8,9.1,8.55,Fine,Glaciolacustrine,3,45,0.098592923
+253,PW12 - P4,9.1,10.1,9.6,Fine,Glaciolacustrine,3,8,0.048988372
+254,PW12 - P4,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+255,PW12 - P5,6,10.3,8.15,Fine,Glaciolacustrine,3,0,0.044371482
+256,PW12 - P5,4.6,6,5.3,Fine,Glaciolacustrine,3,8,0.05672706
+257,PW12 - P5,3,4.6,3.8,Fine,Glaciolacustrine,3,0,0.051529844
+258,PW12 - P5,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+259,PW12 - P5,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+260,PW13 - 21,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+261,PW13 - 21,1.5,5.3,3.4,Fine,Glaciolacustrine,3,45,0.116078671
+262,PW13 - 33,1.5,3,2.25,Fine,Glaciolacustrine,3,8,0.062877033
+263,PW13 - 33,0,1.5,0.75,Fine,Glaciolacustrine,3,8,0.066119007
+264,PW13 - 33,4.6,6.1,5.35,Fine,Glaciolacustrine,3,0,0.048865674
+265,PW13 - 33,3,4.6,3.8,Fine,Glaciolacustrine,3,45,0.114630797
+266,PW13 - 58,6.1,7.6,6.85,Fine,Glaciolacustrine,3,0,0.046408519
+267,PW13 - 58,0.2,1.8,1,Fine,Glaciolacustrine,3,45,0.125097861
+268,PW13 - 58,4.6,6.1,5.35,Fine,Glaciolacustrine,3,8,0.056630983
+269,PW13 - 58,3,4.6,3.8,Fine,Glaciolacustrine,3,8,0.05967952
+270,PW13 - 58,1.8,3,2.4,Fine,Glaciolacustrine,3,0,0.05405006
+271,PW13 - 61,3,6.1,4.55,Fine,Glaciolacustrine,3,0,0.050224511
+272,PW13 - 61,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+273,PW13 - 61,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+274,PW13 - P1,2.3,3.6,2.95,Fine,Glaciolacustrine,3,0,0.053046802
+275,PW13 - P1,8,10.6,9.3,Fine,Glaciolacustrine,3,45,0.096248361
+276,PW13 - P1,4.2,8,6.1,Fine,Glaciolacustrine,3,45,0.106603314
+277,PW13 - P1,3.6,4.2,3.9,Fine,Glaciolacustrine,3,45,0.114271258
+278,PW13 - P2,0,2.5,1.25,Fine,Glaciolacustrine,3,45,0.124131431
+279,PW13 - P3,3.4,8,5.7,Fine,Glaciolacustrine,3,0,0.048281873
+280,PW13 - P4,1.5,6.1,3.8,Fine,Glaciolacustrine,3,8,0.05967952
+281,PW13 - P4,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+282,PW13 - P5,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+283,PW13 - P5,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+284,PW13 - P5,4.6,6.1,5.35,Fine,Glaciolacustrine,3,45,0.109165879
+285,PW13 - P5,3,4.6,3.8,Fine,Glaciolacustrine,3,8,0.05967952
+286,PW13 - P6,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+287,PW13 - P6,4.6,9.2,6.9,Fine,Glaciolacustrine,3,0,0.046328606
+288,PW13 - P6,3,4.6,3.8,Fine,Glaciolacustrine,3,8,0.05967952
+289,PW13 - P6,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+290,PW17 - 22,3.1,6.1,4.6,Fine,Glaciolacustrine,3,45,0.111781499
+291,PW17 - 22,1.5,3.1,2.3,Fine,Glaciolacustrine,3,8,0.0627715
+292,PW17 - 22,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+293,PW17 - P1,0,1.5,0.75,Fine,Glaciolacustrine,3,87,0.243338596
+294,PW17 - P1,3.1,6.1,4.6,Fine,Glaciolacustrine,3,45,0.111781499
+295,PW17 - P1,1.5,3.1,2.3,Fine,Glaciolacustrine,3,45,0.12014123
+296,PW17 - P4,0.6,1.5,1.05,Fine,Glaciolacustrine,3,45,0.124904067
+297,PW17 - P4,1.5,3.1,2.3,Fine,Glaciolacustrine,3,8,0.0627715
+298,PW17 - P5,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+299,PW17 - P5,1.5,3.1,2.3,Fine,Glaciolacustrine,3,87,0.23342134
+300,PW17 - P7,2.4,3.1,2.75,Fine,Glaciolacustrine,3,0,0.053409632
+301,PW17 - P7,3.1,4.6,3.85,Fine,Glaciolacustrine,3,8,0.059578887
+302,PW18 - P2,1.5,6.1,3.8,Fine,Glaciolacustrine,2,0,0.14462243
+303,PW18 - P4,0,1.1,0.55,Fine,Glaciolacustrine,3,8,0.066562548
+304,PW6 - P19,6.7,8,7.35,Fine,Glaciolacustrine,3,45,0.102448261
+305,PW6 - P19,8.2,10.1,9.15,Fine,Glaciolacustrine,3,45,0.096713321
+306,PW6 - P19,8,8.2,8.1,Fine,Glaciolacustrine,3,45,0.100023548
+307,PW6 - P19,0.9,1.8,1.35,Fine,Glaciolacustrine,3,8,0.064804428
+308,PW6 - P19,3.7,6.7,5.2,Fine,Glaciolacustrine,3,45,0.109684735
+309,PW6 - P19,1.8,3.7,2.75,Fine,Glaciolacustrine,3,0,0.053409632
+310,PW6 - P19,0,0.9,0.45,Fine,Glaciolacustrine,3,45,0.127246405
+311,PW6 - P21,7.5,9,8.25,Fine,Glaciolacustrine,3,8,0.051306765
+312,PW6 - P21,2,3,2.5,Fine,Glaciolacustrine,3,0,0.053866367
+313,PW6 - P4,0.2,1.5,0.85,Fine,Glaciolacustrine,3,8,0.065898244
+314,PW6 - P4,8,9,8.5,Fine,Glaciolacustrine,3,45,0.098750992
+315,PW6 - P4,3,4.5,3.75,Fine,Glaciolacustrine,3,45,0.114810931
+316,PW6 - P4,4.5,6,5.25,Fine,Glaciolacustrine,3,45,0.109511547
+317,PW6 - P4,6,8,7,Fine,Glaciolacustrine,3,45,0.103597227
+318,PW6 - P4,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+319,PW6 - P5,8.5,10.1,9.3,Fine,Glaciolacustrine,2,8,0.139546159
+320,PW6 - P6,1.5,3,2.25,Fine,Glaciolacustrine,3,45,0.120328737
+321,PW6 - P6,3,6,4.5,Fine,Glaciolacustrine,3,45,0.112134297
+322,PW6 - P6,0.2,1.5,0.85,Fine,Glaciolacustrine,3,0,0.056971626
+323,PW6 - P6,6,7.8,6.9,Fine,Glaciolacustrine,3,0,0.046328606
+324,PW9 - P1,6.1,7.6,6.85,Fine,Glaciolacustrine,3,45,0.104093064
+325,PW9 - P1,8,10.1,9.05,Fine,Glaciolacustrine,3,45,0.097024388
+326,PW9 - P1,1.5,3,2.25,Fine,Glaciolacustrine,3,87,0.233736857
+327,PW9 - P1,7.6,8,7.8,Fine,Glaciolacustrine,3,45,0.100987353
+328,PW9 - P1,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+329,PW9 - P2,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+330,PW9 - P2,4.6,8,6.3,Fine,Glaciolacustrine,3,45,0.105928829
+331,PW9 - P2,1.5,4.6,3.05,Fine,Glaciolacustrine,3,45,0.117358376
+332,PW9 - P2,8,10.1,9.05,Fine,Glaciolacustrine,3,45,0.097024388
+333,PW9 - P3,10.1,10.7,10.4,Fine,Glaciolacustrine,3,8,0.04766033
+334,PW9 - P3,8.2,10.1,9.15,Fine,Glaciolacustrine,3,8,0.049750255
+335,PW9 - P3,3,8.2,5.6,Fine,Glaciolacustrine,3,8,0.05615283
+336,PW9 - P3,0.2,3,1.6,Fine,Glaciolacustrine,3,8,0.064263726
+337,PW9 - P8,2.6,6.7,4.65,Fine,Glaciolacustrine,3,45,0.111605459
+338,PW9 - P8,2.4,2.6,2.5,Fine,Glaciolacustrine,3,45,0.119393691
+339,PW9 - P8,6.7,7.2,6.95,Fine,Glaciolacustrine,3,87,0.205369583
+340,PW9 - P8,1.5,2.4,1.95,Fine,Glaciolacustrine,3,8,0.063513629
+341,W14103137-AH18.15N,4.9,5.2,5.05,Fine,Glaciolacustrine,3,8,0.057209679
+342,W14103137-AH18.15N,0.2,3.5,1.85,Fine,Glaciolacustrine,3,45,0.121837769
+343,W14103137-AH18.15S,5.5,5.8,5.65,Fine,Glaciolacustrine,3,45,0.108134528
+344,W14103137-AH18.15S,1.2,5.5,3.35,Fine,Glaciolacustrine,3,45,0.116260751
+345,W14103137-AH18.15S,0,1.2,0.6,Fine,Glaciolacustrine,3,87,0.244313222
+346,W14103137-AH48.9N,3.6,6.1,4.85,Fine,Glaciolacustrine,3,45,0.110903686
+347,W14103137-AH48.9S,1.5,6.1,3.8,Fine,Glaciolacustrine,3,45,0.114630797
+348,W14103137-CR15N,6.1,13.4,9.75,Fine,Glaciolacustrine,3,45,0.094865247
+349,W14103137-CR15N,1.2,6.1,3.65,Fine,Glaciolacustrine,3,45,0.115171925
+350,W14103137-CR15N,15.1,21,18.05,Fine,Glaciolacustrine,3,45,0.072324815
+351,W14103137-CR15N,13.4,15.1,14.25,Fine,Glaciolacustrine,3,45,0.081970452
+352,W14103137-CR15S,2,4.3,3.15,Fine,Glaciolacustrine,3,45,0.116991521
+353,W14103137-CR17aS,15.7,21,18.35,Fine,Glaciolacustrine,2,8,0.105279833
+354,W14103137-CR17aS,15,15.7,15.35,Fine,Glaciolacustrine,2,45,0.209747607
+355,W14103137-CR18N,8.5,8.8,8.65,Fine,Glaciolacustrine,3,8,0.050609546
+356,W14103137-CR18N,4.3,5.8,5.05,Fine,Glaciolacustrine,3,45,0.11020572
+357,W14103137-CR18N,8.8,10.1,9.45,Fine,Glaciolacustrine,3,45,0.095785367
+358,W14103137-CR18N,6.25,8.5,7.375,Fine,Glaciolacustrine,3,87,0.20293353
+359,W14103137-CR18N,10.1,12.2,11.15,Fine,Glaciolacustrine,3,8,0.046445435
+360,W14103137-CR18N,3.7,4.3,4,Fine,Glaciolacustrine,3,0,0.051178745
+361,W14103137-CR18N,5.8,6.25,6.025,Fine,Glaciolacustrine,3,8,0.055348437
+362,W14103137-CR18N,2.9,3.7,3.3,Fine,Glaciolacustrine,3,45,0.116443077
+363,W14103137-CR18N,12.2,14.1,13.15,Fine,Glaciolacustrine,3,45,0.084969617
+364,W14103137-CR18S,3.4,5.6,4.5,Fine,Glaciolacustrine,3,45,0.112134297
+365,W14103137-CR18S,6.1,7.2,6.65,Fine,Glaciolacustrine,3,8,0.05418465
+366,W14103137-CR18S,10.8,11.9,11.35,Fine,Glaciolacustrine,3,45,0.090088237
+367,W14103137-CR18S,7.4,10.8,9.1,Fine,Glaciolacustrine,3,45,0.096868745
+368,W14103137-CR18S,1.8,3.1,2.45,Fine,Glaciolacustrine,3,8,0.062455867
+369,W14103137-CR18S,5.6,6.1,5.85,Fine,Glaciolacustrine,3,8,0.055678372
+370,W14103137-CR18S,3.1,3.4,3.25,Fine,Glaciolacustrine,3,87,0.227482442
+371,W14103137-CR18S,7.2,7.4,7.3,Fine,Glaciolacustrine,3,8,0.052998121
+372,W14103137-CR21N,2.1,5.2,3.65,Fine,Glaciolacustrine,3,45,0.115171925
+373,W14103137-CR21N,1.5,2.1,1.8,Fine,Glaciolacustrine,3,87,0.236589716
+374,W14103137-CR21N,6.1,6.3,6.2,Fine,Glaciolacustrine,3,8,0.055020291
+375,W14103137-CR21N,5.2,5.9,5.55,Fine,Glaciolacustrine,3,8,0.056248165
+376,W14103137-CR21N,5.9,6.1,6,Fine,Glaciolacustrine,3,45,0.10694195
+377,W14103137-CR23aS,4,4.2,4.1,Fine,Glaciolacustrine,2,45,0.282928512
+378,W14103137-CR23aS,0.4,0.6,0.5,Fine,Glaciolacustrine,2,45,0.309334532
+379,W14103137-CR23aS,1.05,1.5,1.275,Fine,Glaciolacustrine,2,8,0.177211129
+380,W14103137-CR23aS,1.5,1.9,1.7,Fine,Glaciolacustrine,2,45,0.300382569
+381,W14103137-CR23aS,2.4,3.1,2.75,Fine,Glaciolacustrine,2,45,0.292671402
+382,W14103137-CR23aS,3.1,4,3.55,Fine,Glaciolacustrine,2,8,0.165795418
+383,W14103137-CR23aS,2,2.4,2.2,Fine,Glaciolacustrine,2,0,0.151765445
+384,W14103137-CR23aS,1.9,2,1.95,Fine,Glaciolacustrine,2,8,0.173761742
+385,W14103137-CR35aS,1.4,1.5,1.45,Fine,Glaciolacustrine,3,45,0.123362845
+386,W14103137-CR35aS,2.1,2.6,2.35,Fine,Glaciolacustrine,3,45,0.119953973
+387,W14103137-CR35aS,1.5,2.1,1.8,Fine,Glaciolacustrine,3,8,0.063834119
+388,W14103137-CR3S,1.9,2.1,2,Fine,Glaciolacustrine,2,45,0.298167645
+389,W14103137-CR3S,2.6,3,2.8,Fine,Glaciolacustrine,2,8,0.169492997
+390,W14103137-CR3S,3,3.75,3.375,Fine,Glaciolacustrine,2,45,0.288136554
+391,W14103137-CR3S,0.5,0.95,0.725,Fine,Glaciolacustrine,2,45,0.307644909
+392,W14103137-CR3S,10.8,13.85,12.325,Fine,Glaciolacustrine,2,0,0.111108353
+393,W14103137-CR3S,0.95,1.7,1.325,Fine,Glaciolacustrine,2,45,0.303164285
+394,W14103137-CR3S,2.2,2.6,2.4,Fine,Glaciolacustrine,2,45,0.295228977
+395,W14103137-CR4N,4,5.2,4.6,Fine,Glaciolacustrine,2,45,0.279369917
+396,W14103137-CR4N,13.4,15.1,14.25,Fine,Glaciolacustrine,2,0,0.104535898
+397,W14103137-CR4N,5.4,5.7,5.55,Fine,Glaciolacustrine,2,87,0.454519545
+398,W14103137-CR4N,5.2,5.4,5.3,Fine,Glaciolacustrine,2,45,0.274433862
+399,W14103137-CR4N,9.5,9.7,9.6,Fine,Glaciolacustrine,2,45,0.245320426
+400,W14103137-CR4S,5.2,7.1,6.15,Fine,Glaciolacustrine,2,45,0.268512984
+401,W14103137-CR4S,9,11.8,10.4,Fine,Glaciolacustrine,2,45,0.240138311
+402,W14103137-CR4S,11.8,11.9,11.85,Fine,Glaciolacustrine,2,0,0.112783963
+403,W14103137-CR4S,11.9,12.3,12.1,Fine,Glaciolacustrine,2,45,0.229375011
+404,W14103137-CR8N,13.6,19.8,16.7,Fine,Glaciolacustrine,2,8,0.110926475
+405,W14103137-CR8N,12.2,13.6,12.9,Fine,Glaciolacustrine,2,45,0.224427651
+406,W14103137-CR8S,10.2,11.6,10.9,Fine,Glaciolacustrine,2,45,0.236937432
+407,W14103137-CR8S,12.6,16,14.3,Fine,Glaciolacustrine,2,45,0.215951927
+408,W14103137-CR8S,12.5,12.6,12.55,Fine,Glaciolacustrine,2,87,0.394454885
+409,W14103137-CRA3N,3,3.2,3.1,Fine,Glaciolacustrine,3,45,0.117174826
+410,W14103137-CRA3N,2.55,3,2.775,Fine,Glaciolacustrine,3,0,0.053364154
+411,W14103137-S6-BH09,4.5,10,7.25,Fine,Glaciolacustrine,3,0,0.045772753
+412,W14103137-S6-BH09,0.1,4.5,2.3,Fine,Glaciolacustrine,3,0,0.054234328
+413,W14103137-S6-BH14,0.5,3,1.75,Fine,Glaciolacustrine,2,0,0.153825313
+414,174-18,2.4,3,2.7,Coarse,Glaciolacustrine,2,45,0.373056966
+415,174-37,4.1,5.3,4.7,Coarse,Glaciolacustrine,2,8,0.215231972
+416,174-37,1.5,4.1,2.8,Coarse,Glaciolacustrine,2,45,0.372234512
+417,174-39,1.7,6.1,3.9,Coarse,Glaciolacustrine,2,45,0.363236872
+418,174-39,1,1.7,1.35,Coarse,Glaciolacustrine,2,45,0.384229872
+419,174-53,4.6,10.7,7.65,Coarse,Glaciolacustrine,2,8,0.198175387
+420,174-60,0.5,1.5,1,Coarse,Glaciolacustrine,2,8,0.238081793
+421,174-60,3.3,4.6,3.95,Coarse,Glaciolacustrine,2,8,0.21973294
+422,174-60,6.1,10.7,8.4,Coarse,Glaciolacustrine,2,8,0.194003322
+423,19A-06,4,5,4.5,Coarse,Glaciolacustrine,3,0,0.071149476
+424,307-12-3,7.3,8.4,7.85,Coarse,Glaciolacustrine,2,0,0.174017549
+425,307-12-3,2.4,4.6,3.5,Coarse,Glaciolacustrine,2,0,0.197206734
+426,307-12-3,6.1,7.3,6.7,Coarse,Glaciolacustrine,2,0,0.179932739
+427,307-7-10,4.1,9.4,6.75,Coarse,Glaciolacustrine,3,0,0.066009458
+428,307-8-7,4.6,10,7.3,Coarse,Glaciolacustrine,3,8,0.074831207
+429,307-8-8,4,7.9,5.95,Coarse,Glaciolacustrine,3,0,0.067797166
+430,309-03,4.6,5.5,5.05,Coarse,Glaciolacustrine,2,45,0.353930972
+431,309-03,7.6,9.1,8.35,Coarse,Glaciolacustrine,2,8,0.194279392
+432,309-03,3,4.6,3.8,Coarse,Glaciolacustrine,2,45,0.364051028
+433,309-03,5.9,7.2,6.55,Coarse,Glaciolacustrine,2,8,0.204414826
+434,309-03,9.1,10.7,9.9,Coarse,Glaciolacustrine,2,8,0.185858211
+435,309-11,5.8,7.6,6.7,Coarse,Glaciolacustrine,2,45,0.340770167
+436,309-22,5.8,7.6,6.7,Coarse,Glaciolacustrine,2,8,0.203555552
+437,309-22,7.6,10.7,9.15,Coarse,Glaciolacustrine,2,8,0.189897659
+438,309-25,9.1,10.4,9.75,Coarse,Glaciolacustrine,2,45,0.317083927
+439,309-38,0.6,1.5,1.05,Coarse,Glaciolacustrine,2,8,0.237762265
+440,309-51,3,5.8,4.4,Coarse,Glaciolacustrine,2,0,0.192226631
+441,309-51,5.8,6.6,6.2,Coarse,Glaciolacustrine,2,45,0.344733705
+442,312-01,4.6,5,4.8,Coarse,Glaciolacustrine,2,45,0.355944947
+443,312-12,5.8,6.1,5.95,Coarse,Glaciolacustrine,2,0,0.183873469
+444,312-16,6.7,7.6,7.15,Coarse,Glaciolacustrine,2,45,0.337221781
+445,312-16,7.6,8,7.8,Coarse,Glaciolacustrine,2,45,0.33212841
+446,312-16,1.2,2.4,1.8,Coarse,Glaciolacustrine,2,45,0.380491414
+447,312-16,8,9.1,8.55,Coarse,Glaciolacustrine,2,45,0.326299593
+448,325-1-13,5.5,10,7.75,Coarse,Glaciolacustrine,2,8,0.19761527
+449,325-1-15,1.8,6.4,4.1,Coarse,Glaciolacustrine,2,0,0.193876038
+450,325-1-17,2,11.3,6.65,Coarse,Glaciolacustrine,2,8,0.20384168
+451,325-1-2,2.1,6.1,4.1,Coarse,Glaciolacustrine,2,8,0.218827413
+452,325-1-21,1.7,10.4,6.05,Coarse,Glaciolacustrine,2,8,0.207298344
+453,325-1-23,6.9,10,8.45,Coarse,Glaciolacustrine,2,8,0.193727547
+454,325-1-25,4.3,5.6,4.95,Coarse,Glaciolacustrine,2,0,0.189230272
+455,325-1-27,2.9,5.8,4.35,Coarse,Glaciolacustrine,2,0,0.192500795
+456,325-1-28,2.7,7.8,5.25,Coarse,Glaciolacustrine,2,0,0.187610901
+457,325-1-29,2.4,7,4.7,Coarse,Glaciolacustrine,2,0,0.190587836
+458,325-1-3,3.7,6.9,5.3,Coarse,Glaciolacustrine,3,8,0.07992575
+459,325-1-34,0.8,10,5.4,Coarse,Glaciolacustrine,2,8,0.21109125
+460,325-1-35,0.8,10,5.4,Coarse,Glaciolacustrine,2,8,0.21109125
+461,325-1-39,0.6,5.8,3.2,Coarse,Glaciolacustrine,2,0,0.198888043
+462,325-1-4,2.4,10,6.2,Coarse,Glaciolacustrine,2,8,0.206430175
+463,325-1-40,0.9,7.3,4.1,Coarse,Glaciolacustrine,2,0,0.193876038
+464,325-1-5,2.4,10,6.2,Coarse,Glaciolacustrine,3,8,0.077595922
+465,325-1-7,4.9,8.7,6.8,Coarse,Glaciolacustrine,3,8,0.07607673
+466,325-1-9,3.1,7.2,5.15,Coarse,Glaciolacustrine,3,0,0.069628613
+467,ENG.YARC03097-01//TVC_H (NTGS 5),13,16.7,14.85,Coarse,Glaciolacustrine,3,0,0.050178925
+468,ENG.YARC03097-01//TVC_H (NTGS 5),11.7,13,12.35,Coarse,Glaciolacustrine,3,8,0.063244457
+469,ENG.YARC03097-01//TVC_H (NTGS 5),17.6,20.1,18.85,Coarse,Glaciolacustrine,3,0,0.043721306
+470,I401A - 20,0,1.1,0.55,Coarse,Glaciolacustrine,2,0,0.214202794
+471,KP7 - P1,7.8,9.8,8.8,Coarse,Glaciolacustrine,3,8,0.071204005
+472,KP7 - P2,1.5,2.3,1.9,Coarse,Glaciolacustrine,2,8,0.23237515
+473,174-37,5.3,6.1,5.7,Coarse,Glaciolacustrine,2,8,0.209334449
+474,174-53,1.5,4.6,3.05,Coarse,Glaciolacustrine,2,8,0.225222041
+475,19A-01,6.4,8.2,7.3,Coarse,Glaciolacustrine,2,0,0.176827387
+476,19A-05,3.7,4.3,4,Coarse,Glaciolacustrine,2,0,0.194428201
+477,19A-10,1.5,4.6,3.05,Coarse,Glaciolacustrine,2,8,0.225222041
+478,19A-10,5.2,13,9.1,Coarse,Glaciolacustrine,2,45,0.322058641
+479,309-22,1,2.6,1.8,Coarse,Glaciolacustrine,2,8,0.233004524
+480,309-25,1.5,7.6,4.55,Coarse,Glaciolacustrine,2,8,0.216126831
+481,309-25,8,9.1,8.55,Coarse,Glaciolacustrine,2,45,0.326299593
+482,309-25,13.7,15.2,14.45,Coarse,Glaciolacustrine,2,8,0.162755893
+483,309-25,10.7,13.7,12.2,Coarse,Glaciolacustrine,2,8,0.173880874
+484,309-25,7.6,8,7.8,Coarse,Glaciolacustrine,2,45,0.33212841
+485,309-29,1.5,7.4,4.45,Coarse,Glaciolacustrine,2,8,0.216724886
+486,309-38,1.5,5.5,3.5,Coarse,Glaciolacustrine,2,8,0.222465509
+487,312-01,1.2,4.6,2.9,Coarse,Glaciolacustrine,2,8,0.226146205
+488,312-01,5,9.1,7.05,Coarse,Glaciolacustrine,2,45,0.338008755
+489,312-04,6.1,8.2,7.15,Coarse,Glaciolacustrine,2,8,0.200993728
+490,312-04,5.5,6.1,5.8,Coarse,Glaciolacustrine,2,45,0.347920086
+491,312-04,1,5.5,3.25,Coarse,Glaciolacustrine,2,8,0.223993959
+492,312-12,3,5.8,4.4,Coarse,Glaciolacustrine,2,0,0.192226631
+493,312-23,2.7,4,3.35,Coarse,Glaciolacustrine,2,8,0.223381692
+494,325-1-14,7.5,9.2,8.35,Coarse,Glaciolacustrine,2,8,0.194279392
+495,325-1-15,6.4,9.8,8.1,Coarse,Glaciolacustrine,2,0,0.172751928
+496,325-1-16,4.9,10,7.45,Coarse,Glaciolacustrine,2,0,0.176057589
+497,325-1-26,5.6,9.5,7.55,Coarse,Glaciolacustrine,2,0,0.17554584
+498,GSC3 - 16,13.1,15.2,14.15,Coarse,Glaciolacustrine,3,45,0.114355612
+499,I401A - 20,2.6,3.8,3.2,Coarse,Glaciolacustrine,2,0,0.198888043
+500,I401A - 57,4.3,6.1,5.2,Coarse,Glaciolacustrine,2,0,0.187880062
+501,W14103137-CRA3N,3.2,3.6,3.4,Coarse,Glaciolacustrine,3,8,0.085050776
+502,170-1-5,2.4,7.2,4.8,Organics,Glaciolacustrine,2,87,0.550604885
+503,19A-11,0,0.2,0.1,Organics,Glaciolacustrine,2,8,0.243492144
+504,2.45-1-15,2.1,3.7,2.9,Organics,Glaciolacustrine,2,87,0.567077178
+505,2.45-1-15,0.15,2.1,1.125,Organics,Glaciolacustrine,2,45,0.385602273
+506,309-51,0.1,0.6,0.35,Organics,Glaciolacustrine,2,0,0.215033748
+507,312-12,0,1.5,0.75,Organics,Glaciolacustrine,2,8,0.239297277
+508,312-18,0.2,0.6,0.4,Organics,Glaciolacustrine,2,8,0.241549927
+509,325-1-34,0,0.3,0.15,Organics,Glaciolacustrine,2,8,0.243167713
+510,AH109.6C,3.4,5,4.2,Organics,Glaciolacustrine,3,8,0.082695208
+511,AH109.6C,0.3,1.9,1.1,Organics,Glaciolacustrine,3,45,0.169775442
+512,AH109.6C,2.6,3.4,3,Organics,Glaciolacustrine,3,45,0.160520546
+513,AH109.6C,1.9,2.6,2.25,Organics,Glaciolacustrine,3,8,0.088120588
+514,AH109.6N,0.6,1.3,0.95,Organics,Glaciolacustrine,3,87,0.313930698
+515,AH109.6N,1.3,3,2.15,Organics,Glaciolacustrine,3,45,0.16461002
+516,AH109.6S,4,4.6,4.3,Organics,Glaciolacustrine,3,8,0.082425183
+517,AH109.6S,0.2,0.6,0.4,Organics,Glaciolacustrine,3,45,0.173289401
+518,AH109.6S,3.3,4,3.65,Organics,Glaciolacustrine,3,45,0.157448442
+519,AH112.2S,0,0.3,0.15,Organics,Glaciolacustrine,3,0,0.081959708
+520,ENG.YARC03097-01//HUS_P (NTGS 8),2.9,3.7,3.3,Organics,Glaciolacustrine,3,8,0.085161147
+521,ENG.YARC03097-01//HUS_P (NTGS 8),0,0.9,0.45,Organics,Glaciolacustrine,3,87,0.317733598
+522,ENG.YARC03097-01//HUS_P (NTGS 8),1.5,2.9,2.2,Organics,Glaciolacustrine,3,8,0.088263763
+523,ENG.YARC03097-01//HUS_P (NTGS 8),4.5,5.4,4.95,Organics,Glaciolacustrine,3,8,0.080689129
+524,ENG.YARC03097-01//HUS_P (NTGS 8),3.7,4.5,4.1,Organics,Glaciolacustrine,3,45,0.155349416
+525,ENG.YARC03097-01//HUS_P (NTGS 8),0.9,1.5,1.2,Organics,Glaciolacustrine,3,45,0.169278054
+526,ENG.YARC03097-01//TVC_H (NTGS 5),1.4,2,1.7,Organics,Glaciolacustrine,3,45,0.166808323
+527,ENG.YARC03097-01//TVC_H (NTGS 5),1.2,1.4,1.3,Organics,Glaciolacustrine,3,45,0.168781814
+528,ENG.YARC03097-01//TVC_P (NTGS 4),1.2,2.6,1.9,Organics,Glaciolacustrine,3,45,0.165828445
+529,ENG.YARC03097-01//TVC_P (NTGS 4),2.6,4.1,3.35,Organics,Glaciolacustrine,3,87,0.296025734
+530,ENG.YARC03097-01//TVC_P (NTGS 4),0,1.2,0.6,Organics,Glaciolacustrine,3,8,0.092955476
+531,GSC3 - 31,0,0.8,0.4,Organics,Glaciolacustrine,3,8,0.093557155
+532,GSC4 - 14,0.3,1.8,1.05,Organics,Glaciolacustrine,3,45,0.170024568
+533,GSC4 - 14,0,0.3,0.15,Organics,Glaciolacustrine,3,8,0.094314077
+534,GSC4 - 16,0,1.5,0.75,Organics,Glaciolacustrine,3,45,0.171525361
+535,GSC4 - 18,0,1.2,0.6,Organics,Glaciolacustrine,3,45,0.172279647
+536,GSC4 - 19,0,1.5,0.75,Organics,Glaciolacustrine,3,45,0.171525361
+537,GSC4 - 49,0,1.5,0.75,Organics,Glaciolacustrine,3,45,0.171525361
+538,GSC4 - 55,0,0.9,0.45,Organics,Glaciolacustrine,3,45,0.17303653
+539,GSC4 - 6,0,0.3,0.15,Organics,Glaciolacustrine,3,45,0.174558096
+540,GSC4 - 7,0,1.2,0.6,Organics,Glaciolacustrine,3,8,0.092955476
+541,GSC4 - 8,0,0.2,0.1,Organics,Glaciolacustrine,3,45,0.174812703
+542,GSC4 - 9,0,1.3,0.65,Organics,Glaciolacustrine,3,45,0.17202793
+543,PW10 - 18,2.1,3.7,2.9,Organics,Glaciolacustrine,2,8,0.225774885
+544,PW10 - 8,0.2,1.4,0.8,Organics,Glaciolacustrine,3,8,0.092357212
+545,PW12 - P3,0,0.6,0.3,Organics,Glaciolacustrine,3,8,0.093859279
+546,PW13 - 58,0,0.2,0.1,Organics,Glaciolacustrine,3,45,0.174812703
+547,PW6 - P21,0,0.3,0.15,Organics,Glaciolacustrine,3,8,0.094314077
+548,PW6 - P6,0,0.2,0.1,Organics,Glaciolacustrine,3,45,0.174812703
+549,PW9 - P6,0.2,1.8,1,Organics,Glaciolacustrine,3,8,0.091762348
+550,PW9 - P8,0,1.5,0.75,Organics,Glaciolacustrine,3,45,0.171525361
+551,W14103137-AH48.9N,0,0.6,0.3,Organics,Glaciolacustrine,3,0,0.081558182
+552,W14103137-AH48.9S,0,0.6,0.3,Organics,Glaciolacustrine,3,0,0.081558182
+553,W14103137-AH48.9S,0.6,1.5,1.05,Organics,Glaciolacustrine,3,45,0.170024568
+554,W14103137-AH90.3N,0.3,0.6,0.45,Organics,Glaciolacustrine,3,45,0.17303653
+555,W14103137-AH90.3N,1.8,2.3,2.05,Organics,Glaciolacustrine,3,45,0.165096535
+556,W14103137-AH90.3N,0.6,1.8,1.2,Organics,Glaciolacustrine,3,8,0.09117087
+557,W14103137-CR15N,0,1.2,0.6,Organics,Glaciolacustrine,3,45,0.172279647
+558,W14103137-CR15S,1.2,2,1.6,Organics,Glaciolacustrine,3,45,0.167299978
+559,W14103137-CR15S,0,1.2,0.6,Organics,Glaciolacustrine,3,45,0.172279647
+560,W14103137-CR17aS,0.1,1.2,0.65,Organics,Glaciolacustrine,2,45,0.389568378
+561,W14103137-CR17aS,1.2,2.4,1.8,Organics,Glaciolacustrine,2,45,0.379992208
+562,W14103137-CR18N,0,1.8,0.9,Organics,Glaciolacustrine,3,8,0.092059356
+563,W14103137-CR18S,0,1.8,0.9,Organics,Glaciolacustrine,3,87,0.314309884
+564,W14103137-CR21N,1.3,1.5,1.4,Organics,Glaciolacustrine,3,8,0.090582763
+565,W14103137-CR21N,0.8,1.3,1.05,Organics,Glaciolacustrine,3,8,0.091614161
+566,W14103137-CR23aS,0,0.4,0.2,Organics,Glaciolacustrine,2,45,0.39333919
+567,W14103137-CR35aN,1.8,2,1.9,Organics,Glaciolacustrine,3,87,0.306773387
+568,W14103137-CR3N,0.4,0.5,0.45,Organics,Glaciolacustrine,2,8,0.241227244
+569,W14103137-CR3N,1.4,2.8,2.1,Organics,Glaciolacustrine,2,87,0.573971163
+570,W14103137-CR3N,1.15,1.4,1.275,Organics,Glaciolacustrine,2,45,0.384352921
+571,W14103137-CR3N,0.5,1.15,0.825,Organics,Glaciolacustrine,2,45,0.388105461
+572,W14103137-CR3S,1.7,1.9,1.8,Organics,Glaciolacustrine,2,45,0.379992208
+573,W14103137-CR3S,2.1,2.2,2.15,Organics,Glaciolacustrine,2,45,0.377095676
+574,W14103137-CR3S,0,0.5,0.25,Organics,Glaciolacustrine,2,8,0.242519724
+575,W14103137-CR4N,1.2,1.8,1.5,Organics,Glaciolacustrine,2,45,0.382481736
+576,W14103137-CR4N,0.6,1,0.8,Organics,Glaciolacustrine,2,45,0.388314327
+577,W14103137-CR4N,0.2,0.6,0.4,Organics,Glaciolacustrine,2,45,0.391661684
+578,W14103137-CR4S,2.1,3.2,2.65,Organics,Glaciolacustrine,2,45,0.372972904
+579,W14103137-CR4S,1.2,1.6,1.4,Organics,Glaciolacustrine,2,45,0.38331295
+580,W14103137-CR4S,0.3,0.5,0.4,Organics,Glaciolacustrine,2,45,0.391661684
+581,W14103137-CR8N,1,2.4,1.7,Organics,Glaciolacustrine,2,45,0.380821361
+582,W14103137-CR8S,0.6,1.3,0.95,Organics,Glaciolacustrine,2,45,0.387061744
+583,W14103137-CR8S,1.7,2.1,1.9,Organics,Glaciolacustrine,2,8,0.231996729
+584,W14103137-CR8S,4.9,5.4,5.15,Organics,Glaciolacustrine,2,0,0.187825039
+585,W14103137-CRA12S,0.3,0.95,0.625,Organics,Glaciolacustrine,3,45,0.172153752
+586,W14103137-CRA3N,2.3,2.4,2.35,Organics,Glaciolacustrine,3,45,0.163640408
+587,W14103137-CRA3N,0.1,1.4,0.75,Organics,Glaciolacustrine,3,45,0.171525361
+588,W14103137-CRA3N,1.4,2.3,1.85,Organics,Glaciolacustrine,3,45,0.166072986
+589,170-1-17,0.6,2.3,1.45,Coarse,Glaciolacustrine,2,0,0.208908163
+590,170-1-18,5.5,6.9,6.2,Coarse,Glaciolacustrine,3,87,0.275971596
+591,170-1-37,0.6,2.1,1.35,Coarse,Glaciolacustrine,2,8,0.235851248
+592,170-1-37,2.1,3.5,2.8,Coarse,Glaciolacustrine,2,0,0.201146359
+593,172-2-2,4,4.9,4.45,Coarse,Glaciolacustrine,3,8,0.082183417
+594,172-2-4,2.1,4,3.05,Coarse,Glaciolacustrine,2,45,0.3701816
+595,172-2-4,5.2,6.9,6.05,Coarse,Glaciolacustrine,2,0,0.183344239
+596,172-2-6,1.2,1.9,1.55,Coarse,Glaciolacustrine,2,0,0.208325802
+597,174-60,5.8,6.1,5.95,Coarse,Glaciolacustrine,2,8,0.207878605
+598,174-60,3,3.3,3.15,Coarse,Glaciolacustrine,2,8,0.224607409
+599,177 South - 3,5.6,6.1,5.85,Coarse,Glaciolacustrine,3,45,0.147668597
+600,177 South - 5,1.5,2.2,1.85,Coarse,Glaciolacustrine,2,45,0.380076888
+601,19A-01,1.5,3,2.25,Coarse,Glaciolacustrine,2,45,0.376766984
+602,19A-01,4.6,6.1,5.35,Coarse,Glaciolacustrine,2,45,0.351520985
+603,19A-01,3,4.6,3.8,Coarse,Glaciolacustrine,2,45,0.364051028
+604,19A-03,3,6.1,4.55,Coarse,Glaciolacustrine,3,45,0.153549571
+605,19A-04,6.9,7.4,7.15,Coarse,Glaciolacustrine,2,8,0.200993728
+606,19A-04,9.1,9.9,9.5,Coarse,Glaciolacustrine,2,0,0.165797447
+607,19A-04,4.6,6.9,5.75,Coarse,Glaciolacustrine,2,0,0.184935443
+608,19A-04,7.4,8,7.7,Coarse,Glaciolacustrine,2,0,0.174780391
+609,19A-04,3,4,3.5,Coarse,Glaciolacustrine,2,8,0.222465509
+610,19A-04,4,4.6,4.3,Coarse,Glaciolacustrine,2,45,0.35998807
+611,19A-04,8,9.1,8.55,Coarse,Glaciolacustrine,2,8,0.193176883
+612,19A-04,9.9,10.7,10.3,Coarse,Glaciolacustrine,2,8,0.183730837
+613,19A-09,1.5,3.7,2.6,Coarse,Glaciolacustrine,2,45,0.37388015
+614,19A-09,4.6,6.1,5.35,Coarse,Glaciolacustrine,2,45,0.351520985
+615,19A-11,1.8,3,2.4,Coarse,Glaciolacustrine,2,45,0.375528692
+616,2.45-1-12,2.1,3.1,2.6,Coarse,Glaciolacustrine,2,0,0.202282623
+617,2.45-1-4,1.7,2.4,2.05,Coarse,Glaciolacustrine,2,8,0.231433296
+618,307-12-3,4.6,6.1,5.35,Coarse,Glaciolacustrine,2,0,0.187073462
+619,307-7-1,1.8,2.7,2.25,Coarse,Glaciolacustrine,2,45,0.376766984
+620,307-7-6,0.9,2.3,1.6,Coarse,Glaciolacustrine,2,8,0.234266798
+621,307-7-9,5.5,8.2,6.85,Coarse,Glaciolacustrine,3,8,0.075951345
+622,307-8-8,7.9,10,8.95,Coarse,Glaciolacustrine,3,0,0.061311721
+623,309-29,1.2,1.5,1.35,Coarse,Glaciolacustrine,2,0,0.20949171
+624,309-29,8,11.6,9.8,Coarse,Glaciolacustrine,2,0,0.164336409
+625,309-29,7.4,8,7.7,Coarse,Glaciolacustrine,2,8,0.197895181
+626,309-51,1.5,3,2.25,Coarse,Glaciolacustrine,2,0,0.204282491
+627,312-04,8.5,10.7,9.6,Coarse,Glaciolacustrine,2,45,0.318228311
+628,312-08,6.1,7.5,6.8,Coarse,Glaciolacustrine,2,0,0.17941227
+629,312-08,1.5,4.6,3.05,Coarse,Glaciolacustrine,2,0,0.199732692
+630,312-08,7.5,9.1,8.3,Coarse,Glaciolacustrine,2,45,0.328236724
+631,312-08,4.6,6.1,5.35,Coarse,Glaciolacustrine,2,8,0.211385088
+632,312-12,6.1,7.6,6.85,Coarse,Glaciolacustrine,2,0,0.179152472
+633,312-12,7.6,9.1,8.35,Coarse,Glaciolacustrine,2,45,0.327848831
+634,312-16,2.4,3.4,2.9,Coarse,Glaciolacustrine,2,45,0.371412793
+635,312-18,1.5,2.7,2.1,Coarse,Glaciolacustrine,2,0,0.205144023
+636,312-18,2.7,3.8,3.25,Coarse,Glaciolacustrine,2,8,0.223993959
+637,312-23,4,4.6,4.3,Coarse,Glaciolacustrine,2,8,0.217624191
+638,312-23,1.8,2.7,2.25,Coarse,Glaciolacustrine,2,45,0.376766984
+639,325-1-11,6.9,8.8,7.85,Coarse,Glaciolacustrine,2,8,0.197056335
+640,325-1-11,1.2,6.9,4.05,Coarse,Glaciolacustrine,2,8,0.219128959
+641,325-1-13,1.4,5.5,3.45,Coarse,Glaciolacustrine,2,8,0.222770608
+642,325-1-14,2.4,7.5,4.95,Coarse,Glaciolacustrine,2,8,0.21374647
+643,325-1-16,0.9,4.9,2.9,Coarse,Glaciolacustrine,2,0,0.200580004
+644,325-1-23,0.6,6.9,3.75,Coarse,Glaciolacustrine,2,8,0.220944455
+645,325-1-25,2.1,4.3,3.2,Coarse,Glaciolacustrine,2,8,0.224300537
+646,325-1-25,5.6,7,6.3,Coarse,Glaciolacustrine,2,0,0.182026282
+647,325-1-26,1.2,5.6,3.4,Coarse,Glaciolacustrine,2,0,0.197765988
+648,325-1-27,5.8,7,6.4,Coarse,Glaciolacustrine,2,0,0.181501145
+649,325-1-27,0.9,2.9,1.9,Coarse,Glaciolacustrine,2,0,0.206296882
+650,325-1-28,1.4,2.7,2.05,Coarse,Glaciolacustrine,2,0,0.205431793
+651,325-1-29,1.1,2.4,1.75,Coarse,Glaciolacustrine,2,0,0.20716464
+652,325-1-39,5.8,7.3,6.55,Coarse,Glaciolacustrine,2,0,0.180715629
+653,325-1-40,7.3,8.5,7.9,Coarse,Glaciolacustrine,2,0,0.173763847
+654,325-1-6,3.2,7.9,5.55,Coarse,Glaciolacustrine,3,0,0.068707367
+655,325-1-7,2.7,4.9,3.8,Coarse,Glaciolacustrine,3,8,0.083948105
+656,325-1-7,8.7,9.2,8.95,Coarse,Glaciolacustrine,3,8,0.070850152
+657,325-1-9,7.2,8.5,7.85,Coarse,Glaciolacustrine,3,0,0.063621182
+658,AH109.6C,7.5,8.1,7.8,Coarse,Glaciolacustrine,3,45,0.139193684
+659,AH109.6C,8.1,9.4,8.75,Coarse,Glaciolacustrine,3,8,0.071322309
+660,AH109.6N,5.2,5.7,5.45,Coarse,Glaciolacustrine,3,8,0.079533147
+661,AH109.6S,4,5.8,4.9,Coarse,Glaciolacustrine,3,45,0.151947839
+662,AH112.2C,7.8,10.4,9.1,Coarse,Glaciolacustrine,2,0,0.167761488
+663,AH112.2C,0,1,0.5,Coarse,Glaciolacustrine,2,45,0.391328303
+664,AH112.2N,5.2,6,5.6,Coarse,Glaciolacustrine,3,8,0.079142272
+665,AH112.2S,5.2,6.1,5.65,Coarse,Glaciolacustrine,3,0,0.068478786
+666,GSC3 - 16,7.6,8.7,8.15,Coarse,Glaciolacustrine,3,8,0.072755868
+667,GSC3 - 16,11.6,12.2,11.9,Coarse,Glaciolacustrine,3,45,0.122687867
+668,GSC3 - 16,8.7,11.3,10,Coarse,Glaciolacustrine,3,0,0.059178732
+669,GSC3 - 16,11.3,11.6,11.45,Coarse,Glaciolacustrine,3,8,0.06518207
+670,GSC3 - 24,4.9,6.6,5.75,Coarse,Glaciolacustrine,3,45,0.148114364
+671,GSC4 - 40,3,5.2,4.1,Coarse,Glaciolacustrine,3,0,0.072100238
+672,GSC4 - 44,9.1,10.7,9.9,Coarse,Glaciolacustrine,3,45,0.130521374
+673,GSC4 - 44,5.2,9.1,7.15,Coarse,Glaciolacustrine,3,0,0.065131735
+674,GSC4 - 44,4,5.2,4.6,Coarse,Glaciolacustrine,3,8,0.081780912
+675,I401A - 20,4.7,5.6,5.15,Coarse,Glaciolacustrine,2,8,0.212563406
+676,I401A - 20,4.1,4.7,4.4,Coarse,Glaciolacustrine,2,0,0.192226631
+677,I401A - 33,3.1,4.4,3.75,Coarse,Glaciolacustrine,2,0,0.195813775
+678,I401A - 35,0,0.5,0.25,Coarse,Glaciolacustrine,2,0,0.215989022
+679,I401A - 52,5.6,10.2,7.9,Coarse,Glaciolacustrine,2,0,0.173763847
+680,I401A - 57,6.1,7.6,6.85,Coarse,Glaciolacustrine,2,0,0.179152472
+681,I401A - 59,3,5.8,4.4,Coarse,Glaciolacustrine,2,0,0.192226631
+682,I401A - 60,6.7,10.7,8.7,Coarse,Glaciolacustrine,2,0,0.169743862
+683,I401A - 61,4.6,6.1,5.35,Coarse,Glaciolacustrine,2,0,0.187073462
+684,I401A - 68,0,1.8,0.9,Coarse,Glaciolacustrine,2,0,0.212132352
+685,KP7 - P1,9.8,15.2,12.5,Coarse,Glaciolacustrine,3,0,0.054370105
+686,PW10 - 12,1.8,3.1,2.45,Coarse,Glaciolacustrine,2,0,0.203137931
+687,PW10 - 14,3.1,10.7,6.9,Coarse,Glaciolacustrine,3,0,0.065679062
+688,PW10 - 18,8,10.7,9.35,Coarse,Glaciolacustrine,2,0,0.166531818
+689,PW10 - 30,7.9,10.7,9.3,Coarse,Glaciolacustrine,3,0,0.060593062
+690,PW10 - 8,5,10.7,7.85,Coarse,Glaciolacustrine,3,0,0.063621182
+691,PW10 - P4,3.1,7.6,5.35,Coarse,Glaciolacustrine,3,0,0.069166603
+692,PW11 - 10,2.7,5.3,4,Coarse,Glaciolacustrine,2,0,0.194428201
+693,PW11 - 16,1.8,3.8,2.8,Coarse,Glaciolacustrine,3,0,0.075269834
+694,PW13 - P3,8,9.1,8.55,Coarse,Glaciolacustrine,3,0,0.062142545
+695,PW18 - P2,0,1.5,0.75,Coarse,Glaciolacustrine,2,0,0.213017905
+696,PW6 - P5,2.1,3.7,2.9,Coarse,Glaciolacustrine,2,8,0.226146205
+697,PW6 - P5,3.7,4.4,4.05,Coarse,Glaciolacustrine,2,0,0.194151972
+698,PW6 - P5,8,8.5,8.25,Coarse,Glaciolacustrine,2,0,0.171996021
+699,PW6 - P5,4.4,8,6.2,Coarse,Glaciolacustrine,2,0,0.182552588
+700,PW9 - P1,4.6,6.1,5.35,Coarse,Glaciolacustrine,3,45,0.149908422
+701,PW9 - P1,3,4.6,3.8,Coarse,Glaciolacustrine,3,8,0.083948105
+702,W14103137-AH18.15N,3.5,4.9,4.2,Coarse,Glaciolacustrine,3,8,0.082858189
+703,W14103137-AH90.3N,3.8,4.3,4.05,Coarse,Glaciolacustrine,3,8,0.08326542
+704,W14103137-CR23aS,18.3,21.3,19.8,Coarse,Glaciolacustrine,2,8,0.138586264
+705,W14103137-CR23aS,4.2,4.3,4.25,Coarse,Glaciolacustrine,2,45,0.360393481
+706,W14103137-CR23aS,12.7,15.25,13.975,Coarse,Glaciolacustrine,2,0,0.145054013
+707,W14103137-CR23aS,4.3,7.6,5.95,Coarse,Glaciolacustrine,2,0,0.183873469
+708,W14103137-CR23aS,15.25,18.3,16.775,Coarse,Glaciolacustrine,2,8,0.151863609
+709,W14103137-CR23aS,12,12.55,12.275,Coarse,Glaciolacustrine,2,8,0.173500662
+710,W14103137-CR23aS,8.2,12,10.1,Coarse,Glaciolacustrine,2,0,0.16288562
+711,W14103137-CR23aS,0.6,1.05,0.825,Coarse,Glaciolacustrine,2,8,0.239202445
+712,W14103137-CR23aS,7.6,8.2,7.9,Coarse,Glaciolacustrine,2,8,0.196777311
+713,W14103137-CR31N,4.1,6.2,5.15,Coarse,Glaciolacustrine,3,45,0.150812065
+714,W14103137-CR31N,3.8,4.1,3.95,Coarse,Glaciolacustrine,3,0,0.072459718
+715,W14103137-CR31N,8.9,21.1,15,Coarse,Glaciolacustrine,3,8,0.05783973
+716,W14103137-CR31N,7.6,8.9,8.25,Coarse,Glaciolacustrine,3,0,0.062772375
+717,W14103137-CR31N,6.2,7.6,6.9,Coarse,Glaciolacustrine,3,8,0.075826145
+718,W14103137-CR35aN,6.8,10,8.4,Coarse,Glaciolacustrine,3,8,0.072155423
+719,W14103137-CR35aN,15,21.1,18.05,Coarse,Glaciolacustrine,3,8,0.052143459
+720,W14103137-CR35aN,10,15,12.5,Coarse,Glaciolacustrine,3,8,0.06292666
+721,W14103137-CR35aS,14.8,16.2,15.5,Coarse,Glaciolacustrine,3,8,0.056868535
+722,W14103137-CR35aS,7.6,12.5,10.05,Coarse,Glaciolacustrine,3,8,0.068303409
+723,W14103137-CR35aS,16.2,18.9,17.55,Coarse,Glaciolacustrine,3,8,0.053040575
+724,W14103137-CR3N,5.6,12.5,9.05,Coarse,Glaciolacustrine,2,0,0.168008281
+725,W14103137-CR3N,3.9,5.6,4.75,Coarse,Glaciolacustrine,2,87,0.5515638
+726,W14103137-CR3S,3.75,4.2,3.975,Coarse,Glaciolacustrine,2,45,0.362626766
+727,W14103137-CR4N,5.7,8.5,7.1,Coarse,Glaciolacustrine,2,8,0.20127719
+728,W14103137-CR4N,3.3,4,3.65,Coarse,Glaciolacustrine,2,45,0.365273712
+729,W14103137-CR4N,8.5,9.5,9,Coarse,Glaciolacustrine,2,8,0.190713488
+730,W14103137-CR4S,8.8,9,8.9,Coarse,Glaciolacustrine,2,45,0.323597486
+731,W14103137-CR4S,8.3,8.5,8.4,Coarse,Glaciolacustrine,2,8,0.194003322
+732,W14103137-CR4S,7.5,8.3,7.9,Coarse,Glaciolacustrine,2,0,0.173763847
+733,W14103137-CR4S,7.1,7.5,7.3,Coarse,Glaciolacustrine,2,45,0.336042998
+734,W14103137-CR8N,2.4,2.5,2.45,Coarse,Glaciolacustrine,2,8,0.228934639
+735,W14103137-CRA12S,3.4,4.6,4,Coarse,Glaciolacustrine,3,8,0.083401559
+736,W14103137-CRA12S,6.5,21,13.75,Coarse,Glaciolacustrine,3,8,0.06033434
+737,W14103137-CRA3N,3.6,3.9,3.75,Coarse,Glaciolacustrine,3,0,0.072941539
+738,W14103137-CRA3N,11.5,21.3,16.4,Coarse,Glaciolacustrine,3,8,0.055157869
+739,W14103137-CRA3N,3.9,7.6,5.75,Coarse,Glaciolacustrine,3,8,0.078753117
+740,W14103137-CRA3N,7.6,10.7,9.15,Coarse,Glaciolacustrine,3,0,0.060900114
+741,170-1-17,4.6,4.9,4.75,Fine,Glaciolacustrine,2,87,0.461503317
+742,170-1-18,5.2,5.5,5.35,Fine,Glaciolacustrine,3,0,0.048865674
+743,170-1-18,4.3,5.2,4.75,Fine,Glaciolacustrine,3,87,0.218322232
+744,170-1-18,0.1,2.3,1.2,Fine,Glaciolacustrine,3,0,0.056299571
+745,170-1-37,0,0.6,0.3,Fine,Glaciolacustrine,2,8,0.182287104
+746,170-1-41,0.1,6.9,3.5,Fine,Glaciolacustrine,3,0,0.052060638
+747,172-2-2,2.9,4,3.45,Fine,Glaciolacustrine,3,45,0.115896834
+748,172-2-2,0.1,2.9,1.5,Fine,Glaciolacustrine,3,8,0.064479513
+749,172-2-3,4.3,4.9,4.6,Fine,Glaciolacustrine,3,87,0.219226268
+750,172-2-3,2.1,4.3,3.2,Fine,Glaciolacustrine,3,45,0.116808461
+751,172-2-3,0,2.1,1.05,Fine,Glaciolacustrine,3,0,0.056586702
+752,172-2-4,0,2.1,1.05,Fine,Glaciolacustrine,2,0,0.157074426
+753,172-2-4,4,5.2,4.6,Fine,Glaciolacustrine,2,0,0.141155653
+754,172-2-6,0,1.2,0.6,Fine,Glaciolacustrine,2,8,0.180713459
+755,172-2-7,2.7,4.3,3.5,Fine,Glaciolacustrine,3,8,0.060286579
+756,172-2-7,0.6,2.7,1.65,Fine,Glaciolacustrine,3,0,0.055446154
+757,172-2-7,4.9,6.1,5.5,Fine,Glaciolacustrine,3,45,0.108649145
+758,172-2-8,3.7,4.6,4.15,Fine,Glaciolacustrine,3,8,0.058978335
+759,172-2-8,0,3.7,1.85,Fine,Glaciolacustrine,3,0,0.05507067
+760,172-2-9,0,6.1,3.05,Fine,Glaciolacustrine,3,45,0.117358376
+761,174-22,0.1,0.5,0.3,Fine,Glaciolacustrine,3,45,0.127837744
+762,174-37,0.1,1.5,0.8,Fine,Glaciolacustrine,2,45,0.307082835
+763,19A-03,0.2,1.5,0.85,Fine,Glaciolacustrine,3,45,0.125680767
+764,19A-04,0.2,1.5,0.85,Fine,Glaciolacustrine,2,8,0.179410112
+765,2.45-1-12,3.1,6.1,4.6,Fine,Glaciolacustrine,2,0,0.141155653
+766,2.45-1-12,0.15,2.1,1.125,Fine,Glaciolacustrine,2,87,0.493296979
+767,2.45-1-19,0.15,6.9,3.525,Fine,Glaciolacustrine,3,8,0.060235776
+768,2.45-1-2,5.2,6.1,5.65,Fine,Glaciolacustrine,2,8,0.155782484
+769,2.45-1-3,0.8,2.4,1.6,Fine,Glaciolacustrine,3,8,0.064263726
+770,2.45-1-4,2.4,6.9,4.65,Fine,Glaciolacustrine,2,8,0.160488363
+771,2.45-1-4,0.15,1.7,0.925,Fine,Glaciolacustrine,2,8,0.179020528
+772,2.45-1-5,4,6.7,5.35,Fine,Glaciolacustrine,3,8,0.056630983
+773,2.45-1-6,1.5,4.3,2.9,Fine,Glaciolacustrine,3,8,0.061517614
+774,2.45-1-6,0.2,1.5,0.85,Fine,Glaciolacustrine,3,8,0.065898244
+775,2.45-1-7,0.25,2.7,1.475,Fine,Glaciolacustrine,3,8,0.064533563
+776,2.45-1-8,0.1,2.4,1.25,Fine,Glaciolacustrine,3,8,0.065021863
+777,307-12-3,0,2.4,1.2,Fine,Glaciolacustrine,2,0,0.156373572
+778,307-14-1,0.1,1.5,0.8,Fine,Glaciolacustrine,3,8,0.066008542
+779,307-14-3,0.6,6.2,3.4,Fine,Glaciolacustrine,3,8,0.060490179
+780,307-7-1,0,0.8,0.4,Fine,Glaciolacustrine,2,0,0.160140686
+781,307-7-10,2,4.1,3.05,Fine,Glaciolacustrine,3,0,0.052866235
+782,307-7-6,0.2,0.9,0.55,Fine,Glaciolacustrine,2,8,0.180975003
+783,307-7-9,0.2,5.5,2.85,Fine,Glaciolacustrine,3,8,0.061621226
+784,307-8-2,0,1.8,0.9,Fine,Glaciolacustrine,3,45,0.12548621
+785,307-8-7,2,4.6,3.3,Fine,Glaciolacustrine,3,8,0.060694407
+786,307-8-8,0,4,2,Fine,Glaciolacustrine,3,0,0.054790587
+787,309-03,0.1,2.4,1.25,Fine,Glaciolacustrine,2,45,0.303722359
+788,309-11,0.1,1,0.55,Fine,Glaciolacustrine,2,45,0.308958621
+789,309-22,0.1,1,0.55,Fine,Glaciolacustrine,2,45,0.308958621
+790,309-25,0.2,1.5,0.85,Fine,Glaciolacustrine,2,45,0.306708434
+791,309-29,0.2,1.2,0.7,Fine,Glaciolacustrine,2,8,0.180191246
+792,312-01,0.2,0.3,0.25,Fine,Glaciolacustrine,2,45,0.311217841
+793,312-01,0.3,1.2,0.75,Fine,Glaciolacustrine,2,45,0.307457488
+794,312-08,0,1.5,0.75,Fine,Glaciolacustrine,2,8,0.179930576
+795,312-18,0.6,1.4,1,Fine,Glaciolacustrine,2,8,0.1786316
+796,312-18,1.4,1.5,1.45,Fine,Glaciolacustrine,2,45,0.302235441
+797,325-1-11,0.15,1.2,0.675,Fine,Glaciolacustrine,2,8,0.18032169
+798,325-1-13,0.15,1.4,0.775,Fine,Glaciolacustrine,2,8,0.179800351
+799,325-1-14,0.15,2.4,1.275,Fine,Glaciolacustrine,2,8,0.177211129
+800,325-1-15,0.15,1.8,0.975,Fine,Glaciolacustrine,2,87,0.49461551
+801,325-1-16,0.3,0.9,0.6,Fine,Glaciolacustrine,2,87,0.497912123
+802,325-1-17,0.3,2,1.15,Fine,Glaciolacustrine,2,8,0.177855707
+803,325-1-2,0.2,2.1,1.15,Fine,Glaciolacustrine,2,8,0.177855707
+804,325-1-21,0.3,1.7,1,Fine,Glaciolacustrine,2,8,0.1786316
+805,325-1-23,0.25,0.6,0.425,Fine,Glaciolacustrine,2,8,0.181630141
+806,325-1-25,0,0.3,0.15,Fine,Glaciolacustrine,2,8,0.183077871
+807,325-1-25,0.3,2.1,1.2,Fine,Glaciolacustrine,2,87,0.492637747
+808,325-1-26,9.5,10,9.75,Fine,Glaciolacustrine,2,0,0.120454283
+809,325-1-26,0,1.2,0.6,Fine,Glaciolacustrine,2,87,0.497912123
+810,325-1-27,0,0.9,0.45,Fine,Glaciolacustrine,2,87,0.499230835
+811,325-1-28,0,1.4,0.7,Fine,Glaciolacustrine,2,87,0.497032997
+812,325-1-28,7.8,8.5,8.15,Fine,Glaciolacustrine,2,0,0.12659249
+813,325-1-29,0,1.1,0.55,Fine,Glaciolacustrine,2,87,0.498351691
+814,325-1-3,1.4,3.7,2.55,Fine,Glaciolacustrine,3,8,0.062246247
+815,325-1-34,0.3,0.8,0.55,Fine,Glaciolacustrine,2,8,0.180975003
+816,325-1-35,0.15,0.8,0.475,Fine,Glaciolacustrine,2,8,0.181367867
+817,325-1-39,0,0.6,0.3,Fine,Glaciolacustrine,2,0,0.160616646
+818,325-1-4,0.2,2.4,1.3,Fine,Glaciolacustrine,2,8,0.177082431
+819,325-1-40,0,0.9,0.45,Fine,Glaciolacustrine,2,0,0.159903129
+820,325-1-5,1.7,2.4,2.05,Fine,Glaciolacustrine,3,8,0.063300782
+821,325-1-6,1.4,3.2,2.3,Fine,Glaciolacustrine,3,8,0.0627715
+822,325-1-6,0,1.4,0.7,Fine,Glaciolacustrine,3,87,0.24366318
+823,325-1-7,0,0.3,0.15,Fine,Glaciolacustrine,3,8,0.067457731
+824,325-1-7,2.1,2.7,2.4,Fine,Glaciolacustrine,3,8,0.062560917
+825,325-1-9,1.8,3.1,2.45,Fine,Glaciolacustrine,3,45,0.119580203
+826,325-1-9,0,1.8,0.9,Fine,Glaciolacustrine,3,87,0.242366589
+827,AH109.6C,5,5.9,5.45,Fine,Glaciolacustrine,3,45,0.108821154
+828,AH109.6C,5.9,7.4,6.65,Fine,Glaciolacustrine,3,45,0.104757391
+829,AH109.6C,7.4,7.5,7.45,Fine,Glaciolacustrine,3,0,0.045457885
+830,AH109.6N,3,5.2,4.1,Fine,Glaciolacustrine,3,8,0.059078042
+831,ENG.YARC03097-01//HUS_P (NTGS 8),5.4,6.1,5.75,Fine,Glaciolacustrine,3,45,0.107792622
+832,ENG.YARC03097-01//I401A_Pit (NTGS 15),0,0.9,0.45,Fine,Glaciolacustrine,2,0,0.159903129
+833,ENG.YARC03097-01//TVC_P (NTGS 4),4.1,5.5,4.8,Fine,Glaciolacustrine,3,87,0.218021479
+834,ENG.YARC03097-01//TVC_P (NTGS 4),5.5,6.1,5.8,Fine,Glaciolacustrine,3,45,0.10762202
+835,ENG.YARC03097-01//TVC_P (NTGS 4),6.1,6.7,6.4,Fine,Glaciolacustrine,3,45,0.105592978
+836,GSC4 - 11,3.3,4.3,3.8,Fine,Glaciolacustrine,3,8,0.05967952
+837,GSC4 - 11,4.7,6.1,5.4,Fine,Glaciolacustrine,3,45,0.108993399
+838,GSC4 - 11,0,1.1,0.55,Fine,Glaciolacustrine,3,45,0.126853462
+839,GSC4 - 11,1.1,2.3,1.7,Fine,Glaciolacustrine,3,8,0.064048595
+840,GSC4 - 11,2.3,3.3,2.8,Fine,Glaciolacustrine,3,45,0.118279817
+841,GSC4 - 12,0,2.1,1.05,Fine,Glaciolacustrine,3,45,0.124904067
+842,GSC4 - 14,2,3.7,2.85,Fine,Glaciolacustrine,3,8,0.061621226
+843,GSC4 - 14,1.8,2,1.9,Fine,Glaciolacustrine,3,45,0.121648265
+844,GSC4 - 14,4.2,5.5,4.85,Fine,Glaciolacustrine,3,8,0.057598473
+845,GSC4 - 18,1.2,5.5,3.35,Fine,Glaciolacustrine,3,8,0.060592215
+846,GSC4 - 19,2.4,6,4.2,Fine,Glaciolacustrine,3,0,0.050829842
+847,GSC4 - 36,5.2,6.1,5.65,Fine,Glaciolacustrine,3,0,0.048364879
+848,GSC4 - 36,0,2.4,1.2,Fine,Glaciolacustrine,3,0,0.056299571
+849,GSC4 - 36,6.1,8,7.05,Fine,Glaciolacustrine,3,45,0.103432405
+850,GSC4 - 40,0,2.4,1.2,Fine,Glaciolacustrine,3,0,0.056299571
+851,GSC4 - 49,2.4,3.5,2.95,Fine,Glaciolacustrine,3,8,0.061414159
+852,GSC4 - 49,3.5,6,4.75,Fine,Glaciolacustrine,3,45,0.111254096
+853,GSC4 - 49,1.5,2.4,1.95,Fine,Glaciolacustrine,3,8,0.063513629
+854,GSC4 - 55,1.9,3.7,2.8,Fine,Glaciolacustrine,3,45,0.118279817
+855,GSC4 - 55,3.7,6,4.85,Fine,Glaciolacustrine,3,8,0.057598473
+856,GSC4 - 7,3.1,6.1,4.6,Fine,Glaciolacustrine,3,8,0.05808786
+857,GSC4 - 8,0.2,1.5,0.85,Fine,Glaciolacustrine,3,45,0.125680767
+858,GSC4 - 9,3.1,4.6,3.85,Fine,Glaciolacustrine,3,45,0.114450907
+859,GSC4 - 9,4.6,5.2,4.9,Fine,Glaciolacustrine,3,8,0.057501049
+860,GSC4 - P4,0,3.1,1.55,Fine,Glaciolacustrine,3,45,0.122980066
+861,GSC4 - P4,6.1,7.1,6.6,Fine,Glaciolacustrine,3,8,0.054276921
+862,GSC4 - P4,3.4,6.1,4.75,Fine,Glaciolacustrine,3,45,0.111254096
+863,GSC4 - P4,7.1,7.6,7.35,Fine,Glaciolacustrine,3,45,0.102448261
+864,I401A - 20,1.1,2.6,1.85,Fine,Glaciolacustrine,2,45,0.299273941
+865,I401A - 33,0,3.1,1.55,Fine,Glaciolacustrine,2,0,0.154748044
+866,I401A - 43,1.5,2.1,1.8,Fine,Glaciolacustrine,2,45,0.299643225
+867,I401A - 43,0,1.5,0.75,Fine,Glaciolacustrine,2,8,0.179930576
+868,I401A - 43,2.1,3,2.55,Fine,Glaciolacustrine,2,45,0.294131295
+869,I401A - 52,0,1.1,0.55,Fine,Glaciolacustrine,2,0,0.159428863
+870,I401A - 59,0,3,1.5,Fine,Glaciolacustrine,2,0,0.154979424
+871,I401A - 60,3,4.6,3.8,Fine,Glaciolacustrine,2,45,0.285076695
+872,I401A - 61,0,1.1,0.55,Fine,Glaciolacustrine,2,8,0.180975003
+873,I401A - 61,1.4,4.6,3,Fine,Glaciolacustrine,2,0,0.148158799
+874,I401A - 61,1.1,1.4,1.25,Fine,Glaciolacustrine,2,45,0.303722359
+875,PW12 - 56A,0,1.5,0.75,Fine,Glaciolacustrine,3,45,0.126070644
+876,PW12 - 67,0.1,2.6,1.35,Fine,Glaciolacustrine,3,0,0.056013773
+877,PW12 - 68,0.1,1.1,0.6,Fine,Glaciolacustrine,3,45,0.126657374
+878,PW12 - 69,0.1,1.1,0.6,Fine,Glaciolacustrine,3,0,0.057456146
+879,PW12 - 70,0.1,2.6,1.35,Fine,Glaciolacustrine,3,0,0.056013773
+880,PW12 - P3,0.6,1.5,1.05,Fine,Glaciolacustrine,3,8,0.065458723
+881,PW13 - P1,0,2.3,1.15,Fine,Glaciolacustrine,3,45,0.124517242
+882,PW13 - P3,0,3.4,1.7,Fine,Glaciolacustrine,3,0,0.055352064
+883,PW17 - P7,0,0.8,0.4,Fine,Glaciolacustrine,3,45,0.127443262
+884,PW17 - P7,0.8,2.4,1.6,Fine,Glaciolacustrine,3,45,0.122789055
+885,PW6 - P5,0.9,2.1,1.5,Fine,Glaciolacustrine,2,45,0.301864352
+886,PW6 - P5,0,0.9,0.45,Fine,Glaciolacustrine,2,8,0.181498968
+887,PW9 - P6,1.8,3,2.4,Fine,Glaciolacustrine,3,8,0.062560917
+888,PW9 - P6,9.1,9.8,9.45,Fine,Glaciolacustrine,3,45,0.095785367
+889,PW9 - P6,4.6,6.1,5.35,Fine,Glaciolacustrine,3,45,0.109165879
+890,W14103137-AH90.3N,2.3,2.8,2.55,Fine,Glaciolacustrine,3,8,0.062246247
+891,W14103137-AH90.3N,2.8,3.8,3.3,Fine,Glaciolacustrine,3,0,0.052417281
+892,W14103137-AH90.3N,4.3,5.8,5.05,Fine,Glaciolacustrine,3,8,0.057209679
+893,W14103137-CR17aS,2.4,3.1,2.75,Fine,Glaciolacustrine,2,45,0.292671402
+894,W14103137-CR18N,1.8,2.6,2.2,Fine,Glaciolacustrine,3,87,0.234052667
+895,W14103137-CR31N,0.15,0.45,0.3,Fine,Glaciolacustrine,3,45,0.127837744
+896,W14103137-CR31N,1.6,2.5,2.05,Fine,Glaciolacustrine,3,8,0.063300782
+897,W14103137-CR31N,3.2,3.8,3.5,Fine,Glaciolacustrine,3,45,0.115715241
+898,W14103137-CR31N,2.5,3,2.75,Fine,Glaciolacustrine,3,45,0.118464845
+899,W14103137-CR35aN,0.15,1.8,0.975,Fine,Glaciolacustrine,3,45,0.125194853
+900,W14103137-CR35aN,2,6.8,4.4,Fine,Glaciolacustrine,3,45,0.112488052
+901,W14103137-CR35aS,0.6,1.25,0.925,Fine,Glaciolacustrine,3,8,0.065733111
+902,W14103137-CR35aS,12.5,14,13.25,Fine,Glaciolacustrine,3,8,0.043193714
+903,W14103137-CR35aS,1.25,1.4,1.325,Fine,Glaciolacustrine,3,45,0.123842737
+904,W14103137-CR3N,2.8,2.9,2.85,Fine,Glaciolacustrine,2,45,0.291943039
+905,W14103137-CR3N,2.9,3.9,3.4,Fine,Glaciolacustrine,2,87,0.473321153
+906,W14103137-CR3S,10,10.25,10.125,Fine,Glaciolacustrine,2,8,0.136076383
+907,W14103137-CR3S,10.25,10.8,10.525,Fine,Glaciolacustrine,2,8,0.134420061
+908,W14103137-CR3S,5.8,6.1,5.95,Fine,Glaciolacustrine,2,45,0.26989889
+909,W14103137-CR3S,6.1,6.6,6.35,Fine,Glaciolacustrine,2,45,0.267131557
+910,W14103137-CR3S,7.6,9.5,8.55,Fine,Glaciolacustrine,2,8,0.14276373
+911,W14103137-CR4N,9.7,13.4,11.55,Fine,Glaciolacustrine,2,0,0.113853405
+912,W14103137-CR4N,1.8,2.5,2.15,Fine,Glaciolacustrine,2,45,0.297063687
+913,W14103137-CR4N,3,3.3,3.15,Fine,Glaciolacustrine,2,45,0.289764312
+914,W14103137-CR4S,0.5,1.2,0.85,Fine,Glaciolacustrine,2,87,0.495714343
+915,W14103137-CR4S,8.5,8.8,8.65,Fine,Glaciolacustrine,2,0,0.124646487
+916,W14103137-CR4S,3.4,5.2,4.3,Fine,Glaciolacustrine,2,45,0.281501808
+917,W14103137-CR4S,1.6,2.1,1.85,Fine,Glaciolacustrine,2,87,0.486925713
+918,W14103137-CR8N,6,6.4,6.2,Fine,Glaciolacustrine,2,45,0.268167207
+919,W14103137-CR8N,0.8,1,0.9,Fine,Glaciolacustrine,2,45,0.306334286
+920,W14103137-CR8N,2.5,6,4.25,Fine,Glaciolacustrine,2,8,0.162402301
+921,W14103137-CR8N,6.4,12.2,9.3,Fine,Glaciolacustrine,2,8,0.139546159
+922,W14103137-CR8S,5.4,10.2,7.8,Fine,Glaciolacustrine,2,0,0.127969892
+923,W14103137-CR8S,2.1,4.9,3.5,Fine,Glaciolacustrine,2,45,0.287234582
+924,W14103137-CR8S,1.3,1.7,1.5,Fine,Glaciolacustrine,2,8,0.176055462
+925,W14103137-CR8S,11.6,12.05,11.825,Fine,Glaciolacustrine,2,0,0.112872752
+926,W14103137-CR8S,12.05,12.5,12.275,Fine,Glaciolacustrine,2,45,0.228286321
+927,W14103137-CRA12S,2.7,3,2.85,Fine,Glaciolacustrine,3,8,0.061621226
+928,W14103137-CRA12S,0.95,2.7,1.825,Fine,Glaciolacustrine,3,45,0.121932615
+929,W14103137-CRA12S,6,6.5,6.25,Fine,Glaciolacustrine,3,8,0.054926863
+930,W14103137-CRA12S,5.8,6,5.9,Fine,Glaciolacustrine,3,45,0.107281519
+931,W14103137-CRA12S,4.6,5.8,5.2,Fine,Glaciolacustrine,3,8,0.056919659
+932,W14103137-CRA12S,3,3.4,3.2,Fine,Glaciolacustrine,3,45,0.116808461
+933,W14103137-S6-BH14,0.1,0.5,0.3,Fine,Glaciolacustrine,2,0,0.160616646
+934,172-2-2,4.9,10,7.45,Till,Glaciolacustrine,3,8,0.03724179
+935,174-60,1.5,3,2.25,Till,Glaciolacustrine,2,8,0.127261626
+936,19A-01,6.1,6.4,6.25,Till,Glaciolacustrine,2,45,0.204231712
+937,19A-04,1.5,3,2.25,Till,Glaciolacustrine,2,45,0.228114678
+938,2.45-1-15,3.7,4.1,3.9,Till,Glaciolacustrine,2,0,0.105528591
+939,2.45-1-2,2.3,5.2,3.75,Till,Glaciolacustrine,2,8,0.121473644
+940,2.45-1-5,0.9,4,2.45,Till,Glaciolacustrine,3,8,0.044326116
+941,312-16,3.4,3.8,3.6,Till,Glaciolacustrine,2,45,0.219842226
+942,312-16,4.6,6.7,5.65,Till,Glaciolacustrine,2,8,0.114464815
+943,312-16,3.8,4.6,4.2,Till,Glaciolacustrine,2,8,0.119781423
+944,AH109.6C,9.4,10.4,9.9,Till,Glaciolacustrine,3,0,0.029303828
+945,I401A - 34,0,2.3,1.15,Till,Glaciolacustrine,2,0,0.115102529
+946,I401A - 60,4.6,6.7,5.65,Till,Glaciolacustrine,2,0,0.099802367
+947,KP7 - P1,4.3,7.5,5.9,Till,Glaciolacustrine,3,0,0.033778529
+948,PW10 - 30,4.6,7.9,6.25,Till,Glaciolacustrine,3,0,0.033363202
+949,W14103137-CR15S,8.8,14.6,11.7,Till,Glaciolacustrine,3,45,0.063923175
+950,W14103137-CR15S,15.1,20.2,17.65,Till,Glaciolacustrine,3,8,0.025911584
+951,W14103137-CR15S,20.2,21,20.6,Till,Glaciolacustrine,3,8,0.02328454
+952,W14103137-CR15S,14.6,15.1,14.85,Till,Glaciolacustrine,3,8,0.028654233
+953,W14103137-CR15S,4.3,4.7,4.5,Till,Glaciolacustrine,3,8,0.041283444
+954,W14103137-CR15S,4.7,8.8,6.75,Till,Glaciolacustrine,3,45,0.075372166
+955,W14103137-CR17aS,10.4,12.2,11.3,Till,Glaciolacustrine,2,45,0.176781868
+956,W14103137-CR17aS,4.9,6.7,5.8,Till,Glaciolacustrine,2,8,0.11392654
+957,W14103137-CR17aS,12.2,15,13.6,Till,Glaciolacustrine,2,8,0.088794736
+958,W14103137-CR17aS,6.7,10.4,8.55,Till,Glaciolacustrine,2,45,0.191357537
+959,W14103137-CR17aS,3.1,4.9,4,Till,Glaciolacustrine,2,45,0.217432556
+960,W14103137-CR18S,14.9,15.2,15.05,Till,Glaciolacustrine,3,45,0.057096526
+961,W14103137-CR18S,15.2,16.8,16,Till,Glaciolacustrine,3,8,0.027497
+962,W14103137-CR18S,16.9,20.4,18.65,Till,Glaciolacustrine,3,8,0.024992064
+963,W14103137-CR18S,11.9,14.9,13.4,Till,Glaciolacustrine,3,8,0.030177255
+964,W14103137-CR18S,16.8,16.9,16.85,Till,Glaciolacustrine,3,45,0.053710001
+965,W14103137-CR35aS,18.9,20.9,19.9,Till,Glaciolacustrine,3,8,0.02388479
+966,W14103137-CR35aS,2.6,4.1,3.35,Till,Glaciolacustrine,3,45,0.084272263
+967,W14103137-CR35aS,4.5,7.6,6.05,Till,Glaciolacustrine,3,8,0.039112022
+968,W14103137-CR35aS,4.1,4.5,4.3,Till,Glaciolacustrine,3,0,0.035738617
+969,W14103137-CR35aS,14,14.8,14.4,Till,Glaciolacustrine,3,8,0.029119142
+970,W14103137-CR35aS,20.9,21.3,21.1,Till,Glaciolacustrine,3,0,0.019509214
+971,W14103137-CR3S,4.2,5.8,5,Till,Glaciolacustrine,2,45,0.211491374
+972,W14103137-CR8S,16.8,21.3,19.05,Till,Glaciolacustrine,2,45,0.140362215
+973,W14103137-CR8S,16,16.8,16.4,Till,Glaciolacustrine,2,0,0.070267464
+974,W14103137-CRA3N,10.7,11.5,11.1,Till,Glaciolacustrine,3,0,0.02807207
+975,174-34,0.8,2,1.4,Fine,Moraine,2,45,0.452150653
+976,174-34,2,3,2.5,Fine,Moraine,2,45,0.442586833
+977,174-52,5.8,6.7,6.25,Fine,Moraine,3,45,0.184761961
+978,174-52,4.6,5.8,5.2,Fine,Moraine,3,8,0.103861789
+979,2.45-1-13,4.6,6.4,5.5,Fine,Moraine,2,0,0.23286444
+980,2.45-1-13,1.8,4,2.9,Fine,Moraine,2,0,0.249632128
+981,312-15,6.1,7.6,6.85,Fine,Moraine,2,45,0.405243449
+982,312-22,4.3,5,4.65,Fine,Moraine,3,45,0.193420779
+983,ENG.YARC03097-01//177_Pond (NTGS 12),3.9,4.6,4.25,Fine,Moraine,2,8,0.269760878
+984,ENG.YARC03097-01//177_Pond (NTGS 12),3,3.9,3.45,Fine,Moraine,2,8,0.275347269
+985,ENG.YARC03097-01//Gunghi BH-01,18,18.3,18.15,Fine,Moraine,3,8,0.068077928
+986,ENG.YARC03097-01//Gunghi BH-02,18,18.3,18.15,Fine,Moraine,3,8,0.068077928
+987,ENG.YARC03097-01//HUS_Slump (NTGS 17),2.1,2.4,2.25,Fine,Moraine,2,87,0.640228334
+988,ENG.YARC03097-01//HUS_Slump (NTGS 17),3.6,3.9,3.75,Fine,Moraine,2,8,0.273244048
+989,ENG.YARC03097-01//HUS_Slump (NTGS 17),2.4,2.5,2.45,Fine,Moraine,2,87,0.638605926
+990,ENG.YARC03097-01//I401A_Upper (NTGS 16),3.9,4.6,4.25,Fine,Moraine,3,8,0.107044104
+991,ENG.YARC03097-01//I401A_Upper (NTGS 16),5.3,9.5,7.4,Fine,Moraine,3,8,0.096806898
+992,ENG.YARC03097-01//I401A_Upper (NTGS 16),9.9,10.1,10,Fine,Moraine,3,8,0.089014624
+993,ENG.YARC03097-01//ITH-01,4,4.9,4.45,Fine,Moraine,2,8,0.268375417
+994,ENG.YARC03097-01//ITH-01,2.6,3.35,2.975,Fine,Moraine,2,45,0.438469628
+995,ENG.YARC03097-01//ITH-02,0.9,3,1.95,Fine,Moraine,2,45,0.447363904
+996,ENG.YARC03097-01//ITH-03,2.3,3.1,2.7,Fine,Moraine,2,45,0.440852284
+997,ENG.YARC03097-01//ITH-04,3,4.6,3.8,Fine,Moraine,2,45,0.431338982
+998,ENG.YARC03097-01//ITH-10,6.1,6.7,6.4,Fine,Moraine,3,8,0.099959941
+999,ENG.YARC03097-01//ITH-13,2.1,2.5,2.3,Fine,Moraine,2,0,0.25361308
+1000,ENG.YARC03097-01//ITH-13,2.5,3.3,2.9,Fine,Moraine,2,8,0.279228937
+1001,ENG.YARC03097-01//TUK_H (NTGS 10),7.1,7.2,7.15,Fine,Moraine,2,87,0.599643111
+1002,ENG.YARC03097-01//TUK_H (NTGS 10),6.8,7.1,6.95,Fine,Moraine,2,8,0.251438789
+1003,ENG.YARC03097-01//TUK_H (NTGS 10),5.6,6.3,5.95,Fine,Moraine,2,45,0.412895491
+1004,ENG.YARC03097-01//TUK_H (NTGS 10),4.2,4.6,4.4,Fine,Moraine,2,45,0.426170598
+1005,ENG.YARC03097-01//TUK_H (NTGS 10),6.3,6.8,6.55,Fine,Moraine,2,8,0.254100729
+1006,ENG.YARC03097-01//TVC_R (NTGS 6),3.9,10.1,7,Fine,Moraine,3,8,0.098057499
+1007,GSC1A - P2,3.7,4.9,4.3,Fine,Moraine,2,8,0.269414094
+1008,GSC1A - P2,4.9,5.2,5.05,Fine,Moraine,2,45,0.420589582
+1009,GSC1A - P3,0.9,2.1,1.5,Fine,Moraine,2,8,0.289258133
+1010,GSC4 - 15,4.9,6.1,5.5,Fine,Moraine,3,0,0.089526746
+1011,GSC4 - 15,3.6,4.9,4.25,Fine,Moraine,3,8,0.107044104
+1012,GSC4 - 15,3.3,3.6,3.45,Fine,Moraine,3,8,0.109789152
+1013,I401A - 13,11.9,13.7,12.8,Fine,Moraine,2,0,0.190048435
+1014,I401A - 49,5.6,10.2,7.9,Fine,Moraine,2,0,0.218091432
+1015,I401A - 49,4.1,5.6,4.85,Fine,Moraine,2,8,0.265617946
+1016,PW10 - 33,2.7,4.6,3.65,Fine,Moraine,2,45,0.432633449
+1017,PW10 - 33,4.6,6.1,5.35,Fine,Moraine,2,8,0.26219645
+1018,PW10 - 33,6.1,7.6,6.85,Fine,Moraine,2,45,0.405243449
+1019,PW10 - P5,4,10.6,7.3,Fine,Moraine,2,8,0.249124714
+1020,PW11 - 9,2.4,3,2.7,Fine,Moraine,2,0,0.250954502
+1021,PW11 - 9,3,6.1,4.55,Fine,Moraine,2,8,0.267684366
+1022,PW9 - P4,3.8,8.5,6.15,Fine,Moraine,2,8,0.256781038
+1023,PW9 - P4,10.4,10.7,10.55,Fine,Moraine,2,45,0.374298849
+1024,PW9 - P4,0.3,1.5,0.9,Fine,Moraine,2,0,0.263062349
+1025,PW9 - P4,8.5,10.4,9.45,Fine,Moraine,2,8,0.235221847
+1026,PW9 - P5,3.7,7.6,5.65,Fine,Moraine,2,8,0.260157137
+1027,PW9 - P5,7.6,8,7.8,Fine,Moraine,2,8,0.245843469
+1028,PW9 - P5,8,10.7,9.35,Fine,Moraine,2,8,0.235856517
+1029,PW9 - P5,1.8,3.7,2.75,Fine,Moraine,2,0,0.250623476
+1030,W14103137-CR17aN,4.4,7.3,5.85,Fine,Moraine,3,45,0.186898449
+1031,W14103137-CR17aN,7.3,7.6,7.45,Fine,Moraine,3,45,0.17846484
+1032,W14103137-CR17aN,7.6,11.6,9.6,Fine,Moraine,3,45,0.167600677
+1033,W14103137-CR17aN,16.2,18.3,17.25,Fine,Moraine,3,8,0.070149143
+1034,W14103137-CR17aN,16.1,16.2,16.15,Fine,Moraine,3,45,0.137719393
+1035,W14103137-CR17aN,19.2,20.4,19.8,Fine,Moraine,3,8,0.064424026
+1036,W14103137-CR17aN,14,14.7,14.35,Fine,Moraine,3,45,0.145459836
+1037,W14103137-CR17aN,11.6,11.9,11.75,Fine,Moraine,3,87,0.293544809
+1038,W14103137-CR17aN,11.9,12.9,12.4,Fine,Moraine,3,45,0.154244024
+1039,W14103137-CR17aN,14.7,16.1,15.4,Fine,Moraine,3,8,0.074586359
+1040,W14103137-CR17aN,18.3,19.2,18.75,Fine,Moraine,3,45,0.127145382
+1041,W14103137-CR30a4,9.85,10.3,10.075,Fine,Moraine,3,0,0.077093532
+1042,W14103137-S6-BH01,9.3,10,9.65,Fine,Moraine,3,0,0.078179694
+1043,W14103137-S6-BH05,5.5,6.1,5.8,Fine,Moraine,3,45,0.187166831
+1044,170-1-10,2.4,8.4,5.4,Coarse,Moraine,3,0,0.124442036
+1045,170-1-10,1.4,2.4,1.9,Coarse,Moraine,3,0,0.138588502
+1046,170-1-12,0,2.4,1.2,Coarse,Moraine,3,0,0.141572688
+1047,170-1-2,0.3,2.4,1.35,Coarse,Moraine,2,0,0.335313495
+1048,170-1-27,0,0.9,0.45,Coarse,Moraine,3,0,0.14482864
+1049,170-1-28,5.8,8.8,7.3,Coarse,Moraine,3,0,0.117286863
+1050,170-1-28,2.1,4.6,3.35,Coarse,Moraine,3,0,0.132572823
+1051,170-1-28,4.6,5.8,5.2,Coarse,Moraine,3,0,0.125216306
+1052,170-1-28,8.8,10,9.4,Coarse,Moraine,3,0,0.109790592
+1053,170-1-29,0,1.5,0.75,Coarse,Moraine,3,0,0.143518947
+1054,170-1-29,2.4,7,4.7,Coarse,Moraine,3,8,0.145149123
+1055,170-1-32,1.2,2.9,2.05,Coarse,Moraine,3,0,0.137955857
+1056,170-1-32,0.3,1.2,0.75,Coarse,Moraine,3,0,0.143518947
+1057,170-1-36,1.5,2.4,1.95,Coarse,Moraine,3,0,0.138377354
+1058,174-01,0.1,1.4,0.75,Coarse,Moraine,3,8,0.163352002
+1059,174-02,0.3,1.8,1.05,Coarse,Moraine,2,8,0.372482096
+1060,174-02,5.5,6,5.75,Coarse,Moraine,2,45,0.504080824
+1061,174-07,0.1,2,1.05,Coarse,Moraine,2,8,0.372482096
+1062,174-09,0.6,1.5,1.05,Coarse,Moraine,2,8,0.372482096
+1063,174-09,1.5,3.7,2.6,Coarse,Moraine,2,0,0.325580797
+1064,174-20,0.1,1.5,0.8,Coarse,Moraine,3,8,0.16311065
+1065,174-28,3,4.9,3.95,Coarse,Moraine,2,8,0.348959493
+1066,174-28,0.1,1.5,0.8,Coarse,Moraine,2,0,0.33964095
+1067,174-34,0.1,0.8,0.45,Coarse,Moraine,2,8,0.377428992
+1068,174-48,1.4,3,2.2,Coarse,Moraine,3,0,0.137325609
+1069,174-50,5.3,10.7,8,Coarse,Moraine,3,45,0.234379391
+1070,174-50,4.6,5.3,4.95,Coarse,Moraine,3,8,0.144055049
+1071,174-50,0.1,4.6,2.35,Coarse,Moraine,3,0,0.136697754
+1072,174-51,0.2,3,1.6,Coarse,Moraine,3,8,0.159287548
+1073,174-52,6.7,10.7,8.7,Coarse,Moraine,3,8,0.128445665
+1074,174-52,0,3,1.5,Coarse,Moraine,3,8,0.159761478
+1075,174-52,3,4.6,3.8,Coarse,Moraine,3,8,0.1491443
+1076,174-54,4.6,6.1,5.35,Coarse,Moraine,2,8,0.337852174
+1077,174-54,6.1,7.6,6.85,Coarse,Moraine,2,45,0.494410508
+1078,174-54,8,9.8,8.9,Coarse,Moraine,2,8,0.310490885
+1079,174-54,3.8,4.6,4.2,Coarse,Moraine,2,45,0.517700366
+1080,174-54,1.5,3.8,2.65,Coarse,Moraine,2,8,0.359421738
+1081,174-54,1,1.5,1.25,Coarse,Moraine,2,8,0.370838951
+1082,19A-07,1.5,3,2.25,Coarse,Moraine,3,8,0.156234438
+1083,19A-08,0.2,1.5,0.85,Coarse,Moraine,3,0,0.143084553
+1084,307-12-2,0.9,6.7,3.8,Coarse,Moraine,2,0,0.316375825
+1085,307-12-2,6.7,7.3,7,Coarse,Moraine,2,87,0.68367919
+1086,307-12-5,1.1,7.5,4.3,Coarse,Moraine,3,0,0.128751052
+1087,307-12-5,0,1.1,0.55,Coarse,Moraine,3,0,0.144390989
+1088,307-14-1a,0.8,6.1,3.45,Coarse,Moraine,3,8,0.150722011
+1089,307-14-2,0.8,10.1,5.45,Coarse,Moraine,2,8,0.337065377
+1090,307-7-3,0.8,5.5,3.15,Coarse,Moraine,3,0,0.133389392
+1091,307-7-4,1.2,4.3,2.75,Coarse,Moraine,2,8,0.358612068
+1092,307-8-1,2,4.6,3.3,Coarse,Moraine,3,8,0.151402315
+1093,307-8-9,0.2,1.1,0.65,Coarse,Moraine,3,8,0.16383556
+1094,307-8-9,1.5,7.6,4.55,Coarse,Moraine,3,8,0.145808834
+1095,309-40,0.1,1.2,0.65,Coarse,Moraine,3,45,0.283980525
+1096,309-41,2.4,3,2.7,Coarse,Moraine,3,8,0.154148488
+1097,312-07a,0.6,1.2,0.9,Coarse,Moraine,2,0,0.338852133
+1098,312-15,0.1,1.5,0.8,Coarse,Moraine,2,8,0.374540146
+1099,312-15,4,6.1,5.05,Coarse,Moraine,2,45,0.510233535
+1100,312-20,0.2,1.5,0.85,Coarse,Moraine,3,0,0.143084553
+1101,312-22,0.1,1.2,0.65,Coarse,Moraine,3,45,0.283980525
+1102,312-22,1.2,4.3,2.75,Coarse,Moraine,3,8,0.153918111
+1103,325-1-36,0,5.5,2.75,Coarse,Moraine,3,8,0.153918111
+1104,325-1-36,7,10,8.5,Coarse,Moraine,3,0,0.112951244
+1105,ENG.YARC03097-01//177_Pit (NTGS 11),9,10.1,9.55,Coarse,Moraine,3,0,0.109271303
+1106,ENG.YARC03097-01//177_Pit (NTGS 11),6.3,8.5,7.4,Coarse,Moraine,3,8,0.133688775
+1107,ENG.YARC03097-01//177_Pit (NTGS 11),8.5,9,8.75,Coarse,Moraine,3,0,0.112065523
+1108,ENG.YARC03097-01//Gunghi BH-01,11.4,18,14.7,Coarse,Moraine,3,8,0.106446497
+1109,ENG.YARC03097-01//Gunghi BH-01,18.3,20.4,19.35,Coarse,Moraine,3,0,0.079667078
+1110,ENG.YARC03097-01//Gunghi BH-01,8.1,11.4,9.75,Coarse,Moraine,3,8,0.124338094
+1111,ENG.YARC03097-01//Gunghi BH-02,13.5,15.8,14.65,Coarse,Moraine,3,8,0.106615483
+1112,ENG.YARC03097-01//Gunghi BH-02,12.9,13.5,13.2,Coarse,Moraine,3,8,0.111618121
+1113,ENG.YARC03097-01//Gunghi BH-02,15.8,18,16.9,Coarse,Moraine,3,0,0.086310166
+1114,ENG.YARC03097-01//Gunghi BH-02,12,12.9,12.45,Coarse,Moraine,3,8,0.114284179
+1115,ENG.YARC03097-01//HUS_H (NTGS 7),0.9,2.4,1.65,Coarse,Moraine,3,8,0.159051006
+1116,ENG.YARC03097-01//HUS_H (NTGS 7),7,9.1,8.05,Coarse,Moraine,3,8,0.131045244
+1117,ENG.YARC03097-01//HUS_H (NTGS 7),9.1,17.6,13.35,Coarse,Moraine,3,0,0.096808189
+1118,ENG.YARC03097-01//HUS_Slump (NTGS 17),5.4,8.5,6.95,Coarse,Moraine,2,45,0.493531487
+1119,ENG.YARC03097-01//INU_H (NTGS 2),6,7.2,6.6,Coarse,Moraine,3,8,0.137003309
+1120,ENG.YARC03097-01//INU_H (NTGS 2),1.5,6,3.75,Coarse,Moraine,3,0,0.130952226
+1121,ENG.YARC03097-01//ITH-08,4,4.6,4.3,Coarse,Moraine,2,45,0.516822259
+1122,ENG.YARC03097-01//ITH-09,2,3.66,2.83,Coarse,Moraine,3,45,0.268631211
+1123,ENG.YARC03097-01//TUK_H (NTGS 10),1.5,4.2,2.85,Coarse,Moraine,2,45,0.529541989
+1124,ENG.YARC03097-01//TUK_H (NTGS 10),7.3,7.8,7.55,Coarse,Moraine,2,45,0.488258381
+1125,ENG.YARC03097-01//TUK_H (NTGS 10),8.2,12.3,10.25,Coarse,Moraine,2,45,0.464578297
+1126,ENG.YARC03097-01//TUK_H (NTGS 10),12.3,13.5,12.9,Coarse,Moraine,2,8,0.281171423
+1127,ENG.YARC03097-01//TUK_H (NTGS 10),7.8,8.2,8,Coarse,Moraine,2,8,0.317313486
+1128,ENG.YARC03097-01//TUK_H (NTGS 10),7.2,7.3,7.25,Coarse,Moraine,2,87,0.681773105
+1129,GSC4 - 15,1.5,3.3,2.4,Coarse,Moraine,3,0,0.136489
+1130,I401A - P3,2.1,3.7,2.9,Coarse,Moraine,2,8,0.357399065
+1131,I401A - P9,0,1.5,0.75,Coarse,Moraine,3,0,0.143518947
+1132,I401A - P9,1.5,4.6,3.05,Coarse,Moraine,3,0,0.13379925
+1133,PW10 - 33,0.2,1.5,0.85,Coarse,Moraine,2,0,0.339246431
+1134,PW10 - P5,1.5,3.1,2.3,Coarse,Moraine,2,8,0.362261827
+1135,170-1-29,7,8.1,7.55,Coarse,Moraine,3,8,0.133074807
+1136,174-07,2.5,6.1,4.3,Coarse,Moraine,2,45,0.516822259
+1137,174-07,2,2.5,2.25,Coarse,Moraine,2,8,0.362668341
+1138,174-09,3.7,7.3,5.5,Coarse,Moraine,2,0,0.303577409
+1139,174-09,7.3,7.6,7.45,Coarse,Moraine,2,8,0.321521811
+1140,174-20,8,10.1,9.05,Coarse,Moraine,3,8,0.127063946
+1141,174-20,4.6,6.1,5.35,Coarse,Moraine,3,0,0.124635223
+1142,174-20,3,4.6,3.8,Coarse,Moraine,3,45,0.26197145
+1143,174-20,6.1,7.6,6.85,Coarse,Moraine,3,8,0.13596025
+1144,174-20,7.6,8,7.8,Coarse,Moraine,3,8,0.132056762
+1145,174-28,1.5,3,2.25,Coarse,Moraine,2,0,0.32829137
+1146,174-48,0,1.4,0.7,Coarse,Moraine,3,0,0.143736551
+1147,174-51,3,6.1,4.55,Coarse,Moraine,3,0,0.127760848
+1148,174-51,6.1,9.1,7.6,Coarse,Moraine,3,8,0.132870675
+1149,19A-07,3,5.2,4.1,Coarse,Moraine,3,45,0.259933261
+1150,19A-08,3,4.1,3.55,Coarse,Moraine,3,8,0.150269857
+1151,19A-08,1.5,3,2.25,Coarse,Moraine,3,0,0.137116059
+1152,19A-08,4.1,4.6,4.35,Coarse,Moraine,3,45,0.258242589
+1153,307-12-2,0,0.9,0.45,Coarse,Moraine,2,0,0.342408756
+1154,309-41,3,4.6,3.8,Coarse,Moraine,3,0,0.130750823
+1155,312-15,2.4,3,2.7,Coarse,Moraine,2,8,0.359016803
+1156,ENG.YARC03097-01//HUS_H (NTGS 7),17.6,20.1,18.85,Coarse,Moraine,3,87,0.317234272
+1157,ENG.YARC03097-01//HUS_H (NTGS 7),5.7,7,6.35,Coarse,Moraine,3,87,0.419038093
+1158,ENG.YARC03097-01//HUS_Slump (NTGS 17),8.5,9.1,8.8,Coarse,Moraine,2,8,0.311244994
+1159,ENG.YARC03097-01//HUS_Slump (NTGS 17),3.3,3.6,3.45,Coarse,Moraine,2,87,0.710066812
+1160,174-07,0,0.1,0.05,Organics,Moraine,2,45,0.553459123
+1161,307-7-4,0,0.6,0.3,Organics,Moraine,2,8,0.378171455
+1162,309-41,0.2,0.6,0.4,Organics,Moraine,3,0,0.144783876
+1163,312-07a,0.2,0.6,0.4,Organics,Moraine,2,45,0.550415114
+1164,312-27,1.2,1.5,1.35,Organics,Moraine,2,45,0.542134507
+1165,312-27,0.9,1.1,1,Organics,Moraine,2,8,0.372398087
+1166,312-27,0.6,0.9,0.75,Organics,Moraine,2,45,0.547367348
+1167,312-27,1.1,1.2,1.15,Organics,Moraine,2,45,0.543879872
+1168,312-27,0.2,0.6,0.4,Organics,Moraine,2,0,0.34232781
+1169,ENG.YARC03097-01//177_Pond (NTGS 12),0.9,1.2,1.05,Organics,Moraine,2,0,0.337196807
+1170,ENG.YARC03097-01//177_Pond (NTGS 12),0.2,0.9,0.55,Organics,Moraine,2,0,0.341140423
+1171,ENG.YARC03097-01//177_Pond (NTGS 12),0,0.2,0.1,Organics,Moraine,2,0,0.344708466
+1172,ENG.YARC03097-01//Gunghi BH-01,3,3.1,3.05,Organics,Moraine,3,0,0.133552321
+1173,ENG.YARC03097-01//HUS_H (NTGS 7),0,0.1,0.05,Organics,Moraine,3,8,0.166465397
+1174,ENG.YARC03097-01//HUS_H (NTGS 7),0.4,0.9,0.65,Organics,Moraine,3,45,0.283549551
+1175,ENG.YARC03097-01//HUS_H (NTGS 7),0.1,0.4,0.25,Organics,Moraine,3,45,0.286419705
+1176,ENG.YARC03097-01//HUS_R (NTGS 9),1.8,4,2.9,Organics,Moraine,3,45,0.267731027
+1177,ENG.YARC03097-01//HUS_R (NTGS 9),1.2,1.8,1.5,Organics,Moraine,3,8,0.159475958
+1178,ENG.YARC03097-01//HUS_R (NTGS 9),4,5.4,4.7,Organics,Moraine,3,0,0.126933189
+1179,ENG.YARC03097-01//HUS_R (NTGS 9),0,1.2,0.6,Organics,Moraine,3,8,0.163786104
+1180,ENG.YARC03097-01//HUS_Slump (NTGS 17),0,0.5,0.25,Organics,Moraine,2,8,0.378585176
+1181,ENG.YARC03097-01//INU_H (NTGS 2),0.2,1.5,0.85,Organics,Moraine,3,8,0.162579631
+1182,ENG.YARC03097-01//INU_P (NTGS 1),0.2,2.2,1.2,Organics,Moraine,3,8,0.160902482
+1183,ENG.YARC03097-01//INU_P (NTGS 1),2.8,3,2.9,Organics,Moraine,3,8,0.152952575
+1184,ENG.YARC03097-01//INU_R (NTGS 3),0,0.8,0.4,Organics,Moraine,3,0,0.144783876
+1185,ENG.YARC03097-01//INU_R (NTGS 3),0.8,2.8,1.8,Organics,Moraine,3,87,0.457894758
+1186,ENG.YARC03097-01//INU_R (NTGS 3),8.5,10,9.25,Organics,Moraine,3,45,0.226193019
+1187,ENG.YARC03097-01//ITH-09,1.5,2,1.75,Organics,Moraine,3,0,0.138968324
+1188,ENG.YARC03097-01//ITH-10,4.6,5,4.8,Organics,Moraine,3,0,0.126541061
+1189,ENG.YARC03097-01//ITH-12,2.74,3.05,2.895,Organics,Moraine,3,45,0.267765557
+1190,ENG.YARC03097-01//TUK_H (NTGS 10),0,0.2,0.1,Organics,Moraine,2,0,0.344708466
+1191,ENG.YARC03097-01//TVC_R (NTGS 6),0,0.9,0.45,Organics,Moraine,3,8,0.1645134
+1192,ENG.YARC03097-01//TVC_R (NTGS 6),1,1.5,1.25,Organics,Moraine,3,0,0.14109933
+1193,GSC4 - 15,0,0.2,0.1,Organics,Moraine,3,45,0.287500452
+1194,GSC4 - 15,0.2,1.5,0.85,Organics,Moraine,3,45,0.282120961
+1195,W14103137-CR17aN,0.9,1.2,1.05,Organics,Moraine,3,87,0.464448753
+1196,W14103137-CR17aN,0.1,0.9,0.5,Organics,Moraine,3,45,0.284623836
+1197,W14103137-CR17aN,1.2,2.2,1.7,Organics,Moraine,3,45,0.276098115
+1198,W14103137-CR21S,1,1.2,1.1,Organics,Moraine,2,45,0.544316047
+1199,W14103137-CR21S,1.2,3,2.1,Organics,Moraine,2,87,0.719327119
+1200,W14103137-CR21S,0,1,0.5,Organics,Moraine,2,87,0.730562299
+1201,W14103137-CR30a4,0,0.3,0.15,Organics,Moraine,3,45,0.287139935
+1202,W14103137-CRA3S,0.5,2.6,1.55,Organics,Moraine,3,45,0.277155217
+1203,170-1-12,2.4,5.5,3.95,Coarse,Moraine,3,0,0.130148173
+1204,170-1-2,2.4,4.1,3.25,Coarse,Moraine,2,8,0.354575793
+1205,170-1-29,1.5,2.4,1.95,Coarse,Moraine,3,0,0.138377354
+1206,170-1-8,2.3,5.8,4.05,Coarse,Moraine,2,8,0.348160512
+1207,174-02,1.8,3.5,2.65,Coarse,Moraine,2,8,0.359421738
+1208,174-54,0.6,1,0.8,Coarse,Moraine,2,8,0.374540146
+1209,307-7-5,2.3,2.6,2.45,Coarse,Moraine,3,0,0.13628051
+1210,312-15,1.5,2.4,1.95,Coarse,Moraine,2,45,0.537418898
+1211,312-20,4,6.1,5.05,Coarse,Moraine,3,8,0.14361932
+1212,312-20,3,4,3.5,Coarse,Moraine,3,0,0.131963143
+1213,312-22,5,6.1,5.55,Coarse,Moraine,3,45,0.250226923
+1214,ENG.YARC03097-01//HUS_Slump (NTGS 17),9.1,10.5,9.8,Coarse,Moraine,2,87,0.661992704
+1215,ENG.YARC03097-01//I401A_Upper (NTGS 16),0,0.5,0.25,Coarse,Moraine,3,0,0.145707206
+1216,ENG.YARC03097-01//TUK_H (NTGS 10),4.6,5.4,5,Coarse,Moraine,2,87,0.698704394
+1217,ENG.YARC03097-01//TUK_H (NTGS 10),5.4,5.6,5.5,Coarse,Moraine,2,45,0.506278458
+1218,GSC1A - P2,1.2,2.1,1.65,Coarse,Moraine,2,0,0.332964543
+1219,I401A - 13,3.4,4.7,4.05,Coarse,Moraine,2,0,0.314475672
+1220,I401A - 13,4.7,11.9,8.3,Coarse,Moraine,2,0,0.283146662
+1221,I401A - 49,0,1.1,0.55,Coarse,Moraine,2,0,0.341616857
+1222,I401A - 49,2.6,4.1,3.35,Coarse,Moraine,2,8,0.35377098
+1223,I401A - P3,0,2.1,1.05,Coarse,Moraine,2,0,0.337670573
+1224,I401A - P3,3.7,8.2,5.95,Coarse,Moraine,2,0,0.300238519
+1225,I401A - P3,8.2,9.3,8.75,Coarse,Moraine,2,45,0.477721122
+1226,I401A - P9,7.5,7.6,7.55,Coarse,Moraine,3,8,0.133074807
+1227,I401A - P9,6.7,7.5,7.1,Coarse,Moraine,3,0,0.11802314
+1228,PW10 - 33,1.5,2.7,2.1,Coarse,Moraine,2,8,0.36388905
+1229,PW10 - P5,3.1,4,3.55,Coarse,Moraine,2,8,0.352163822
+1230,PW10 - P5,0,1.5,0.75,Coarse,Moraine,2,8,0.3749523
+1231,W14103137-AH117.8N,3.6,6.1,4.85,Coarse,Moraine,3,45,0.254882649
+1232,W14103137-CR30a1,5.9,21,13.45,Coarse,Moraine,2,8,0.277273262
+1233,W14103137-CR30a1,0,1.35,0.675,Coarse,Moraine,2,0,0.340628215
+1234,W14103137-CR30a1,5.2,5.9,5.55,Coarse,Moraine,2,0,0.303205395
+1235,W14103137-CR30a2,6.7,12.7,9.7,Coarse,Moraine,2,8,0.304494178
+1236,W14103137-CR30a2,15.2,16.1,15.65,Coarse,Moraine,2,8,0.262015804
+1237,W14103137-CR30a2,4.3,4.4,4.35,Coarse,Moraine,2,0,0.312203611
+1238,W14103137-CR30a2,4.4,6.7,5.55,Coarse,Moraine,2,8,0.336279476
+1239,W14103137-CR30a2,14.9,15.2,15.05,Coarse,Moraine,2,0,0.237450972
+1240,W14103137-CR30a2,12.7,13.4,13.05,Coarse,Moraine,2,45,0.440189074
+1241,W14103137-CR30a2,16.1,20.1,18.1,Coarse,Moraine,2,8,0.24567028
+1242,W14103137-CR30a2,20.1,20.7,20.4,Coarse,Moraine,2,45,0.377794458
+1243,W14103137-CR30a4,12.1,21,16.55,Coarse,Moraine,3,8,0.100355465
+1244,W14103137-CR30a4,10.3,12.1,11.2,Coarse,Moraine,3,0,0.103697971
+1245,W14103137-CR30a4,5.8,9.65,7.725,Coarse,Moraine,3,8,0.132361489
+1246,W14103137-CRA3S,16.5,21.3,18.9,Coarse,Moraine,3,8,0.093059118
+1247,W14103137-CRA3S,8.2,12.2,10.2,Coarse,Moraine,3,0,0.107045513
+1248,W14103137-CRA3S,12.2,13.4,12.8,Coarse,Moraine,3,8,0.113033284
+1249,W14103137-CRA3S,13.4,15.8,14.6,Coarse,Moraine,3,8,0.106784702
+1250,W14103137-S6-BH01,8.5,9.3,8.9,Coarse,Moraine,3,0,0.111536965
+1251,W14103137-S6-BH02,3.4,5,4.2,Coarse,Moraine,3,8,0.147357713
+1252,W14103137-S6-BH13,8.3,9.1,8.7,Coarse,Moraine,3,0,0.112242188
+1253,172-2-1,4.3,5.8,5.05,Fine,Moraine,3,0,0.090841043
+1254,172-2-1,2.3,4.3,3.3,Fine,Moraine,3,8,0.110310564
+1255,172-2-5,4.3,4.9,4.6,Fine,Moraine,2,0,0.238579295
+1256,172-2-5,2.3,4.3,3.3,Fine,Moraine,2,8,0.276402606
+1257,174-02,0.1,0.3,0.2,Fine,Moraine,2,8,0.298758208
+1258,174-09,0.1,0.6,0.35,Fine,Moraine,2,8,0.297653
+1259,174-54,0.2,0.6,0.4,Fine,Moraine,2,0,0.266491007
+1260,2.45-1-1,2.7,4,3.35,Fine,Moraine,3,8,0.110136523
+1261,2.45-1-1,4.6,6.1,5.35,Fine,Moraine,3,8,0.10336691
+1262,2.45-1-16,2.1,5.6,3.85,Fine,Moraine,3,8,0.108409113
+1263,2.45-1-20,0,0.8,0.4,Fine,Moraine,3,8,0.120817842
+1264,307-14-2,0.1,0.8,0.45,Fine,Moraine,2,8,0.296917496
+1265,307-7-4,0.6,1.2,0.9,Fine,Moraine,2,8,0.293620674
+1266,307-8-9,1.1,1.5,1.3,Fine,Moraine,3,8,0.117469038
+1267,312-15,3,4,3.5,Fine,Moraine,2,45,0.433928831
+1268,312-27,3,6.1,4.55,Fine,Moraine,2,0,0.238899571
+1269,325-1-36,5.5,7,6.25,Fine,Moraine,3,0,0.087373643
+1270,ENG.YARC03097-01//Gunghi BH-02,18.3,20.4,19.35,Fine,Moraine,3,8,0.065402471
+1271,ENG.YARC03097-01//HUS_Slump (NTGS 17),2.5,3.3,2.9,Fine,Moraine,2,87,0.634944048
+1272,ENG.YARC03097-01//INU_H (NTGS 2),19.5,20.7,20.1,Fine,Moraine,3,45,0.121930018
+1273,ENG.YARC03097-01//ITH-01,2.44,2.6,2.52,Fine,Moraine,2,0,0.252148583
+1274,ENG.YARC03097-01//ITH-01,3.35,4,3.675,Fine,Moraine,2,45,0.43241764
+1275,ENG.YARC03097-01//ITH-03,1,2.3,1.65,Fine,Moraine,2,45,0.449973713
+1276,ENG.YARC03097-01//ITH-04,2.44,3,2.72,Fine,Moraine,2,8,0.280506503
+1277,ENG.YARC03097-01//ITH-05,1.65,2.7,2.175,Fine,Moraine,2,0,0.254447658
+1278,ENG.YARC03097-01//ITH-05,2.7,3.66,3.18,Fine,Moraine,2,8,0.277248661
+1279,ENG.YARC03097-01//ITH-06,3.35,3.75,3.55,Fine,Moraine,2,8,0.274645089
+1280,ENG.YARC03097-01//ITH-06,3,3.35,3.175,Fine,Moraine,2,8,0.277283947
+1281,ENG.YARC03097-01//ITH-06,3.95,4.2,4.075,Fine,Moraine,2,8,0.270976822
+1282,ENG.YARC03097-01//ITH-06,2.1,3,2.55,Fine,Moraine,2,45,0.442153064
+1283,ENG.YARC03097-01//ITH-07,2.1,2.7,2.4,Fine,Moraine,2,8,0.282786449
+1284,ENG.YARC03097-01//ITH-07,2.7,4.6,3.65,Fine,Moraine,2,45,0.432633449
+1285,ENG.YARC03097-01//ITH-08,2.44,4,3.22,Fine,Moraine,2,45,0.436349267
+1286,ENG.YARC03097-01//ITH-10,4.3,4.6,4.45,Fine,Moraine,3,0,0.092619955
+1287,ENG.YARC03097-01//ITH-10,5,6.1,5.55,Fine,Moraine,3,8,0.102710267
+1288,ENG.YARC03097-01//ITH-11,2.7,3.8,3.25,Fine,Moraine,2,45,0.436089788
+1289,ENG.YARC03097-01//ITH-11,1.52,2.7,2.11,Fine,Moraine,2,45,0.445973174
+1290,ENG.YARC03097-01//ITH-12,3.5,5.2,4.35,Fine,Moraine,3,45,0.195077883
+1291,ENG.YARC03097-01//ITH-12,3.05,3.5,3.275,Fine,Moraine,3,8,0.110397673
+1292,ENG.YARC03097-01//ITH-13,0.9,2.1,1.5,Fine,Moraine,2,0,0.258985303
+1293,ENG.YARC03097-01//ITH-14,1.21,3.2,2.205,Fine,Moraine,2,8,0.284181241
+1294,W14103137-CR30a2,13.7,14.9,14.3,Fine,Moraine,2,0,0.182030643
+1295,W14103137-CR30a2,0.3,0.9,0.6,Fine,Moraine,2,0,0.265116162
+1296,W14103137-CR30a2,3.2,4.3,3.75,Fine,Moraine,2,0,0.24406369
+1297,W14103137-CR30a2,13.4,13.7,13.55,Fine,Moraine,2,45,0.349925124
+1298,W14103137-CR30a4,5.7,5.8,5.75,Fine,Moraine,3,8,0.102057261
+1299,W14103137-CR30a4,9.65,9.85,9.75,Fine,Moraine,3,8,0.08973901
+1300,W14103137-CR30a4,3.7,5.7,4.7,Fine,Moraine,3,0,0.091875038
+1301,W14103137-CRA3S,15.8,16.5,16.15,Fine,Moraine,3,8,0.072757867
+1302,W14103137-S6-BH04,0.1,0.1,0.1,Fine,Moraine,3,45,0.219698587
+1303,W14103137-S6-BH04,9.3,10,9.65,Fine,Moraine,3,0,0.078179694
+1304,170-1-36,0.9,1.5,1.2,Till,Moraine,3,0,0.074154297
+1305,170-1-36,2.4,4.3,3.35,Till,Moraine,3,0,0.069047363
+1306,172-2-1,0,2.3,1.15,Till,Moraine,3,8,0.085601871
+1307,172-2-5,0,2.3,1.15,Till,Moraine,2,8,0.224289408
+1308,19A-07,0.2,1.5,0.85,Till,Moraine,3,45,0.161276432
+1309,2.45-1-11,0.2,6.1,3.15,Till,Moraine,3,0,0.069508653
+1310,2.45-1-13,0.15,1.8,0.975,Till,Moraine,2,87,0.566502073
+1311,2.45-1-16,0.15,2.1,1.125,Till,Moraine,3,8,0.085671614
+1312,2.45-1-20,5.6,6.9,6.25,Till,Moraine,3,8,0.072390709
+1313,2.45-1-20,0.8,5.6,3.2,Till,Moraine,3,8,0.080052237
+1314,2.45-1-22,1.5,6.1,3.8,Till,Moraine,3,8,0.078489952
+1315,307-14-5,0.1,1.5,0.8,Till,Moraine,3,0,0.075141142
+1316,307-7-5,1.1,2.3,1.7,Till,Moraine,3,0,0.072937155
+1317,307-8-1,0.3,2,1.15,Till,Moraine,3,8,0.085601871
+1318,307-8-6,0.2,2.6,1.4,Till,Moraine,3,8,0.084907218
+1319,312-20,1.5,3,2.25,Till,Moraine,3,0,0.071619121
+1320,312-27,1.5,3,2.25,Till,Moraine,2,0,0.19276529
+1321,ENG.YARC03097-01//177_Pit (NTGS 11),2.4,5.5,3.95,Till,Moraine,3,8,0.078103674
+1322,ENG.YARC03097-01//177_Pit (NTGS 11),0,2.4,1.2,Till,Moraine,3,0,0.074154297
+1323,ENG.YARC03097-01//177_Pit (NTGS 11),5.5,6.3,5.9,Till,Moraine,3,8,0.073235063
+1324,ENG.YARC03097-01//177_Pond (NTGS 12),6.3,10.1,8.2,Till,Moraine,2,8,0.183986118
+1325,ENG.YARC03097-01//177_Pond (NTGS 12),1.2,3,2.1,Till,Moraine,2,45,0.361190169
+1326,ENG.YARC03097-01//177_Pond (NTGS 12),4.9,6.3,5.6,Till,Moraine,2,8,0.198165216
+1327,ENG.YARC03097-01//177_Pond (NTGS 12),4.6,4.9,4.75,Till,Moraine,2,0,0.179402839
+1328,ENG.YARC03097-01//Gunghi BH-01,0,3,1.5,Till,Moraine,3,0,0.073421836
+1329,ENG.YARC03097-01//Gunghi BH-01,3.8,7.9,5.85,Till,Moraine,3,8,0.073356407
+1330,ENG.YARC03097-01//Gunghi BH-01,7.9,8.1,8,Till,Moraine,3,8,0.068299278
+1331,ENG.YARC03097-01//Gunghi BH-01,3.1,3.8,3.45,Till,Moraine,3,0,0.068817758
+1332,ENG.YARC03097-01//Gunghi BH-02,6,6.6,6.3,Till,Moraine,3,45,0.136869734
+1333,ENG.YARC03097-01//Gunghi BH-02,0,3,1.5,Till,Moraine,3,0,0.073421836
+1334,ENG.YARC03097-01//Gunghi BH-02,3,6,4.5,Till,Moraine,3,45,0.144570927
+1335,ENG.YARC03097-01//Gunghi BH-02,9.9,12,10.95,Till,Moraine,3,8,0.061874026
+1336,ENG.YARC03097-01//Gunghi BH-02,6.6,8.8,7.7,Till,Moraine,3,8,0.068985464
+1337,ENG.YARC03097-01//Gunghi BH-02,8.8,9.9,9.35,Till,Moraine,3,8,0.065287314
+1338,ENG.YARC03097-01//HUS_H (NTGS 7),2.4,5.7,4.05,Till,Moraine,3,8,0.077847103
+1339,ENG.YARC03097-01//HUS_R (NTGS 9),5.4,10.1,7.75,Till,Moraine,3,8,0.068870668
+1340,ENG.YARC03097-01//HUS_Slump (NTGS 17),0.5,2.1,1.3,Till,Moraine,2,8,0.223370596
+1341,ENG.YARC03097-01//I401A_Upper (NTGS 16),0.5,1.2,0.85,Till,Moraine,3,8,0.086442123
+1342,ENG.YARC03097-01//INU_H (NTGS 2),13.1,14.5,13.8,Till,Moraine,3,87,0.213378008
+1343,ENG.YARC03097-01//INU_H (NTGS 2),8.5,10,9.25,Till,Moraine,3,45,0.124988034
+1344,ENG.YARC03097-01//INU_H (NTGS 2),10,10.2,10.1,Till,Moraine,3,0,0.055017675
+1345,ENG.YARC03097-01//INU_H (NTGS 2),15.5,19.2,17.35,Till,Moraine,3,87,0.193109763
+1346,ENG.YARC03097-01//INU_H (NTGS 2),12.5,13.1,12.8,Till,Moraine,3,45,0.111857876
+1347,ENG.YARC03097-01//INU_H (NTGS 2),10.6,12.5,11.55,Till,Moraine,3,0,0.05236663
+1348,ENG.YARC03097-01//INU_H (NTGS 2),19.2,19.5,19.35,Till,Moraine,3,45,0.090737126
+1349,ENG.YARC03097-01//INU_H (NTGS 2),14.5,15.5,15,Till,Moraine,3,45,0.104330709
+1350,ENG.YARC03097-01//INU_H (NTGS 2),7.2,8.5,7.85,Till,Moraine,3,8,0.068641595
+1351,ENG.YARC03097-01//INU_P (NTGS 1),6.4,6.8,6.6,Till,Moraine,3,87,0.259053174
+1352,ENG.YARC03097-01//INU_P (NTGS 1),6.8,10.1,8.45,Till,Moraine,3,45,0.128121109
+1353,ENG.YARC03097-01//INU_R (NTGS 3),3.8,8.5,6.15,Till,Moraine,3,8,0.072631053
+1354,ENG.YARC03097-01//INU_R (NTGS 3),10,10.6,10.3,Till,Moraine,3,8,0.063240604
+1355,ENG.YARC03097-01//INU_R (NTGS 3),3,3.8,3.4,Till,Moraine,3,45,0.1494501
+1356,ENG.YARC03097-01//ITH-01,0,2.44,1.22,Till,Moraine,2,0,0.198484602
+1357,ENG.YARC03097-01//ITH-02,0,0.9,0.45,Till,Moraine,2,0,0.202842183
+1358,ENG.YARC03097-01//ITH-03,0,1,0.5,Till,Moraine,2,0,0.202557091
+1359,ENG.YARC03097-01//ITH-04,2.1,2.44,2.27,Till,Moraine,2,0,0.192655476
+1360,ENG.YARC03097-01//ITH-04,0,2.1,1.05,Till,Moraine,2,0,0.199440626
+1361,ENG.YARC03097-01//ITH-05,0,1.65,0.825,Till,Moraine,2,0,0.200711213
+1362,ENG.YARC03097-01//ITH-06,0,2.1,1.05,Till,Moraine,2,0,0.199440626
+1363,ENG.YARC03097-01//ITH-07,0,2.1,1.05,Till,Moraine,2,0,0.199440626
+1364,ENG.YARC03097-01//ITH-08,0,2.44,1.22,Till,Moraine,2,0,0.198484602
+1365,ENG.YARC03097-01//ITH-09,0,1.5,0.75,Till,Moraine,3,0,0.075265325
+1366,ENG.YARC03097-01//ITH-10,0,4.3,2.15,Till,Moraine,3,0,0.071857154
+1367,ENG.YARC03097-01//ITH-11,0,1.52,0.76,Till,Moraine,2,0,0.201079387
+1368,ENG.YARC03097-01//ITH-12,0.8,2.74,1.77,Till,Moraine,3,45,0.156925779
+1369,ENG.YARC03097-01//ITH-12,0,0.8,0.4,Till,Moraine,3,0,0.076139782
+1370,ENG.YARC03097-01//ITH-13,0,0.9,0.45,Till,Moraine,2,0,0.202842183
+1371,ENG.YARC03097-01//ITH-14,0,1.21,0.605,Till,Moraine,2,0,0.201959362
+1372,ENG.YARC03097-01//TUK_H (NTGS 10),0.2,1.2,0.7,Till,Moraine,2,45,0.372630728
+1373,ENG.YARC03097-01//TUK_H (NTGS 10),1.2,1.5,1.35,Till,Moraine,2,45,0.367300521
+1374,ENG.YARC03097-01//TVC_R (NTGS 6),1.5,2.4,1.95,Till,Moraine,3,0,0.072335361
+1375,ENG.YARC03097-01//TVC_R (NTGS 6),2.4,3.9,3.15,Till,Moraine,3,8,0.080183676
+1376,GSC1A - P2,0,1.2,0.6,Till,Moraine,2,0,0.201987796
+1377,GSC1A - P3,0,0.2,0.1,Till,Moraine,2,8,0.230795511
+1378,GSC1A - P3,0.2,0.9,0.55,Till,Moraine,2,0,0.202272295
+1379,GSC3 - 29,0.3,3.4,1.85,Till,Moraine,2,0,0.194971496
+1380,I401A - 49,1.1,2.6,1.85,Till,Moraine,2,0,0.194971496
+1381,PW11 - 9,0,2.4,1.2,Till,Moraine,2,0,0.198596898
+1382,PW9 - P4,3,3.8,3.4,Till,Moraine,2,8,0.210787064
+1383,PW9 - P4,1.5,3,2.25,Till,Moraine,2,8,0.217613299
+1384,PW9 - P5,0.2,1.8,1,Till,Moraine,2,0,0.199722461
+1385,W14103137-AH117.8N,1.8,3.6,2.7,Till,Moraine,3,45,0.152624333
+1386,W14103137-AH117.8N,0.1,1.8,0.95,Till,Moraine,3,8,0.086161228
+1387,W14103137-CR17aN,2.8,4.4,3.6,Till,Moraine,3,8,0.079007653
+1388,W14103137-CR17aN,2.2,2.8,2.5,Till,Moraine,3,45,0.153541234
+1389,W14103137-CR21S,6,10.4,8.2,Till,Moraine,2,8,0.183986118
+1390,W14103137-CR21S,3.7,5.7,4.7,Till,Moraine,2,45,0.340360684
+1391,W14103137-CR21S,3.5,3.7,3.6,Till,Moraine,2,45,0.349103987
+1392,W14103137-CR21S,3,3.5,3.25,Till,Moraine,2,8,0.211668546
+1393,W14103137-CR30a1,1.55,5.2,3.375,Till,Moraine,2,0,0.18666143
+1394,W14103137-CR30a2,0.9,3.2,2.05,Till,Moraine,2,0,0.193866032
+1395,W14103137-CR30a4,0.3,3.7,2,Till,Moraine,3,0,0.072215541
+1396,W14103137-CRA3S,4.6,8.2,6.4,Till,Moraine,3,0,0.062348044
+1397,W14103137-CRA3S,3,4.6,3.8,Till,Moraine,3,87,0.278428486
+1398,W14103137-CRA3S,2.6,3,2.8,Till,Moraine,3,45,0.152167549
+1399,W14103137-S6-BH01,0.4,1.3,0.85,Till,Moraine,3,45,0.161276432
+1400,W14103137-S6-BH01,0.2,0.4,0.3,Till,Moraine,3,8,0.088001631
+1401,W14103137-S6-BH01,1.6,8.5,5.05,Till,Moraine,3,45,0.142180785
+1402,W14103137-S6-BH01,1.3,1.6,1.45,Till,Moraine,3,8,0.084768891
+1403,W14103137-S6-BH02,9.4,9.7,9.55,Till,Moraine,3,8,0.064851494
+1404,W14103137-S6-BH02,1.2,2.3,1.75,Till,Moraine,3,8,0.083943133
+1405,W14103137-S6-BH02,7.2,7.9,7.55,Till,Moraine,3,8,0.069330891
+1406,W14103137-S6-BH02,0.15,1.2,0.675,Till,Moraine,3,45,0.162114823
+1407,W14103137-S6-BH02,0.1,0.15,0.125,Till,Moraine,3,8,0.088503046
+1408,W14103137-S6-BH02,6.1,6.7,6.4,Till,Moraine,3,8,0.072031538
+1409,W14103137-S6-BH02,2.3,3.4,2.85,Till,Moraine,3,45,0.151939573
+1410,W14103137-S6-BH02,7.9,8.2,8.05,Till,Moraine,3,45,0.129712288
+1411,W14103137-S6-BH02,8.4,9.4,8.9,Till,Moraine,3,45,0.126350704
+1412,W14103137-S6-BH02,9.7,10,9.85,Till,Moraine,3,45,0.122680947
+1413,W14103137-S6-BH02,6.7,7.2,6.95,Till,Moraine,3,45,0.134173727
+1414,W14103137-S6-BH02,5,6.1,5.55,Till,Moraine,3,45,0.140036277
+1415,W14103137-S6-BH03,8.2,9.1,8.65,Till,Moraine,3,0,0.057791038
+1416,W14103137-S6-BH03,0.1,1,0.55,Till,Moraine,3,8,0.087289695
+1417,W14103137-S6-BH03,1.15,2.5,1.825,Till,Moraine,3,8,0.083737817
+1418,W14103137-S6-BH03,2.5,2.8,2.65,Till,Moraine,3,45,0.152853141
+1419,W14103137-S6-BH03,3.2,5.5,4.35,Till,Moraine,3,45,0.145228482
+1420,W14103137-S6-BH03,9.1,10,9.55,Till,Moraine,3,45,0.12382994
+1421,W14103137-S6-BH03,5.5,8.2,6.85,Till,Moraine,3,8,0.07096365
+1422,W14103137-S6-BH03,1,1.15,1.075,Till,Moraine,3,45,0.160203595
+1423,W14103137-S6-BH03,2.8,3.2,3,Till,Moraine,3,8,0.08057915
+1424,W14103137-S6-BH04,0.5,0.5,0.5,Till,Moraine,3,45,0.162956687
+1425,W14103137-S6-BH04,3.3,3.6,3.45,Till,Moraine,3,8,0.079397933
+1426,W14103137-S6-BH04,3.9,4.8,4.35,Till,Moraine,3,45,0.145228482
+1427,W14103137-S6-BH04,0.5,3.3,1.9,Till,Moraine,3,45,0.15631869
+1428,W14103137-S6-BH04,4.8,5.4,5.1,Till,Moraine,3,0,0.065127778
+1429,W14103137-S6-BH04,5.4,5.7,5.55,Till,Moraine,3,8,0.074088281
+1430,W14103137-S6-BH04,6,9.3,7.65,Till,Moraine,3,8,0.069100433
+1431,W14103137-S6-BH04,3.6,3.9,3.75,Till,Moraine,3,0,0.068133083
+1432,W14103137-S6-BH04,5.7,6,5.85,Till,Moraine,3,45,0.138762454
+1433,W14103137-S6-BH05,3.5,5.5,4.5,Till,Moraine,3,87,0.273502676
+1434,W14103137-S6-BH05,2,2.8,2.4,Till,Moraine,3,8,0.082178539
+1435,W14103137-S6-BH05,0.1,2,1.05,Till,Moraine,3,0,0.074522989
+1436,W14103137-S6-BH05,2.8,3.5,3.15,Till,Moraine,3,0,0.069508653
+1437,W14103137-S6-BH06,3.2,3.4,3.3,Till,Moraine,3,8,0.079789939
+1438,W14103137-S6-BH06,1.6,1.9,1.75,Till,Moraine,3,8,0.083943133
+1439,W14103137-S6-BH06,5.5,5.9,5.7,Till,Moraine,3,8,0.073721526
+1440,W14103137-S6-BH06,0.1,1.6,0.85,Till,Moraine,3,45,0.161276432
+1441,W14103137-S6-BH06,4,4.3,4.15,Till,Moraine,3,8,0.077591288
+1442,W14103137-S6-BH06,4.8,4.9,4.85,Till,Moraine,3,8,0.075821606
+1443,W14103137-S6-BH06,3.4,4,3.7,Till,Moraine,3,45,0.148106267
+1444,W14103137-S6-BH06,5.9,8.5,7.2,Till,Moraine,3,45,0.133148659
+1445,W14103137-S6-BH06,1.9,2.1,2,Till,Moraine,3,0,0.072215541
+1446,W14103137-S6-BH06,8.5,10,9.25,Till,Moraine,3,0,0.056628297
+1447,W14103137-S6-BH06,4.3,4.8,4.55,Till,Moraine,3,45,0.144352285
+1448,W14103137-S6-BH06,4.9,5.5,5.2,Till,Moraine,3,45,0.141534607
+1449,W14103137-S6-BH06,2.1,3.2,2.65,Till,Moraine,3,45,0.152853141
+1450,W14103137-S6-BH08,6.1,7.3,6.7,Till,Moraine,3,45,0.13520537
+1451,W14103137-S6-BH08,1.8,3.4,2.6,Till,Moraine,3,8,0.081642286
+1452,W14103137-S6-BH08,7.3,7.6,7.45,Till,Moraine,3,0,0.060182173
+1453,W14103137-S6-BH08,0.2,1.8,1,Till,Moraine,3,0,0.074646252
+1454,W14103137-S6-BH08,3.4,5.8,4.6,Till,Moraine,3,0,0.066226543
+1455,W14103137-S6-BH08,5.8,6.1,5.95,Till,Moraine,3,0,0.063297809
+1456,W14103137-S6-BH08,7.6,10,8.8,Till,Moraine,3,0,0.057498325
+1457,W14103137-S6-BH11,0.1,1.9,1,Till,Moraine,3,8,0.086021085
+1458,W14103137-S6-BH11,1.9,2.4,2.15,Till,Moraine,3,8,0.082853274
+1459,W14103137-S6-BH11,3.3,3.5,3.4,Till,Moraine,3,8,0.07952841
+1460,W14103137-S6-BH11,3.5,3.9,3.7,Till,Moraine,3,45,0.148106267
+1461,W14103137-S6-BH11,4.2,4.7,4.45,Till,Moraine,3,45,0.14478984
+1462,W14103137-S6-BH11,2.4,2.8,2.6,Till,Moraine,3,0,0.070791602
+1463,W14103137-S6-BH11,2.8,3.3,3.05,Till,Moraine,3,0,0.069740341
+1464,W14103137-S6-BH11,4.7,5.8,5.25,Till,Moraine,3,0,0.064801391
+1465,W14103137-S6-BH12,4.1,7.3,5.7,Till,Moraine,3,0,0.063831123
+1466,W14103137-S6-BH12,1.9,2.7,2.3,Till,Moraine,3,45,0.154462587
+1467,W14103137-S6-BH12,0.1,1.9,1,Till,Moraine,3,0,0.074646252
+1468,W14103137-S6-BH12,3.4,4.1,3.75,Till,Moraine,3,0,0.068133083
+1469,W14103137-S6-BH12,2.7,3.4,3.05,Till,Moraine,3,8,0.080447132
+1470,W14103137-S6-BH12,7.3,9.1,8.2,Till,Moraine,3,8,0.06784526
+1471,W14103137-S6-BH13,3.3,6.4,4.85,Till,Moraine,3,45,0.143046137
+1472,W14103137-S6-BH13,3.1,3.3,3.2,Till,Moraine,3,8,0.080052237
+1473,W14103137-S6-BH13,0.1,0.5,0.3,Till,Moraine,3,0,0.076391298
+1474,W14103137-S6-BH13,1.3,1.6,1.45,Till,Moraine,3,8,0.084768891
+1475,W14103137-S6-BH13,6.4,7.3,6.85,Till,Moraine,3,8,0.07096365
+1476,W14103137-S6-BH13,7.3,8.3,7.8,Till,Moraine,3,45,0.130715179
+1477,W14103137-S6-BH13,1.8,3.1,2.45,Till,Moraine,3,0,0.07114519
+1478,W14103137-S6-BH13,1.6,1.8,1.7,Till,Moraine,3,0,0.072937155
+1479,W14103137-S6-BH13,0.5,1.3,0.9,Till,Moraine,3,0,0.074893329
+1480,W14103137-S6-BH15,0,2.7,1.35,Till,Moraine,3,0,0.073787248
+1481,W14103137-S6-BH15,2.7,8.2,5.45,Till,Moraine,3,0,0.064368518
+1482,W14103137-S6-BH15,8.2,9.1,8.65,Till,Moraine,3,0,0.057791038
+1483,W14103137-S6-BH16,0.6,9.1,4.85,Till,Moraine,3,0,0.065675075
