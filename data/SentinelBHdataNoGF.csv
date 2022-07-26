@@ -1,0 +1,335 @@
+,Site.ID,SampleID,From..m.,To..m.,Depth,Material,Material.simplified,Material.code,Organics.code,VI.num.1,Visible.ice.1,Mid_VI,Cryostructures,Cryostructures.code,Missing.cryostructure,EI,EITrans,Presence,Deposit.type,Deposit.type.conf
+285,177_Pond (NTGS 12),NTGS17-BH12-01-C,0.82,1,0.91,Organics,Organics,4,1,0,No visible ice,0,,1,1,0.3528,0.353215819,1,Moraine,3
+291,177_Pond (NTGS 12),NTGS17-BH12-02-C,1,1.5,1.25,Organics,Organics,4,1,63,Medium to high,0,,1,1,0.3596,0.35999661,1,Moraine,3
+1,177_Pond (NTGS 12),NTGS17-BH12-05-C,2.5,2.9,2.7,Till,Till,4,0,63,Medium to high,45,,1,1,0,0.001412429,0,Moraine,3
+237,177_Pond (NTGS 12),NTGS17-BH12-04-C,2,2.5,2.25,Till,Till,4,0,63,Medium to high,45,,1,1,0.0902,0.091357627,1,Moraine,3
+253,177_Pond (NTGS 12),NTGS17-BH12-03-C,1.5,2,1.75,Till,Till,4,0,63,Medium to high,45,,1,1,0.1654,0.166345198,1,Moraine,3
+22,HUS_H (NTGS 7),NTGS17-BH07-02-A,1.5,2,1.75,Coarse till,Coarse,5,0,3,Low,8,,1,1,0,0.001412429,0,Moraine,3
+23,HUS_H (NTGS 7),NTGS17-BH07-03-A,2,2.5,2.25,Coarse till,Coarse,5,0,3,Low,8,,1,1,0,0.001412429,0,Moraine,3
+26,HUS_H (NTGS 7),NTGS17-BH07-18-A,9.5,10,9.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+27,HUS_H (NTGS 7),NTGS17-BH07-19-A,10,10.5,10.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+28,HUS_H (NTGS 7),NTGS17-BH07-20-A,10.5,11,10.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+29,HUS_H (NTGS 7),NTGS17-BH07-21-A,11,11.5,11.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+30,HUS_H (NTGS 7),NTGS17-BH07-37-A,11.5,12,11.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+31,HUS_H (NTGS 7),NTGS17-BH07-22-A,12,12.5,12.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+32,HUS_H (NTGS 7),NTGS17-BH07-23-A,12.5,13,12.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+33,HUS_H (NTGS 7),NTGS17-BH07-38-A,13,13.5,13.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+34,HUS_H (NTGS 7),NTGS17-BH07-24-A,13.5,14,13.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+35,HUS_H (NTGS 7),NTGS17-BH07-26-A,14,14.5,14.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+36,HUS_H (NTGS 7),NTGS17-BH07-27-A,14.5,15,14.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+37,HUS_H (NTGS 7),NTGS17-BH07-28-A,15,15.5,15.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+38,HUS_H (NTGS 7),NTGS17-BH07-39-A,15.5,16,15.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+39,HUS_H (NTGS 7),NTGS17-BH07-29-A,16,16.5,16.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+40,HUS_H (NTGS 7),NTGS17-BH07-30-A,16.5,17,16.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+41,HUS_H (NTGS 7),NTGS17-BH07-31-A,17,17.5,17.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+227,HUS_H (NTGS 7),NTGS17-BH07-01-A,1,1.5,1.25,Coarse till,Coarse,5,0,3,Low,8,,1,1,0.0362,0.037510169,1,Moraine,3
+239,HUS_H (NTGS 7),NTGS17-BH07-17-A,9,9.5,9.25,Coarse till,Coarse,5,0,3,Low,8,,1,1,0.0983,0.099434746,1,Moraine,3
+284,HUS_H (NTGS 7),NTGS17-BH07-14-A,7.5,8,7.75,Coarse till,Coarse,5,0,3,Low,8,,1,1,0.3405,0.340950565,1,Moraine,3
+286,HUS_H (NTGS 7),NTGS17-BH07-16-A,8.5,9,8.75,Coarse till,Coarse,5,0,3,Low,8,,1,1,0.3528,0.353215819,1,Moraine,3
+294,HUS_H (NTGS 7),NTGS17-BH07-15-A,8,8.5,8.25,Coarse till,Coarse,5,0,3,Low,8,,1,1,0.3801,0.380438701,1,Moraine,3
+310,HUS_H (NTGS 7),NTGS17-BH07-13-A,7,7.5,7.25,Coarse till,Coarse,5,0,3,Low,8,,1,1,0.5598,0.559631073,1,Moraine,3
+25,HUS_H (NTGS 7),NTGS17-BH07-12-A,6.5,7,6.75,Gravel,Coarse,6,0,80,High,87,,1,1,0,0.001412429,0,Moraine,3
+287,HUS_H (NTGS 7),NTGS17-BH07-32-A,17.5,18,17.75,Gravel,Coarse,6,0,80,High,87,,1,1,0.3528,0.353215819,1,Moraine,3
+288,HUS_H (NTGS 7),NTGS17-BH07-34-A,18.5,19,18.75,Gravel,Coarse,6,0,80,High,87,,1,1,0.3528,0.353215819,1,Moraine,3
+297,HUS_H (NTGS 7),NTGS17-BH07-10-A,5.5,6,5.75,Gravel,Coarse,6,0,80,High,87,,1,1,0.4087,0.40895791,1,Moraine,3
+309,HUS_H (NTGS 7),NTGS17-BH07-11-A,6,6.5,6.25,Gravel,Coarse,6,0,80,High,87,,1,1,0.5464,0.546268927,1,Moraine,3
+325,HUS_H (NTGS 7),NTGS17-BH07-36-A,19.5,20,19.75,Gravel,Coarse,6,0,80,High,87,,1,1,0.7178,0.717184746,1,Moraine,3
+330,HUS_H (NTGS 7),NTGS17-BH07-35-A,19,19.5,19.25,Gravel,Coarse,6,0,80,High,87,,1,1,0.7658,0.765049153,1,Moraine,3
+337,HUS_H (NTGS 7),NTGS17-BH07-33-A,18,18.5,18.25,Gravel,Coarse,6,0,80,High,87,,1,1,0.8134,0.812514689,1,Moraine,3
+21,HUS_H (NTGS 7),NTGS17-BH07-01-C,0,0.5,0.25,Organics,Organics,4,1,30,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+273,HUS_H (NTGS 7),NTGS17-BH07-02-C,0.5,0.9,0.7,Organics,Organics,4,1,60,Medium to high,45,,1,1,0.2665,0.267159605,1,Moraine,3
+24,HUS_H (NTGS 7),NTGS17-BH07-07-A,4,4.5,4.25,Till,Till,4,0,3,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+222,HUS_H (NTGS 7),NTGS17-BH07-08-A,4.5,5,4.75,Till,Till,4,0,3,Low,8,Vx,2,0,0.0272,0.028535593,1,Moraine,3
+231,HUS_H (NTGS 7),NTGS17-BH07-05-A,3,3.5,3.25,Till,Till,4,0,3,Low,8,Vx,2,0,0.0592,0.060445198,1,Moraine,3
+236,HUS_H (NTGS 7),NTGS17-BH07-06-A,3.5,4,3.75,Till,Till,4,0,3,Low,8,Vx,2,0,0.0866,0.087767797,1,Moraine,3
+243,HUS_H (NTGS 7),NTGS17-BH07-04-A,2.5,3,2.75,Till,Till,4,0,3,Low,8,Vx,2,0,0.1178,0.118879661,1,Moraine,3
+246,HUS_H (NTGS 7),NTGS17-BH07-09-A,5,5.5,5.25,Till,Till,4,0,3,Low,8,Vx,2,0,0.1284,0.129449718,1,Moraine,3
+44,HUS_P (NTGS 8),NTGS17-BH08-13-C,6,6.5,6.25,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+45,HUS_P (NTGS 8),NTGS17-BH08-24-C,6,6.5,6.25,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+46,HUS_P (NTGS 8),NTGS17-BH08-25-C,6.5,7,6.75,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+47,HUS_P (NTGS 8),NTGS17-BH08-17-C,8,8.5,8.25,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+48,HUS_P (NTGS 8),NTGS17-BH08-28-C,8,8.35,8.175,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+49,HUS_P (NTGS 8),NTGS17-BH08-29-C,8.5,9,8.75,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+50,HUS_P (NTGS 8),NTGS17-BH08-19-C,9,9.5,9.25,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+51,HUS_P (NTGS 8),NTGS17-BH08-30-C,9,9.5,9.25,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+52,HUS_P (NTGS 8),NTGS17-BH08-20-C,9.5,10,9.75,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+53,HUS_P (NTGS 8),NTGS17-BH08-31-C,9.5,10,9.75,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+54,HUS_P (NTGS 8),NTGS17-BH08-21-C,10,10.5,10.25,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+55,HUS_P (NTGS 8),NTGS17-BH08-32-C,10,10.5,10.25,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+56,HUS_P (NTGS 8),NTGS17-BH08-22-C,10.5,11,10.75,Clay,Fine,1,0,50,Medium to high,45,,1,1,0,0.001412429,0,Glaciolacustrine,3
+221,HUS_P (NTGS 8),NTGS17-BH08-16-C,7.5,8,7.75,Clay,Fine,1,0,50,Medium to high,45,,1,1,0.0256,0.026940113,1,Glaciolacustrine,3
+223,HUS_P (NTGS 8),NTGS17-BH08-15-C,7,7.5,7.25,Clay,Fine,1,0,50,Medium to high,45,,1,1,0.0272,0.028535593,1,Glaciolacustrine,3
+230,HUS_P (NTGS 8),NTGS17-BH08-26-C,7,7.5,7.25,Clay,Fine,1,0,50,Medium to high,45,,1,1,0.0543,0.05555904,1,Glaciolacustrine,3
+233,HUS_P (NTGS 8),NTGS17-BH08-27-C,7.5,8,7.75,Clay,Fine,1,0,50,Medium to high,45,,1,1,0.0638,0.065032203,1,Glaciolacustrine,3
+234,HUS_P (NTGS 8),NTGS17-BH08-14-C,6.5,7,6.75,Clay,Fine,1,0,50,Medium to high,45,,1,1,0.0774,0.078593785,1,Glaciolacustrine,3
+248,HUS_P (NTGS 8),NTGS17-BH08-18-C,8.5,9,8.75,Clay,Fine,1,0,50,Medium to high,45,,1,1,0.1537,0.154678249,1,Glaciolacustrine,3
+42,HUS_P (NTGS 8),NTGS17-BH08-01-C,0,0.5,0.25,Organics,Organics,4,1,90,High,87,,1,1,0,0.001412429,0,Glaciolacustrine,3
+240,HUS_P (NTGS 8),NTGS17-BH08-07-C,3,3.5,3.25,Organics,Organics,4,1,5,Low,8,Vx,2,0,0.0983,0.099434746,1,Glaciolacustrine,3
+244,HUS_P (NTGS 8),NTGS17-BH08-06-C,2.5,3,2.75,Organics,Organics,4,1,10,Low,8,Vx,2,0,0.1199,0.120973729,1,Glaciolacustrine,3
+260,HUS_P (NTGS 8),NTGS17-BH08-08-C,3.5,4,3.75,Organics,Organics,4,1,30,Medium to high,45,Vs,2,0,0.2141,0.214907627,1,Glaciolacustrine,3
+289,HUS_P (NTGS 8),NTGS17-BH08-11-C,5,5.5,5.25,Organics,Organics,4,1,5,Low,8,,1,1,0.3528,0.353215819,1,Glaciolacustrine,3
+295,HUS_P (NTGS 8),NTGS17-BH08-05-C,2,2.5,2.25,Organics,Organics,4,1,10,Low,8,Vx,2,0,0.3838,0.384128249,1,Glaciolacustrine,3
+296,HUS_P (NTGS 8),NTGS17-BH08-04-C,1.5,2,1.75,Organics,Organics,4,1,10,Low,8,Vx,2,0,0.3954,0.39569548,1,Glaciolacustrine,3
+300,HUS_P (NTGS 8),NTGS17-BH08-09-C,4,4.5,4.25,Organics,Organics,4,1,30,Medium to high,45,Vs,2,0,0.4378,0.437975706,1,Glaciolacustrine,3
+305,HUS_P (NTGS 8),NTGS17-BH08-10-C,4.5,5,4.75,Organics,Organics,4,1,5,Low,8,,1,1,0.476,0.476067797,1,Glaciolacustrine,3
+306,HUS_P (NTGS 8),NTGS17-BH08-01-A,0,0.5,0.25,Organics,Organics,4,1,90,High,87,,1,1,0.5215,0.521439266,1,Glaciolacustrine,3
+311,HUS_P (NTGS 8),NTGS17-BH08-02-A,0.5,1,0.75,Organics,Organics,4,1,90,High,45,,1,1,0.5598,0.559631073,1,Glaciolacustrine,3
+312,HUS_P (NTGS 8),NTGS17-BH08-03-C,0.9,1.5,1.2,Organics,Organics,4,1,60,Medium to high,45,,1,1,0.5863,0.586056215,1,Glaciolacustrine,3
+333,HUS_P (NTGS 8),NTGS17-BH08-02-C,0.5,0.9,0.7,Organics,Organics,4,1,90,High,45,,1,1,0.7875,0.786687853,1,Glaciolacustrine,3
+43,HUS_P (NTGS 8),NTGS17-BH08-03-A,5.5,6,5.75,Silt,Fine,2,0,20,Medium to high,45,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+272,HUS_P (NTGS 8),NTGS17-BH08-12-C,5.5,6,5.75,Silt,Fine,2,0,20,Medium to high,45,Vx,2,0,0.2561,0.256788983,1,Glaciolacustrine,3
+57,HUS_R (NTGS 9),NTGS17-BH09-01-C,0,0.5,0.25,Organics,Organics,4,1,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+58,HUS_R (NTGS 9),NTGS17-BH09-02-C,0.5,1,0.75,Organics,Organics,4,1,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+59,HUS_R (NTGS 9),NTGS17-BH09-11-C,5.1,5.5,5.3,Organics,Organics,4,1,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+220,HUS_R (NTGS 9),NTGS17-BH09-10-C,4.6,5,4.8,Organics,Organics,4,1,0,No visible ice,0,Nbn,1,0,0.0136,0.014974011,1,Moraine,3
+238,HUS_R (NTGS 9),NTGS17-BH09-03-C,1,1.5,1.25,Organics,Organics,4,1,5,Low,8,Vr,2,0,0.0902,0.091357627,1,Moraine,3
+242,HUS_R (NTGS 9),NTGS17-BH09-09-C,4,4.5,4.25,Organics,Organics,4,1,0,No visible ice,0,Nbn,1,0,0.108,0.109107345,1,Moraine,3
+267,HUS_R (NTGS 9),NTGS17-BH09-06-C,2.5,3,2.75,Organics,Organics,4,1,40,Medium to high,45,Vx,2,0,0.2332,0.233953672,1,Moraine,3
+268,HUS_R (NTGS 9),NTGS17-BH09-05-C,2,2.5,2.25,Organics,Organics,4,1,40,Medium to high,45,Vx,2,0,0.2404,0.241133333,1,Moraine,3
+271,HUS_R (NTGS 9),NTGS17-BH09-04-C,1.5,2,1.75,Organics,Organics,4,1,5,Low,8,Vr,2,0,0.2491,0.249808757,1,Moraine,3
+274,HUS_R (NTGS 9),NTGS17-BH09-07-C,3,3.5,3.25,Organics,Organics,4,1,40,Medium to high,45,Vx,2,0,0.2665,0.267159605,1,Moraine,3
+334,HUS_R (NTGS 9),NTGS17-BH09-08-C,3.5,4,3.75,Organics,Organics,4,1,40,Medium to high,45,Vx,2,0,0.7923,0.791474294,1,Moraine,3
+60,HUS_R (NTGS 9),NTGS17-BH09-01-A,5.5,6,5.75,Till,Till,4,0,10,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+61,HUS_R (NTGS 9),NTGS17-BH09-02-A,6,6.5,6.25,Till,Till,4,0,10,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+62,HUS_R (NTGS 9),NTGS17-BH09-03-A,6.5,7,6.75,Till,Till,4,0,10,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+63,HUS_R (NTGS 9),NTGS17-BH09-04-A,7,7.5,7.25,Till,Till,4,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+64,HUS_R (NTGS 9),NTGS17-BH09-05-A,7.5,8,7.75,Till,Till,4,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+65,HUS_R (NTGS 9),NTGS17-BH09-06-A,8,8.5,8.25,Till,Till,4,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+66,HUS_R (NTGS 9),NTGS17-BH09-07-A,8.5,9,8.75,Till,Till,4,0,3,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+67,HUS_R (NTGS 9),NTGS17-BH09-08-A,9,9.5,9.25,Till,Till,4,0,3,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+68,HUS_R (NTGS 9),NTGS17-BH09-09-A,9.5,10,9.75,Till,Till,4,0,3,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+319,HUS_R (NTGS 9),NTGS17-BH09-12-C,7,7.4,7.2,Till,Till,4,0,5,Low,8,Vx,2,0,0.6388,0.63840791,1,Moraine,3
+254,HUS_Slump (NTGS 17),NTGS17-BH17-04-A,3.5,4,3.75,Clay,Fine,1,0,5,Low,8,Vx,2,0,0.179,0.17990678,1,Moraine,2
+354,HUS_Slump (NTGS 17),NTGS17-BH17-01-C,2.1,2.4,2.25,Clay,Fine,1,0,90,High,87,,1,1,0.977,0.975652542,1,Moraine,2
+261,HUS_Slump (NTGS 17),NTGS17-BH17-07-A,7.5,8,7.75,Coarse till,Coarse,5,0,60,Medium to high,45,,1,1,0.2141,0.214907627,1,Moraine,2
+275,HUS_Slump (NTGS 17),NTGS17-BH17-08-A,8,8.5,8.25,Coarse till,Coarse,5,0,60,Medium to high,45,,1,1,0.2665,0.267159605,1,Moraine,2
+308,HUS_Slump (NTGS 17),NTGS17-BH17-05-C,6,6.5,6.25,Coarse till,Coarse,5,0,60,Medium to high,45,,1,1,0.5452,0.545072316,1,Moraine,2
+331,HUS_Slump (NTGS 17),NTGS17-BH17-06-C,6.5,7,6.75,Coarse till,Coarse,5,0,60,Medium to high,45,,1,1,0.7658,0.765049153,1,Moraine,2
+351,HUS_Slump (NTGS 17),NTGS17-BH17-04-C,5.5,6,5.75,Coarse till,Coarse,5,0,60,Medium to high,45,,1,1,0.9261,0.924896328,1,Moraine,2
+262,HUS_Slump (NTGS 17),NTGS17-BH17-09-A,8.5,9,8.75,Gravel,Coarse,6,0,3,Low,8,Vx,2,0,0.2141,0.214907627,1,Moraine,2
+307,HUS_Slump (NTGS 17),NTGS17-BH17-01-A,0,0.5,0.25,Organics,Organics,4,1,5,Low,8,Vx,2,0,0.5215,0.521439266,1,Moraine,2
+349,HUS_Slump (NTGS 17),NTGS17-BH17-10-A,9,9.5,9.25,Sand,Coarse,3,0,90,High,87,,1,1,0.9075,0.90634887,1,Moraine,2
+352,HUS_Slump (NTGS 17),NTGS17-BH17-11-A,9.5,10,9.75,Sand,Coarse,3,0,90,High,87,,1,1,0.9385,0.937261299,1,Moraine,2
+350,HUS_Slump (NTGS 17),NTGS17-BH17-02-C,3,3.5,3.25,Silt,Fine,2,0,90,High,87,,1,1,0.916,0.914824859,1,Moraine,2
+225,HUS_Slump (NTGS 17),NTGS17-BH17-02-A,1,1.5,1.25,Till,Till,4,0,5,Low,8,Vx,2,0,0.0286,0.029931638,1,Moraine,2
+315,HUS_Slump (NTGS 17),NTGS17-BH17-03-A,1.5,2,1.75,Till,Till,4,0,10,Low,8,Vx,2,0,0.6205,0.620159605,1,Moraine,2
+71,I401A_Pit (NTGS 15),NTGS17-BH15-03-A,1,1.5,1.25,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+72,I401A_Pit (NTGS 15),NTGS17-BH15-04-A,1.5,2,1.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+73,I401A_Pit (NTGS 15),NTGS17-BH15-05-A,2,2.5,2.25,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+74,I401A_Pit (NTGS 15),NTGS17-BH15-06-A,2.5,3,2.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+75,I401A_Pit (NTGS 15),NTGS17-BH15-07-A,3,3.5,3.25,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+76,I401A_Pit (NTGS 15),NTGS17-BH15-08-A,3.5,4,3.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+77,I401A_Pit (NTGS 15),NTGS17-BH15-09-A,4,4.5,4.25,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+78,I401A_Pit (NTGS 15),NTGS17-BH15-10-A,4.5,5,4.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+79,I401A_Pit (NTGS 15),NTGS17-BH15-11-A,5,5.5,5.25,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+80,I401A_Pit (NTGS 15),NTGS17-BH15-12-A,5.5,6,5.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,2
+81,I401A_Pit (NTGS 15),NTGS17-BH15-13-A,6,6.5,6.25,Rock,Coarse,1,0,0,No visible ice,0,Nbn/Nf,1,0,0,0.001412429,0,Glaciolacustrine,2
+82,I401A_Pit (NTGS 15),NTGS17-BH15-14-A,6.5,7,6.75,Rock,Coarse,1,0,0,No visible ice,0,Nbn/Nf,1,0,0,0.001412429,0,Glaciolacustrine,2
+83,I401A_Pit (NTGS 15),NTGS17-BH15-15-A,7,7.5,7.25,Rock,Coarse,1,0,0,No visible ice,0,Nbn/Nf,1,0,0,0.001412429,0,Glaciolacustrine,2
+84,I401A_Pit (NTGS 15),NTGS17-BH15-16-A,7.5,8,7.75,Rock,Coarse,1,0,0,No visible ice,0,Nbn/Nf,1,0,0,0.001412429,0,Glaciolacustrine,2
+85,I401A_Pit (NTGS 15),NTGS17-BH15-17-A,8,8.5,8.25,Rock,Coarse,1,0,0,No visible ice,0,Nbn/Nf,1,0,0,0.001412429,0,Glaciolacustrine,2
+86,I401A_Pit (NTGS 15),NTGS17-BH15-18-A,8.5,9,8.75,Rock,Coarse,1,0,0,No visible ice,0,Nbn/Nf,1,0,0,0.001412429,0,Glaciolacustrine,2
+87,I401A_Pit (NTGS 15),NTGS17-BH15-19-A,9,9.5,9.25,Rock,Coarse,1,0,0,No visible ice,0,Nbn/Nf,1,0,0,0.001412429,0,Glaciolacustrine,2
+88,I401A_Pit (NTGS 15),NTGS17-BH15-20-A,9.5,10,9.75,Rock,Coarse,1,0,0,No visible ice,0,Nbn/Nf,1,0,0,0.001412429,0,Glaciolacustrine,2
+69,I401A_Pit (NTGS 15),NTGS17-BH15-01-A,0,0.5,0.25,Silt,Fine,2,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,2
+70,I401A_Pit (NTGS 15),NTGS17-BH15-02-A,0.5,1,0.75,Silt,Fine,2,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,2
+97,I401A_Upper (NTGS 16),NTGS17-BH16-08-A,5,5.5,5.25,Clay,Fine,1,0,3,Low,8,,1,1,0,0.001412429,0,Moraine,3
+98,I401A_Upper (NTGS 16),NTGS17-BH16-09-A,5.5,6,5.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Moraine,3
+99,I401A_Upper (NTGS 16),NTGS17-BH16-17-A,6,6.5,6.25,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Moraine,3
+100,I401A_Upper (NTGS 16),NTGS17-BH16-10-A,6.5,7,6.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Moraine,3
+101,I401A_Upper (NTGS 16),NTGS17-BH16-11-A,7,7.5,7.25,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Moraine,3
+102,I401A_Upper (NTGS 16),NTGS17-BH16-12-A,7.5,8,7.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Moraine,3
+103,I401A_Upper (NTGS 16),NTGS17-BH16-13-A,8,8.5,8.25,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Moraine,3
+104,I401A_Upper (NTGS 16),NTGS17-BH16-18-A,8.5,9,8.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Moraine,3
+105,I401A_Upper (NTGS 16),NTGS17-BH16-19-A,9,9.5,9.25,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Moraine,3
+106,I401A_Upper (NTGS 16),NTGS17-BH16-20-A,9.5,10,9.75,Clay,Fine,1,0,5,Low,8,,1,1,0,0.001412429,0,Moraine,3
+292,I401A_Upper (NTGS 16),NTGS17-BH16-06-A,4,4.5,4.25,Clay,Fine,1,0,3,Low,8,Nbe,1,0,0.3772,0.377546893,1,Moraine,3
+89,I401A_Upper (NTGS 16),NTGS17-BH16-01-A,0,0.5,0.25,Sand,Coarse,3,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+90,I401A_Upper (NTGS 16),NTGS17-BH16-14-A,0.5,1,0.75,Till,Till,4,0,3,Low,8,Nbe,1,0,0,0.001412429,0,Moraine,3
+91,I401A_Upper (NTGS 16),NTGS17-BH16-02-A,1,1.5,1.25,Till,Till,4,0,3,Low,8,Nbe,1,0,0,0.001412429,0,Moraine,3
+92,I401A_Upper (NTGS 16),NTGS17-BH16-03-A,1.5,2,1.75,Till,Till,4,0,3,Low,8,Nbe,1,0,0,0.001412429,0,Moraine,3
+93,I401A_Upper (NTGS 16),NTGS17-BH16-04-A,2,2.5,2.25,Till,Till,4,0,3,Low,8,Nbe,1,0,0,0.001412429,0,Moraine,3
+94,I401A_Upper (NTGS 16),NTGS17-BH16-05-A,2.5,3,2.75,Till,Till,4,0,3,Low,8,Nbe,1,0,0,0.001412429,0,Moraine,3
+95,I401A_Upper (NTGS 16),NTGS17-BH16-15-A,3,3.5,3.25,Till,Till,4,0,3,Low,8,Nbe,1,0,0,0.001412429,0,Moraine,3
+96,I401A_Upper (NTGS 16),NTGS17-BH16-16-A,3.5,4,3.75,Till,Till,4,0,3,Low,8,Nbe,1,0,0,0.001412429,0,Moraine,3
+109,INU_H (NTGS 2),NTGS17-BH02-04-A,1.5,2,1.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+110,INU_H (NTGS 2),NTGS17-BH02-05-A,2,2.5,2.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+111,INU_H (NTGS 2),NTGS17-BH02-06-A,2.5,3,2.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+112,INU_H (NTGS 2),NTGS17-BH02-07-A,3,3.5,3.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+113,INU_H (NTGS 2),NTGS17-BH02-08-A,3.5,4,3.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+114,INU_H (NTGS 2),NTGS17-BH02-09-A,4,4.5,4.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+115,INU_H (NTGS 2),NTGS17-BH02-10-A,4.5,5,4.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+116,INU_H (NTGS 2),NTGS17-BH02-11-A,5,5.5,5.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+117,INU_H (NTGS 2),NTGS17-BH02-12-A,5.5,6,5.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+118,INU_H (NTGS 2),NTGS17-BH02-13-A,6,6.5,6.25,Coarse till,Coarse,5,0,1,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+119,INU_H (NTGS 2),NTGS17-BH02-14-A,6.5,7,6.75,Coarse till,Coarse,5,0,1,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+107,INU_H (NTGS 2),NTGS17-BH02-01-A,0,0.5,0.25,Organics,Organics,4,1,0,No visible ice,0,Vx,2,0,0,0.001412429,0,Moraine,3
+108,INU_H (NTGS 2),NTGS17-BH02-03-A,1,1.5,1.25,Organics,Organics,4,1,3,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+276,INU_H (NTGS 2),NTGS17-BH02-02-A,0.5,1,0.75,Organics,Organics,4,1,3,Low,8,Vx,2,0,0.2665,0.267159605,1,Moraine,3
+132,INU_H (NTGS 2),NTGS17-BH02-30-A,19.5,20,19.75,Silt,Fine,2,0,50,Medium to high,45,,1,1,0,0.001412429,0,Moraine,3
+133,INU_H (NTGS 2),NTGS17-BH02-31-A,20,20.5,20.25,Silt,Fine,2,0,50,Medium to high,45,,1,1,0,0.001412429,0,Moraine,3
+120,INU_H (NTGS 2),NTGS17-BH02-16-A,7.5,8,7.75,Till,Till,4,0,10,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+121,INU_H (NTGS 2),NTGS17-BH02-18-A,8.5,9,8.75,Till,Till,4,0,20,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+122,INU_H (NTGS 2),NTGS17-BH02-24-A,12.5,13,12.75,Till,Till,4,0,50,Medium to high,45,,1,1,0,0.001412429,0,Moraine,3
+123,INU_H (NTGS 2),NTGS17-BH02-25-A,13,13.5,13.25,Till,Till,4,0,95,High,87,,1,1,0,0.001412429,0,Moraine,3
+124,INU_H (NTGS 2),NTGS17-BH02-26-A,13.5,14,13.75,Till,Till,4,0,95,High,87,,1,1,0,0.001412429,0,Moraine,3
+125,INU_H (NTGS 2),NTGS17-BH02-27-A,14,14.5,14.25,Till,Till,4,0,95,High,87,,1,1,0,0.001412429,0,Moraine,3
+126,INU_H (NTGS 2),NTGS17-BH02-28-A,14.5,15,14.75,Till,Till,4,0,50,Medium to high,45,,1,1,0,0.001412429,0,Moraine,3
+127,INU_H (NTGS 2),NTGS17-BH02-05-C,16,16.5,16.25,Till,Till,4,0,90,High,87,,1,1,0,0.001412429,0,Moraine,3
+128,INU_H (NTGS 2),NTGS17-BH02-06-C,16.5,17,16.75,Till,Till,4,0,90,High,87,,1,1,0,0.001412429,0,Moraine,3
+129,INU_H (NTGS 2),NTGS17-BH02-07-C,17,17.5,17.25,Till,Till,4,0,90,High,87,,1,1,0,0.001412429,0,Moraine,3
+130,INU_H (NTGS 2),NTGS17-BH02-09-C,18.25,18.5,18.375,Till,Till,4,0,90,High,87,,1,1,0,0.001412429,0,Moraine,3
+131,INU_H (NTGS 2),NTGS17-BH02-29-A,19,19.5,19.25,Till,Till,4,0,50,Medium to high,45,,1,1,0,0.001412429,0,Moraine,3
+218,INU_H (NTGS 2),NTGS17-BH02-04-C,15.5,16,15.75,Till,Till,4,0,90,High,87,,1,1,0.0108,0.012181921,1,Moraine,3
+219,INU_H (NTGS 2),NTGS17-BH02-03-C,15,15.5,15.25,Till,Till,4,0,50,Medium to high,45,,1,1,0.0121,0.013478249,1,Moraine,3
+226,INU_H (NTGS 2),NTGS17-BH02-22-A,11.5,12,11.75,Till,Till,4,0,0,No visible ice,0,Nbn,1,0,0.0302,0.031527119,1,Moraine,3
+228,INU_H (NTGS 2),NTGS17-BH02-08-C,17.5,18,17.75,Till,Till,4,0,90,High,87,,1,1,0.0434,0.044689831,1,Moraine,3
+232,INU_H (NTGS 2),NTGS17-BH02-02-C,10.5,10.85,10.675,Till,Till,4,0,0,No visible ice,0,Nbn,1,0,0.0603,0.06154209,1,Moraine,3
+247,INU_H (NTGS 2),NTGS17-BH02-21-A,11,11.5,11.25,Till,Till,4,0,0,No visible ice,0,Nbn,1,0,0.1347,0.135731921,1,Moraine,3
+255,INU_H (NTGS 2),NTGS17-BH02-10-C,18.5,19,18.75,Till,Till,4,0,90,High,87,,1,1,0.179,0.17990678,1,Moraine,3
+256,INU_H (NTGS 2),NTGS17-BH02-11-C,19,19.5,19.25,Till,Till,4,0,50,Medium to high,45,,1,1,0.179,0.17990678,1,Moraine,3
+279,INU_H (NTGS 2),NTGS17-BH02-17-A,8,8.5,8.25,Till,Till,4,0,10,Low,8,Vx,2,0,0.3036,0.304154802,1,Moraine,3
+281,INU_H (NTGS 2),NTGS17-BH02-20-A,9.5,10,9.75,Till,Till,4,0,20,Medium to high,45,Vx,2,0,0.3291,0.329582768,1,Moraine,3
+302,INU_H (NTGS 2),NTGS17-BH02-15-A,7,7.5,7.25,Till,Till,4,0,10,Low,8,Vx,2,0,0.4498,0.449941808,1,Moraine,3
+313,INU_H (NTGS 2),NTGS17-BH02-19-A,9,9.5,9.25,Till,Till,4,0,20,Medium to high,45,Vx,2,0,0.5924,0.592138983,1,Moraine,3
+134,INU_P (NTGS 1),NTGS17-BH01-01-C,0,0.5,0.25,Organics,Organics,4,1,0,No visible ice,0,,1,1,0,0.001412429,0,Moraine,3
+249,INU_P (NTGS 1),NTGS17-BH01-03-C,1,1.5,1.25,Organics,Organics,4,1,10,Low,8,,1,1,0.1537,0.154678249,1,Moraine,3
+257,INU_P (NTGS 1),NTGS17-BH01-04-C,1.5,2,1.75,Organics,Organics,4,1,10,Low,8,,1,1,0.179,0.17990678,1,Moraine,3
+277,INU_P (NTGS 1),NTGS17-BH01-02-C,0.5,1,0.75,Organics,Organics,4,1,10,Low,8,,1,1,0.2665,0.267159605,1,Moraine,3
+135,INU_P (NTGS 1),NTGS17-BH01-16-C,7.5,8,7.75,Till,Till,4,0,20,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+136,INU_P (NTGS 1),NTGS17-BH01-17-C,8,8.5,8.25,Till,Till,4,0,70,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+137,INU_P (NTGS 1),NTGS17-BH01-18-C,8.5,9,8.75,Till,Till,4,0,70,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+138,INU_P (NTGS 1),NTGS17-BH01-19-C,9,9.5,9.25,Till,Till,4,0,50,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+139,INU_P (NTGS 1),NTGS17-BH01-20-C,9.5,10,9.75,Till,Till,4,0,50,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+140,INU_P (NTGS 1),NTGS17-BH01-21-C,10,10.5,10.25,Till,Till,4,0,50,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+141,INU_P (NTGS 1),NTGS17-BH01-22-C,10.5,11,10.75,Till,Till,4,0,50,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+142,INU_P (NTGS 1),NTGS17-BH01-23-C,11,11.2,11.1,Till,Till,4,0,50,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+241,INU_P (NTGS 1),NTGS17-BH01-15-C,7,7.5,7.25,Till,Till,4,0,40,Medium to high,45,Vx,2,0,0.1009,0.102027401,1,Moraine,3
+320,INU_P (NTGS 1),NTGS17-BH01-14-C,6.5,7,6.75,Till,Till,4,0,80,High,87,,1,1,0.6561,0.65565904,1,Moraine,3
+143,INU_R (NTGS 3),NTGS17-BH03-04-C,2,2.5,2.25,Organics,Organics,4,1,70,High,87,,1,1,0,0.001412429,0,Moraine,3
+152,INU_R (NTGS 3),NTGS17-BH03-11-A,8.5,9,8.75,Organics,Organics,4,1,30,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+153,INU_R (NTGS 3),NTGS17-BH03-12-A,9,9.5,9.25,Organics,Organics,4,1,40,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+154,INU_R (NTGS 3),NTGS17-BH03-13-A,9.5,10,9.75,Organics,Organics,4,1,40,Medium to high,45,Vx,2,0,0,0.001412429,0,Moraine,3
+245,INU_R (NTGS 3),NTGS17-BH03-01-C,0.8,1,0.9,Organics,Organics,4,1,0,No visible ice,0,Nbn,1,0,0.1199,0.120973729,1,Moraine,3
+258,INU_R (NTGS 3),NTGS17-BH03-05-C,2.5,3,2.75,Organics,Organics,4,1,70,High,87,,1,1,0.179,0.17990678,1,Moraine,3
+290,INU_R (NTGS 3),NTGS17-BH03-03-C,1.5,2,1.75,Organics,Organics,4,1,70,High,87,,1,1,0.3528,0.353215819,1,Moraine,3
+298,INU_R (NTGS 3),NTGS17-BH03-02-C,1,1.5,1.25,Organics,Organics,4,1,70,High,87,,1,1,0.4208,0.421023729,1,Moraine,3
+322,INU_R (NTGS 3),NTGS17-BH03-01-A,0,0.5,0.25,Organics,Organics,4,1,0,No visible ice,0,Nbn,1,0,0.6855,0.684975989,1,Moraine,3
+144,INU_R (NTGS 3),NTGS17-BH03-03-A,4.5,5,4.75,Till,Till,4,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+145,INU_R (NTGS 3),NTGS17-BH03-04-A,5,5.5,5.25,Till,Till,4,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+146,INU_R (NTGS 3),NTGS17-BH03-05-A,5.5,6,5.75,Till,Till,4,0,2,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+147,INU_R (NTGS 3),NTGS17-BH03-06-A,6,6.5,6.25,Till,Till,4,0,2,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+148,INU_R (NTGS 3),NTGS17-BH03-07-A,6.5,7,6.75,Till,Till,4,0,2,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+149,INU_R (NTGS 3),NTGS17-BH03-08-A,7,7.5,7.25,Till,Till,4,0,2,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+150,INU_R (NTGS 3),NTGS17-BH03-09-A,7.5,8,7.75,Till,Till,4,0,2,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+151,INU_R (NTGS 3),NTGS17-BH03-10-A,8,8.5,8.25,Till,Till,4,0,2,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+155,INU_R (NTGS 3),NTGS17-BH03-09-C,10.2,10.5,10.35,Till,Till,4,0,5,Low,8,Nbe,1,0,0,0.001412429,0,Moraine,3
+263,INU_R (NTGS 3),NTGS17-BH03-08-C,4,4.65,4.325,Till,Till,4,0,10,Low,8,Vx,2,0,0.2141,0.214907627,1,Moraine,3
+269,INU_R (NTGS 3),NTGS17-BH03-07-C,3.5,4,3.75,Till,Till,4,0,50,Medium to high,45,,1,1,0.2464,0.247116384,1,Moraine,3
+303,INU_R (NTGS 3),NTGS17-BH03-06-C,3,3.5,3.25,Till,Till,4,0,50,Medium to high,45,,1,1,0.4658,0.46589661,1,Moraine,3
+329,TUK_H (NTGS 10),NTGS17-BH10-06-C,6.5,7,6.75,Clay,Fine,1,0,1,Low,8,Vs,2,0,0.7536,0.752883616,1,Moraine,2
+335,TUK_H (NTGS 10),NTGS17-BH10-07-C,7,7.5,7.25,Clay,Fine,1,0,80,High,87,,1,1,0.7939,0.793069774,1,Moraine,2
+336,TUK_H (NTGS 10),NTGS17-BH10-05-C,6,6.5,6.25,Clay,Fine,1,0,60,Medium to high,45,,1,1,0.8076,0.806731073,1,Moraine,2
+344,TUK_H (NTGS 10),NTGS17-BH10-03-C,4,4.5,4.25,Clay,Fine,1,0,40,Medium to high,45,Vx,2,0,0.8548,0.85379774,1,Moraine,2
+353,TUK_H (NTGS 10),NTGS17-BH10-09-C,5.5,6,5.75,Clay,Fine,1,0,60,Medium to high,45,,1,1,0.9385,0.937261299,1,Moraine,2
+251,TUK_H (NTGS 10),NTGS17-BH10-07-A,8.84,9.25,9.045,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.1563,0.157270904,1,Moraine,2
+282,TUK_H (NTGS 10),NTGS17-BH10-14-A,12.25,12.75,12.5,Coarse till,Coarse,5,0,5,Low,45,Nbe,1,0,0.3372,0.337659887,1,Moraine,2
+299,TUK_H (NTGS 10),NTGS17-BH10-13-A,11.75,12.25,12,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.4208,0.421023729,1,Moraine,2
+316,TUK_H (NTGS 10),NTGS17-BH10-10-A,10.25,10.75,10.5,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.6205,0.620159605,1,Moraine,2
+317,TUK_H (NTGS 10),NTGS17-BH10-15-A,12.75,13,12.875,Coarse till,Coarse,5,0,5,Low,45,Nbe,1,0,0.6205,0.620159605,1,Moraine,2
+321,TUK_H (NTGS 10),NTGS17-BH10-02-C,3.9,4,3.95,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.6624,0.661941243,1,Moraine,2
+323,TUK_H (NTGS 10),NTGS17-BH10-12-A,11.25,11.75,11.5,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.6855,0.684975989,1,Moraine,2
+326,TUK_H (NTGS 10),NTGS17-BH10-04-A,2.75,3.25,3,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.7216,0.720974011,1,Moraine,2
+328,TUK_H (NTGS 10),NTGS17-BH10-11-C,8,8.5,8.25,Coarse till,Coarse,5,0,10,Medium to high,45,Vx,2,0,0.7532,0.752484746,1,Moraine,2
+332,TUK_H (NTGS 10),NTGS17-BH10-03-A,2.25,2.75,2.5,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.7658,0.765049153,1,Moraine,2
+338,TUK_H (NTGS 10),NTGS17-BH10-09-A,9.75,10.25,10,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.8275,0.826574859,1,Moraine,2
+340,TUK_H (NTGS 10),NTGS17-BH10-02-A,1.8,2.25,2.025,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.8337,0.832757345,1,Moraine,2
+341,TUK_H (NTGS 10),NTGS17-BH10-08-C,7.5,8,7.75,Coarse till,Coarse,5,0,30,Medium to high,45,Vs,2,0,0.8435,0.842529661,1,Moraine,2
+342,TUK_H (NTGS 10),NTGS17-BH10-05-A,3.25,3.9,3.575,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.845,0.844025424,1,Moraine,2
+346,TUK_H (NTGS 10),NTGS17-BH10-11-A,10.75,11.25,11,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.8746,0.873541808,1,Moraine,2
+347,TUK_H (NTGS 10),NTGS17-BH10-08-A,9.25,9.75,9.5,Coarse till,Coarse,5,0,50,Medium to high,45,,1,1,0.8826,0.881519209,1,Moraine,2
+348,TUK_H (NTGS 10),NTGS17-BH10-12-C,8.5,8.9,8.7,Coarse till,Coarse,5,0,60,Medium to high,45,,1,1,0.8865,0.885408192,1,Moraine,2
+339,TUK_H (NTGS 10),NTGS17-BH10-04-C,4.5,6,5.25,Sand,Coarse,3,0,90,High,87,,1,1,0.8324,0.831461017,1,Moraine,2
+343,TUK_H (NTGS 10),NTGS17-BH10-06-A,4.6,5.4,5,Sand,Coarse,3,0,90,High,87,,1,1,0.845,0.844025424,1,Moraine,2
+345,TUK_H (NTGS 10),NTGS17-BH10-10-C,5.4,5.5,5.45,Sand,Coarse,3,0,30,Medium to high,45,Vx,2,0,0.872,0.870949153,1,Moraine,2
+270,TUK_H (NTGS 10),NTGS17-BH10-01-C,0.6,1.1,0.85,Till,Till,4,0,50,Medium to high,45,Vx,2,0,0.247,0.247714689,1,Moraine,2
+283,TUK_H (NTGS 10),NTGS17-BH10-01-A,0,0.6,0.3,Organics,Organics,4,1,60,Medium to high,45,,1,1,0.339,0.339454802,1,Moraine,3
+157,TVC_H (NTGS 5),NTGS17-BH05-15-A,2.5,3,2.75,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+158,TVC_H (NTGS 5),NTGS17-BH05-16-A,3,3.5,3.25,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+159,TVC_H (NTGS 5),NTGS17-BH05-17-A,3.5,4,3.75,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+160,TVC_H (NTGS 5),NTGS17-BH05-18-A,4,4.5,4.25,Clay,Fine,1,0,10,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+161,TVC_H (NTGS 5),NTGS17-BH05-19-A,4.5,5,4.75,Clay,Fine,1,0,10,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+162,TVC_H (NTGS 5),NTGS17-BH05-20-A,5,5.5,5.25,Clay,Fine,1,0,10,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+163,TVC_H (NTGS 5),NTGS17-BH05-21-A,5.5,6,5.75,Clay,Fine,1,0,10,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+164,TVC_H (NTGS 5),NTGS17-BH05-22-A,6,6.5,6.25,Clay,Fine,1,0,10,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+165,TVC_H (NTGS 5),NTGS17-BH05-01-A,6.5,7,6.75,Clay,Fine,1,0,10,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+166,TVC_H (NTGS 5),NTGS17-BH05-23-A,7,7.5,7.25,Clay,Fine,1,0,7,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+167,TVC_H (NTGS 5),NTGS17-BH05-02-A,7.5,8,7.75,Clay,Fine,1,0,7,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+168,TVC_H (NTGS 5),NTGS17-BH05-03-A,8,8.5,8.25,Clay,Fine,1,0,7,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+169,TVC_H (NTGS 5),NTGS17-BH05-05-A,9,9.5,9.25,Clay,Fine,1,0,7,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+170,TVC_H (NTGS 5),NTGS17-BH05-08-A,10.5,11,10.75,Clay,Fine,1,0,7,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+171,TVC_H (NTGS 5),NTGS17-BH05-09-A,11,11.5,11.25,Clay,Fine,1,0,7,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+252,TVC_H (NTGS 5),NTGS17-BH05-04-A,8.5,9,8.75,Clay,Fine,1,0,7,Low,8,Vx,2,0,0.1602,0.161159887,1,Glaciolacustrine,3
+264,TVC_H (NTGS 5),NTGS17-BH05-07-A,10,10.5,10.25,Clay,Fine,1,0,7,Low,8,Vx,2,0,0.2141,0.214907627,1,Glaciolacustrine,3
+266,TVC_H (NTGS 5),NTGS17-BH05-06-A,9.5,10,9.75,Clay,Fine,1,0,7,Low,8,Vx,2,0,0.2252,0.225976271,1,Glaciolacustrine,3
+172,TVC_H (NTGS 5),NTGS17-BH05-10-A,11.5,12,11.75,Coarse till,Coarse,5,0,3,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+173,TVC_H (NTGS 5),NTGS17-BH05-11-A,12,12.5,12.25,Coarse till,Coarse,5,0,3,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+174,TVC_H (NTGS 5),NTGS17-BH05-12-A,12.5,13,12.75,Coarse till,Coarse,5,0,3,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+175,TVC_H (NTGS 5),NTGS17-BH05-04-C,13.3,13.7,13.5,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+176,TVC_H (NTGS 5),NTGS17-BH05-05-C,13.7,13.9,13.8,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+177,TVC_H (NTGS 5),NTGS17-BH05-24-A,14,14.5,14.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+178,TVC_H (NTGS 5),NTGS17-BH05-25-A,14.5,15,14.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+179,TVC_H (NTGS 5),NTGS17-BH05-26-A,15,15.5,15.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+180,TVC_H (NTGS 5),NTGS17-BH05-27-A,15.5,16,15.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+181,TVC_H (NTGS 5),NTGS17-BH05-28-A,16,16.5,16.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+184,TVC_H (NTGS 5),NTGS17-BH05-31-A,17.5,18,17.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+185,TVC_H (NTGS 5),NTGS17-BH05-32-A,18,18.5,18.25,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+186,TVC_H (NTGS 5),NTGS17-BH05-33-A,18.5,19,18.75,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+187,TVC_H (NTGS 5),NTGS17-BH05-06-C,19.2,19.5,19.35,Coarse till,Coarse,5,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+156,TVC_H (NTGS 5),NTGS17-BH05-13-A,0,0.5,0.25,Organics,Organics,4,1,0,No visible ice,0,,1,1,0,0.001412429,0,Glaciolacustrine,3
+250,TVC_H (NTGS 5),NTGS17-BH05-03-C,1.8,2,1.9,Organics,Organics,4,1,30,Medium to high,45,Vx,2,0,0.1537,0.154678249,1,Glaciolacustrine,3
+259,TVC_H (NTGS 5),NTGS17-BH05-02-C,1.3,1.8,1.55,Organics,Organics,4,1,40,Medium to high,45,Vs,2,0,0.195,0.195861582,1,Glaciolacustrine,3
+182,TVC_H (NTGS 5),NTGS17-BH05-29-A,16.5,17,16.75,Rock,Coarse,1,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+183,TVC_H (NTGS 5),NTGS17-BH05-30-A,17,17.5,17.25,Rock,Coarse,1,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Glaciolacustrine,3
+195,TVC_P (NTGS 4),NTGS17-BH04-03-A,6.5,7,6.75,Clay,Fine,1,0,20,Medium to high,45,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+196,TVC_P (NTGS 4),NTGS17-BH04-04-A,7,7.5,7.25,Clay,Fine,1,0,20,Medium to high,45,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+197,TVC_P (NTGS 4),NTGS17-BH04-05-A,7.5,8,7.75,Clay,Fine,1,0,20,Medium to high,45,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+198,TVC_P (NTGS 4),NTGS17-BH04-14-C,7.5,8,7.75,Clay,Fine,1,0,20,Medium to high,45,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+199,TVC_P (NTGS 4),NTGS17-BH04-06-A,8,8.5,8.25,Clay,Fine,1,0,20,Medium to high,45,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+200,TVC_P (NTGS 4),NTGS17-BH04-07-A,8.5,9,8.75,Clay,Fine,1,0,20,Medium to high,45,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+201,TVC_P (NTGS 4),NTGS17-BH04-08-A,9,9.5,9.25,Clay,Fine,1,0,3,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,3
+202,TVC_P (NTGS 4),NTGS17-BH04-09-A,9.5,10,9.75,Clay,Fine,1,0,3,Low,8,,1,1,0,0.001412429,0,Glaciolacustrine,3
+280,TVC_P (NTGS 4),NTGS17-BH04-13-C,7,7.5,7.25,Clay,Fine,1,0,20,Medium to high,45,Vx,2,0,0.3184,0.318912994,1,Glaciolacustrine,3
+301,TVC_P (NTGS 4),NTGS17-BH04-12-C,6.5,7,6.75,Clay,Fine,1,0,20,Medium to high,45,Vx,2,0,0.4378,0.437975706,1,Glaciolacustrine,3
+188,TVC_P (NTGS 4),NTGS17-BH04-01-A,0,0.5,0.25,Organics,Organics,4,1,3,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+189,TVC_P (NTGS 4),NTGS17-BH04-02-A,0.5,1,0.75,Organics,Organics,4,1,3,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+190,TVC_P (NTGS 4),NTGS17-BH04-01-C,0.9,1.2,1.05,Organics,Organics,4,1,3,Low,8,Vx,2,0,0,0.001412429,0,Glaciolacustrine,3
+191,TVC_P (NTGS 4),NTGS17-BH04-02-C,1.3,1.5,1.4,Organics,Organics,4,1,40,Medium to high,45,Vs,2,0,0,0.001412429,0,Glaciolacustrine,3
+192,TVC_P (NTGS 4),NTGS17-BH04-03-C,1.5,2,1.75,Organics,Organics,4,1,40,Medium to high,45,Vs,2,0,0,0.001412429,0,Glaciolacustrine,3
+193,TVC_P (NTGS 4),NTGS17-BH04-04-C,2,2.5,2.25,Organics,Organics,4,1,40,Medium to high,45,Vs,2,0,0,0.001412429,0,Glaciolacustrine,3
+194,TVC_P (NTGS 4),NTGS17-BH04-05-C,2.5,3,2.75,Organics,Organics,4,1,40,Medium to high,45,,2,0,0,0.001412429,0,Glaciolacustrine,3
+324,TVC_P (NTGS 4),NTGS17-BH04-06-C,3,3.5,3.25,Organics,Organics,4,1,65,Medium to high,87,,1,1,0.6855,0.684975989,1,Glaciolacustrine,3
+327,TVC_P (NTGS 4),NTGS17-BH04-07-C,3.5,4,3.75,Organics,Organics,4,1,65,Medium to high,87,,1,1,0.744,0.743310734,1,Glaciolacustrine,3
+278,TVC_P (NTGS 4),NTGS17-BH04-11-C,6,6.5,6.25,Silt,Fine,2,0,30,Medium to high,45,Vx,2,0,0.2902,0.290792655,1,Glaciolacustrine,3
+304,TVC_P (NTGS 4),NTGS17-BH04-09-C,4.5,5.4,4.95,Silt,Fine,2,0,65,Medium to high,87,,1,1,0.4714,0.471480791,1,Glaciolacustrine,3
+314,TVC_P (NTGS 4),NTGS17-BH04-08-C,4,4.5,4.25,Silt,Fine,2,0,65,Medium to high,87,,1,1,0.5924,0.592138983,1,Glaciolacustrine,3
+318,TVC_P (NTGS 4),NTGS17-BH04-10-C,5.5,6,5.75,Silt,Fine,2,0,70,Medium to high,45,,1,1,0.6205,0.620159605,1,Glaciolacustrine,3
+207,TVC_R (NTGS 6),NTGS17-BH06-06-A,4,4.5,4.25,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+208,TVC_R (NTGS 6),NTGS17-BH06-07-A,4.5,5,4.75,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+209,TVC_R (NTGS 6),NTGS17-BH06-08-A,5,5.5,5.25,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+210,TVC_R (NTGS 6),NTGS17-BH06-09-A,6,6.5,6.25,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+211,TVC_R (NTGS 6),NTGS17-BH06-10-A,6.5,7,6.75,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+212,TVC_R (NTGS 6),NTGS17-BH06-11-A,7,7.5,7.25,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+213,TVC_R (NTGS 6),NTGS17-BH06-12-A,7.5,8,7.75,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+214,TVC_R (NTGS 6),NTGS17-BH06-13-A,8,8.5,8.25,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+215,TVC_R (NTGS 6),NTGS17-BH06-14-A,8.5,9,8.75,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+216,TVC_R (NTGS 6),NTGS17-BH06-15-A,9,9.5,9.25,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+217,TVC_R (NTGS 6),NTGS17-BH06-16-A,9.5,10,9.75,Clay,Fine,1,0,5,Low,8,Vx,2,0,0,0.001412429,0,Moraine,3
+224,TVC_R (NTGS 6),NTGS17-BH06-02-A,0.5,1,0.75,Organics,Organics,4,1,3,Low,8,Vx,2,0,0.0272,0.028535593,1,Moraine,3
+235,TVC_R (NTGS 6),NTGS17-BH06-01-C,0.94,1.5,1.22,Organics,Organics,4,1,0,No visible ice,0,,1,1,0.0833,0.084477119,1,Moraine,3
+265,TVC_R (NTGS 6),NTGS17-BH06-01-A,0,0.5,0.25,Organics,Organics,4,1,3,Low,8,Vx,2,0,0.2141,0.214907627,1,Moraine,3
+203,TVC_R (NTGS 6),NTGS17-BH06-02-C,1.5,2,1.75,Till,Till,4,0,0,No visible ice,0,Nbn,1,0,0,0.001412429,0,Moraine,3
+204,TVC_R (NTGS 6),NTGS17-BH06-03-A,2.5,3,2.75,Till,Till,4,0,5,Low,8,Vx/Vs,2,0,0,0.001412429,0,Moraine,3
+205,TVC_R (NTGS 6),NTGS17-BH06-04-A,3,3.5,3.25,Till,Till,4,0,5,Low,8,Vx/Vs,2,0,0,0.001412429,0,Moraine,3
+206,TVC_R (NTGS 6),NTGS17-BH06-05-A,3.5,4,3.75,Till,Till,4,0,5,Low,8,Vx/Vs,2,0,0,0.001412429,0,Moraine,3
+293,TVC_R (NTGS 6),NTGS17-BH06-03-C,2,2.4,2.2,Till,Till,4,0,0,No visible ice,0,Nbn,1,0,0.3772,0.377546893,1,Moraine,3

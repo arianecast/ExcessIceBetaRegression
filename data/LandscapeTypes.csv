@@ -1,0 +1,567 @@
+Borehole ID,VRM,Slope,Organic cover (m),Mineral soil (logs; first 3 m),Surficial materials (Rampton 1987 map),Holocene deposits,Holocene conf,Deposit.type,Deposit.type.conf,Notes
+170-1-10,Smooth,Undulating,0.3,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+170-1-12,Smooth,Flat,0,Till/sand,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+170-1-17,Smooth,Undulating,0,Silt/sand,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+170-1-18,Smooth,Flat,0.1,Silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+170-1-19,Smooth,Undulating,0,Gravel,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+170-1-2,Smooth,Rolling,0,Till/sand,Glaciofluvial (ice-contact),None,2,Moraine,2,Near ice wedge polygons and thermokarst lakes
+170-1-21,Moderately rugged,Undulating,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+170-1-24,Rugged,Undulating,0.3,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+170-1-25,Smooth,Undulating,0.6,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+170-1-27,Smooth,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+170-1-28,Moderately rugged,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+170-1-29,Smooth,Undulating,0,Till/sand,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+170-1-3,Smooth,Undulating,0.2,Sand/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+170-1-30,Moderately rugged,Undulating,0,Sand/cobbles,Glaciofluvial (ice-contact),Colluvial,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+170-1-31,Smooth,Undulating,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+170-1-32,Smooth,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+170-1-33,Smooth,Rolling,0,Gravel/sand/till,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+170-1-35,Smooth,Undulating,0.3,None,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,1,Near ice wedge polygons and thermokarst lakes
+170-1-36,Smooth,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+170-1-37,Smooth,Rolling,0,Silt/sand,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+170-1-4,Smooth,Undulating,0,Silt,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+170-1-41,Smooth,Undulating,0.1,Silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+170-1-42,Smooth,Undulating,0.1,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+170-1-43,Smooth,Flat,0.6,Sand/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near ice wedge polygons and thermokarst lakes
+170-1-5,Smooth,Rolling,0.5,None,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,1,Near ice wedge polygons and thermokarst lakes
+170-1-7,Smooth,Flat,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+170-1-8,Smooth,Undulating,0,Till/sand,Glaciofluvial (ice-contact),None,2,Moraine,2,Near ice wedge polygons and thermokarst lakes
+170-1-9,Smooth,Flat,0,Sand/silt,Glaciofluvial (ice-contact),None,2,Glaciofluvial,2,Near ice wedge polygons and thermokarst lakes
+172-2-1,Smooth,Undulating,0,Till/silt,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+172-2-2,Smooth,Flat,0.1,Silt,Glaciolacustrine,Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+172-2-3,Smooth,Rolling,0,Silt,Glaciolacustrine,None,2,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+172-2-4,Smooth,Undulating,0,Silt/sand,Glaciolacustrine,None,2,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+172-2-5,Smooth,Flat,0,Till/silt,Glaciolacustrine,None,2,Moraine,2,Near ice wedge polygons and thermokarst lakes
+172-2-6,Smooth,Undulating,0,Silt/sand,Glaciolacustrine,None,2,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+172-2-7,Smooth,Undulating,0.6,Silt,Glaciolacustrine,Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+172-2-8,Smooth,Flat,0,Silt,Glaciolacustrine,None,2,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+172-2-9,Smooth,Undulating,0,Silt,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+174-01,Smooth,Undulating,0.1,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+174-02,Moderately rugged,Undulating,0.1,Silt/till/sand,Glaciofluvial (ice-contact),Organics,3,Moraine,1,Near ice wedge polygons and thermokarst lakes
+174-03,Moderately rugged,Undulating,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near ice wedge polygons and thermokarst lakes
+174-04,Rugged,Undulating,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near ice wedge polygons and thermokarst lakes
+174-05,Rugged,Undulating,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-06,Rugged,Steep,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-07,Rugged,Undulating,0.1,Till/gravel,Glaciofluvial (ice-contact),Organics,3,Moraine,2,Near ice wedge polygons and thermokarst lakes
+174-08,Rugged,Rolling,0.2,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-09,Moderately rugged,Rolling,0.1,Silt/till,Glaciofluvial (ice-contact),Organics,3,Moraine,2,Near ice wedge polygons and thermokarst lakes
+174-10,Rugged,Undulating,0,Gravel,Glaciofluvial (ice-contact),Colluvial,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-11,Smooth,Undulating,0.1,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-12,Moderately rugged,Undulating,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-14,Smooth,Undulating,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-15,Smooth,Undulating,0.1,Sand/gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-16,Rugged,Rolling,0.1,Gravel/sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-17,Rugged,Undulating,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-18,Smooth,Undulating,0.1,Clay/till,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+174-19,Rugged,Moderately steep,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-20,Moderately rugged,Undulating,0.1,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+174-21,Rugged,Rolling,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-22,Smooth,Undulating,0.1,Silt/clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+174-23,Rugged,Moderately steep,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-24,Moderately rugged,Undulating,0,Gravel,Glaciofluvial (ice-contact),Colluvial,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-25,Moderately rugged,Undulating,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-26,Rugged,Rolling,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-27,Smooth,Rolling,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-28,Moderately rugged,Rolling,0.1,Till/gravel,Glaciofluvial (ice-contact),Organics,3,Moraine,2,Near ice wedge polygons and thermokarst lakes
+174-29,Rugged,Rolling,0.1,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-30,Rugged,Moderately steep,0.1,Sand/clay,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near ice wedge polygons and thermokarst lakes
+174-31,Rugged,Undulating,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-32,Moderately rugged,Undulating,0.1,Sand/gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-33,Rugged,Undulating,0.2,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-34,Smooth,Flat,0.1,Till/clay,Glaciofluvial (ice-contact),Organics,3,Moraine,2,Near ice wedge polygons and thermokarst lakes
+174-36,Smooth,Undulating,0.1,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+174-37,Moderately rugged,Undulating,0.1,Silt/till,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+174-38,Rugged,Undulating,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near ice wedge polygons and thermokarst lakes
+174-39,Moderately rugged,Undulating,0.1,Clay/till,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+174-41,Smooth,Undulating,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+174-48,Rugged,Rolling,0,Gravel/till,Glaciofluvial (ice-contact),Colluvial,2,Moraine,3,
+174-49,Moderately rugged,Rolling,0.2,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,
+174-50,Rugged,Rolling,0.1,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,
+174-51,Smooth,Undulating,0.2,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,
+174-52,Rugged,Rolling,0,Till,Glaciofluvial (ice-contact),Colluvial,2,Moraine,3,
+174-53,Moderately rugged,Rolling,0.1,Clay/gravel,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,
+174-54,Rugged,Rolling,0.2,Silt/sand/till,Glaciofluvial (ice-contact),Organics,3,Moraine,1,
+174-55,Rugged,Undulating,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,
+174-56,Rugged,Steep,0.1,Gravel/silt,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,
+174-57,Rugged,Rolling,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,
+174-58,Rugged,Rolling,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,
+174-60,Moderately rugged,Undulating,0.1,Silt/till,Glaciofluvial (ice-contact),Organics,2,Glaciolacustrine,2,Within ice wedge polygons
+174-62,Smooth,Rolling,0.2,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,
+177 South - 12,Moderately rugged,Rolling,0.1,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+177 South - 15,Smooth,Flat,0.1,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+177 South - 2,Moderately rugged,Rolling,0.1,Sand/clay,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+177 South - 3,Smooth,Undulating,0.2,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+177 South - 5,Smooth,Undulating,0.1,Clay/sand,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+177 South - 6,Smooth,Undulating,0.2,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+177 South - 7,Smooth,Undulating,0.1,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+177 South - 8,Smooth,Undulating,0.1,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+19A-01,Smooth,Undulating,0,Clay/sand,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,2,Near ice wedge polygons
+19A-02,Moderately rugged,Undulating,0.2,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons
+19A-03,Smooth,Undulating,0.2,Silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons
+19A-04,Smooth,Flat,0.2,Silt/till,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near ice wedge polygons
+19A-05,Smooth,Undulating,0,None,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,2,"Near ice wedge polygons. Only ice, assumed to be glaciolacustrine."
+19A-06,Smooth,Undulating,0.1,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons
+19A-07,Smooth,Undulating,0.2,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons
+19A-08,Smooth,Undulating,0.2,Till/gravel,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons
+19A-09,Smooth,Undulating,0.2,Clay/sand,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near ice wedge polygons
+19A-10,Moderately rugged,Undulating,0.2,Clay/gravel,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near ice wedge polygons
+19A-11,Smooth,Undulating,0.2,Clay/sand,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near ice wedge polygons
+19A-12,Smooth,Undulating,0.2,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons
+2.45-1-1,Rugged,Undulating,0,Silt/till,Hummocky,Colluvial,2,Moraine,3,Near a river and thermokarst lakes
+2.45-1-10,Moderately rugged,Undulating,2.7,None,Hummocky,Organics,3,Glaciolacustrine,1,Near a river and thermokarst lakes
+2.45-1-11,Rugged,Flat,0.2,Till,Hummocky,Organics,3,Moraine,3,Near a river and thermokarst lakes
+2.45-1-12,Moderately rugged,Undulating,0.15,Silt/sand,Hummocky,Organics,3,Glaciolacustrine,2,Near a river and thermokarst lakes
+2.45-1-13,Smooth,Undulating,0.15,Till/clay,Hummocky,Organics,3,Moraine,2,Near a river and thermokarst lakes
+2.45-1-15,Smooth,Flat,1.6,None,Hummocky,Organics,3,Glaciolacustrine,1,Near a river and thermokarst lakes
+2.45-1-16,Moderately rugged,Undulating,0.15,Till/silt,Hummocky,Organics,3,Moraine,3,Near a river and thermokarst lakes
+2.45-1-19,Smooth,Flat,0.15,Silt,Hummocky,Organics,3,Glaciolacustrine,3,Near a river and thermokarst lakes
+2.45-1-2,Moderately rugged,Undulating,0.9,Silt/till,Hummocky,Organics,3,Glaciolacustrine,2,Near a river and thermokarst lakes
+2.45-1-20,Smooth,Flat,0,Silt/till,Hummocky,Colluvial,2,Moraine,3,Near a river and thermokarst lakes
+2.45-1-21,Smooth,Flat,0.05,Sand/silt,Hummocky,Organics,3,Glaciofluvial,2,Near a river and thermokarst lakes
+2.45-1-22,Smooth,Flat,0.05,Till,Hummocky,Organics,3,Moraine,3,Near a river and thermokarst lakes
+2.45-1-24,Moderately rugged,Undulating,0.15,Sand/silt,Hummocky,Organics,3,Glaciofluvial,2,Near a river and thermokarst lakes
+2.45-1-3,Moderately rugged,Undulating,0.25,Silt,Hummocky,Organics,3,Glaciolacustrine,3,Near a river and thermokarst lakes
+2.45-1-4,Smooth,Rolling,0.15,Silt/sand,Hummocky,Organics,3,Glaciolacustrine,2,Near a river and thermokarst lakes
+2.45-1-5,Smooth,Undulating,0,Silt/till,Hummocky,Colluvial,1,Glaciolacustrine,3,Near a river and thermokarst lakes
+2.45-1-6,Smooth,Undulating,0.2,Silt,Hummocky,Organics,3,Glaciolacustrine,3,Near a river and thermokarst lakes
+2.45-1-7,Smooth,Undulating,0.25,Silt,Hummocky,Organics,3,Glaciolacustrine,3,Near a river and thermokarst lakes
+2.45-1-8,Moderately rugged,Undulating,0.1,Silt,Hummocky,Organics,3,Glaciolacustrine,3,Near a river and thermokarst lakes
+2.45-1-9,Rugged,Undulating,0.05,Sand/silt,Hummocky,Organics,3,Glaciofluvial,2,Near a river and thermokarst lakes
+307-12-1,Moderately rugged,Flat,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+307-12-2,Moderately rugged,Rolling,0,Gravel/till,Glaciofluvial (ice-contact),Colluvial,2,Moraine,2,Near ice wedge polygons and thermokarst lakes
+307-12-3,Moderately rugged,Rolling,0,Silt/till,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+307-12-5,Rugged,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+307-14-1,Moderately rugged,Flat,0.1,Silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+307-14-1a,Smooth,Undulating,0.8,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+307-14-2,Smooth,Undulating,0.1,Silt/till,Glaciofluvial (ice-contact),Organics,3,Moraine,2,Near ice wedge polygons and thermokarst lakes
+307-14-3,Smooth,Undulating,0.6,Silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+307-14-4,Smooth,Flat,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+307-14-5,Rugged,Undulating,0.1,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+307-7-1,Smooth,Undulating,0,Silt/sand,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+307-7-10,Smooth,Undulating,0.2,Silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+307-7-11,Smooth,Undulating,0.2,None,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,1,Near ice wedge polygons and thermokarst lakes
+307-7-2,Smooth,Undulating,0.6,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+307-7-3,Moderately rugged,Undulating,0.8,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+307-7-4,Smooth,Rolling,0.6,Silt/till,Glaciofluvial (ice-contact),Organics,3,Moraine,2,Near ice wedge polygons and thermokarst lakes
+307-7-5,Smooth,Flat,0.1,Till/sand,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+307-7-6,Moderately rugged,Flat,0.2,Silt/sand,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+307-7-7,Smooth,Undulating,0.2,Sand/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+307-7-8,Smooth,Undulating,0.5,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+307-7-9,Smooth,Flat,0.2,Silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+307-8-1,Smooth,Undulating,0.3,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+307-8-10,Moderately rugged,Undulating,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+307-8-2,Smooth,Undulating,0,Silt,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+307-8-3,Smooth,Flat,0.6,Sand/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+307-8-4,Smooth,Undulating,0.2,Sand/silt,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near ice wedge polygons and thermokarst lakes
+307-8-5,Smooth,Undulating,0,Sand/till,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+307-8-6,Smooth,Undulating,0.2,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+307-8-7,Smooth,Flat,0.2,Silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+307-8-8,Smooth,Flat,0,Silt,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+307-8-9,Smooth,Undulating,0.2,Till/silt,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+309-01,Moderately rugged,Undulating,0.2,Sand/clay,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-02,Rugged,Undulating,0.1,Sand/gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-03,Rugged,Rolling,0.1,Silt/clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near thermokarst lakes
+309-04,Moderately rugged,Flat,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-05,Rugged,Undulating,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-06,Rugged,Rolling,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-07,Moderately rugged,Undulating,0.1,Sand/clay,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-08,Rugged,Undulating,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-09,Rugged,Undulating,0.1,Sand/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-10,Rugged,Rolling,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-11,Moderately rugged,Moderately steep,0.1,Silt/clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near thermokarst lakes
+309-12,Moderately rugged,Undulating,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-13,Moderately rugged,Undulating,0.1,Gravel/sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-14,Moderately rugged,Rolling,0.1,Silt/sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-15,Moderately rugged,Undulating,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-16,Moderately rugged,Rolling,0,Gravel,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near thermokarst lakes
+309-17,Rugged,Rolling,0,Gravel,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near thermokarst lakes
+309-18,Moderately rugged,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,Near thermokarst lakes
+309-19,Rugged,Undulating,0,Gravel/till,Glaciofluvial (ice-contact),Colluvial,2,Glaciofluvial,2,Near thermokarst lakes
+309-22,Smooth,Undulating,0.1,Silt/gravel,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near thermokarst lakes
+309-23,Rugged,Undulating,0.1,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-24,Rugged,Rolling,0.2,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-25,Moderately rugged,Rolling,0.2,Silt/gravel,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near thermokarst lakes
+309-26,Rugged,Rolling,0.2,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-27,Moderately rugged,Rolling,0.2,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-28,Moderately rugged,Moderately steep,0.3,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-29,Rugged,Rolling,0.2,Silt/gravel,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near thermokarst lakes
+309-30,Smooth,Undulating,0.2,Sand/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-31,Rugged,Steep,0.1,Gravel,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-32,Smooth,Undulating,0.9,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-33,Moderately rugged,Undulating,0.2,Gravel/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-34,Smooth,Undulating,0.4,Sand/till,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-35,Smooth,Undulating,0.9,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-37,Smooth,Undulating,0.1,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-38,Moderately rugged,Undulating,0.1,Clay/till,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near thermokarst lakes
+309-39,Smooth,Undulating,0.2,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-40,Smooth,Undulating,0.1,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near thermokarst lakes
+309-41,Moderately rugged,Rolling,0.6,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near thermokarst lakes
+309-42,Moderately rugged,Undulating,0.1,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-43,Smooth,Rolling,0.2,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-44,Rugged,Undulating,0.1,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-45,Rugged,Undulating,0.1,Sand/silt,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near thermokarst lakes
+309-49,Moderately rugged,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,2,Near thermokarst lakes
+309-50,Smooth,Undulating,0.1,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near thermokarst lakes
+309-51,Smooth,Undulating,0.6,Clay/sand,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,2,Near thermokarst lakes
+312-01,Moderately rugged,Undulating,0.2,Silt/gravel,Alluvial,Organics,3,Glaciolacustrine,2,Near braided river system
+312-02,Smooth,Flat,0.1,Gravel,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+312-03,Moderately rugged,Flat,0.1,Gravel,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+312-04,Rugged,Steep,0.1,Clay/gravel,Alluvial,Organics,3,Glaciolacustrine,2,Near braided river system
+312-05,Smooth,Flat,0.1,Sand/gravel,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+312-06,Smooth,Undulating,0.1,Gravel,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+312-07,Smooth,Undulating,0,Gravel,Alluvial,None,2,Glaciofluvial,3,
+312-07a,Smooth,Undulating,0.2,Till,Alluvial,Organics,3,Moraine,2,
+312-08,Smooth,Undulating,0,Silt/sand,Alluvial,None,1,Glaciolacustrine,2,
+312-09,Smooth,Undulating,0,Sand,Alluvial,None,2,Glaciofluvial,3,
+312-10,Smooth,Undulating,0.1,Gravel,Alluvial,Organics,3,Glaciofluvial,3,
+312-11,Moderately rugged,Undulating,0.1,Gravel/clay,Alluvial,Organics,3,Glaciofluvial,2,
+312-12,Moderately rugged,Undulating,1.5,Clay,Alluvial,Organics,3,Glaciolacustrine,2,
+312-13,Moderately rugged,Undulating,0.1,Gravel/till,Alluvial,Organics,3,Glaciofluvial,2,Near braided river system
+312-14,Smooth,Undulating,0.1,Sand/till,Alluvial,Organics,3,Glaciofluvial,2,Near braided river system
+312-15,Smooth,Undulating,0.1,Till/sand,Alluvial,Organics,3,Moraine,2,
+312-16,Smooth,Flat,0.1,Clay/till,Alluvial,Organics,3,Glaciolacustrine,2,
+312-17,Smooth,Undulating,0.1,Sand,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+312-18,Smooth,Undulating,0.6,Silt/sand,Alluvial,Organics,3,Glaciolacustrine,2,
+312-19,Smooth,Undulating,0,Sand/gravel,Alluvial,None,2,Glaciofluvial,2,
+312-20,Smooth,Flat,0.2,Till,Alluvial,Organics,3,Moraine,3,Near braided river system
+312-21,Moderately rugged,Undulating,0.3,Gravel,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+312-22,Smooth,Undulating,0.1,Till,Alluvial,Organics,3,Moraine,3,Near braided river system
+312-23,Smooth,Undulating,0.1,Clay/sand,Alluvial,Organics,3,Glaciolacustrine,1,Near braided river system
+312-24,Moderately rugged,Undulating,1.5,Gravel,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+312-25,Smooth,Flat,0.6,Sand,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+312-26,Moderately rugged,Flat,0.6,Sand/till,Alluvial,Organics,3,Glaciofluvial,2,Near braided river system
+312-27,Smooth,Flat,1.5,Till,Alluvial,Organics,3,Moraine,2,Near braided river system
+312-28,Smooth,Flat,0.1,Gravel,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+312-29,Smooth,Flat,0,Gravel/till,Alluvial,None,2,Glaciofluvial,3,Near braided river system
+312-30,Smooth,Undulating,1.5,Gravel,Alluvial,Organics,3,Glaciofluvial,3,Near braided river system
+325-1-1,Smooth,Flat,0.15,Sand/till,Glaciofluvial (outwash),Organics,3,Glaciofluvial,2,
+325-1-11,Smooth,Flat,0.15,Silt/sand,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-12,Smooth,Flat,0.15,Sand/till,Glaciofluvial (outwash),Organics,3,Glaciofluvial,3,
+325-1-13,Smooth,Flat,0.15,Silt/sand,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-14,Smooth,Flat,0.15,Silt/sand,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-15,Smooth,Flat,0.15,Silt/till,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-16,Smooth,Flat,0.3,Silt/sand,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-17,Smooth,Flat,0.3,Silt/till,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-2,Smooth,Flat,0.2,Silt/till,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-20,Smooth,Flat,0.15,Sand/till,Glaciofluvial (outwash),Organics,3,Glaciofluvial,2,
+325-1-21,Smooth,Flat,0.3,Silt/till,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-22,Smooth,Flat,0.15,Sand,Glaciofluvial (outwash),Organics,3,Glaciofluvial,3,
+325-1-23,Smooth,Flat,0.25,Silt/sand,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-25,Smooth,Flat,0,Silt/sand,Glaciofluvial (outwash),None,2,Glaciolacustrine,2,Near ice wedge polygons
+325-1-26,Smooth,Undulating,0,Silt/sand,Glaciofluvial (outwash),None,2,Glaciolacustrine,2,Near ice wedge polygons
+325-1-27,Smooth,Undulating,0,Silt/sand,Glaciofluvial (outwash),None,2,Glaciolacustrine,2,Near ice wedge polygons
+325-1-28,Smooth,Undulating,0,Silt/sand,Glaciofluvial (outwash),None,2,Glaciolacustrine,2,Near ice wedge polygons
+325-1-29,Smooth,Undulating,0,Silt/sand,Glaciofluvial (outwash),None,2,Glaciolacustrine,2,Near ice wedge polygons
+325-1-3,Smooth,Flat,0.1,Silt,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,3,
+325-1-30,Smooth,Undulating,0,Sand/silt,Glaciofluvial (outwash),None,2,Glaciofluvial,2,
+325-1-31,Smooth,Flat,0,Sand/silt,Glaciofluvial (outwash),None,2,Glaciofluvial,2,
+325-1-32,Smooth,Flat,0,Sand/till,Glaciofluvial (outwash),None,2,Glaciofluvial,2,
+325-1-33,Smooth,Flat,0,Sand,Glaciofluvial (outwash),None,2,Glaciofluvial,3,
+325-1-34,Smooth,Undulating,0.3,Silt/till,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,Near ice wedge polygons
+325-1-35,Smooth,Undulating,0.15,Silt/till,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-36,Smooth,Flat,0,Till,Glaciofluvial (outwash),None,2,Moraine,3,
+325-1-37,Smooth,Flat,0,Sand,Glaciofluvial (outwash),None,2,Glaciofluvial,3,
+325-1-38,Smooth,Flat,0.15,Sand/till,Glaciofluvial (outwash),Organics,3,Glaciofluvial,2,Near ice wedge polygons
+325-1-39,Smooth,Flat,0,Silt/till,Glaciofluvial (outwash),None,2,Glaciolacustrine,2,
+325-1-4,Smooth,Flat,0.2,Silt/till,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,2,
+325-1-40,Smooth,Flat,0,Silt/till,Glaciofluvial (outwash),None,2,Glaciolacustrine,2,
+325-1-5,Smooth,Flat,0.2,Silt,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,3,
+325-1-6,Smooth,Flat,0,Silt,Glaciofluvial (outwash),None,2,Glaciolacustrine,3,
+325-1-7,Smooth,Flat,0,Silt,Glaciofluvial (outwash),None,2,Glaciolacustrine,3,
+325-1-9,Smooth,Flat,0,Silt,Glaciofluvial (outwash),None,2,Glaciolacustrine,3,
+AH109.6C,Smooth,Undulating,5,None,Glaciolacustrine,None,2,Glaciolacustrine,3,Within ice wedge polygons
+AH109.6N,Smooth,Flat,3,None,Glaciolacustrine,None,2,Glaciolacustrine,3,Within ice wedge polygons
+AH109.6S,Smooth,Undulating,4.6,None,Glaciolacustrine,None,2,Glaciolacustrine,3,Within ice wedge polygons
+AH112.2C,Smooth,Flat,0,Sand/clay,Glaciolacustrine,None,1,Glaciolacustrine,2,Near ice wedge polygons and thermokarst lakes
+AH112.2N,Smooth,Flat,0.1,Clay,Glaciolacustrine,Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+AH112.2S,Smooth,Undulating,0.3,Clay,Glaciolacustrine,Organics,3,Glaciolacustrine,3,Near ice wedge polygons and thermokarst lakes
+ENG.YARC03097-01//177_Pit (NTGS 11),Smooth,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,Near ice wedge polygons
+ENG.YARC03097-01//177_Pond (NTGS 12),Smooth,Undulating,1.5,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,2,Within ice wedge polygons
+ENG.YARC03097-01//312_Pit (NTGS 13),Rugged,Steep,0,Gravel/till,Alluvial,Alluvial,2,Glaciofluvial,2,Escarpment on the edge of a braided river system
+ENG.YARC03097-01//Gunghi BH-01,Rugged,Undulating,0,Till,Hummocky,None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+ENG.YARC03097-01//Gunghi BH-02,Rugged,Undulating,0,Till,Hummocky,None,2,Moraine,3,Near ice wedge polygons and thermokarst lakes
+ENG.YARC03097-01//HUS_H (NTGS 7),Smooth,Flat,0.9,Till,Glaciofluvial (outwash),Organics,3,Moraine,3,
+ENG.YARC03097-01//HUS_P (NTGS 8),Smooth,Undulating,5.5,Silt/clay,Glaciofluvial (outwash),Organics,3,Glaciolacustrine,3,Within ice wedge polygons
+ENG.YARC03097-01//HUS_R (NTGS 9),Smooth,Undulating,5.5,Till,Glaciofluvial (outwash),Organics,3,Moraine,3,Within ice wedge polygons
+ENG.YARC03097-01//HUS_Slump (NTGS 17),Smooth,Undulating,0.5,Till/clay,Glaciofluvial (outwash),Organics,3,Moraine,2,Near thermokarst lake
+ENG.YARC03097-01//I401A_Pit (NTGS 15),Rugged,Rolling,0,Silt/clay,Colluvial,Colluvial,2,Glaciolacustrine,2,Reworked rolling hills
+ENG.YARC03097-01//I401A_Upper (NTGS 16),Rugged,Undulating,0,Sand/till,Colluvial,Colluvial,3,Moraine,3,Reworked rolling hills
+ENG.YARC03097-01//INU_H (NTGS 2),Rugged,Flat,1.5,Till,Hummocky,Organics,3,Moraine,3,Reworked rolling hills
+ENG.YARC03097-01//INU_P (NTGS 1),Smooth,Flat,2,Till,Hummocky,Organics,3,Moraine,3,Within ice wedge polygons
+ENG.YARC03097-01//INU_R (NTGS 3),Rugged,Undulating,1.5,Till,Hummocky,Organics,3,Moraine,3,
+ENG.YARC03097-01//ITH-01,Smooth,Undulating,0,Till/clay,Hummocky,None,2,Moraine,2,
+ENG.YARC03097-01//ITH-02,Smooth,Undulating,0,Till/clay,Lacustrine,None,2,Moraine,2,
+ENG.YARC03097-01//ITH-03,Smooth,Undulating,0,Till/silt,Hummocky,None,2,Moraine,2,
+ENG.YARC03097-01//ITH-04,Moderately rugged,Undulating,0,Till/silt,Hummocky,None,2,Moraine,2,
+ENG.YARC03097-01//ITH-05,Smooth,Undulating,0,Till/silt,Hummocky,None,2,Moraine,2,Near thermokarst lake and ice wedge polygons
+ENG.YARC03097-01//ITH-06,Smooth,Flat,0,Till/silt,Hummocky,None,2,Moraine,2,Near thermokarst lake and ice wedge polygons
+ENG.YARC03097-01//ITH-07,Smooth,Flat,0,Till/silt,Hummocky,None,2,Moraine,2,Near thermokarst lake and ice wedge polygons
+ENG.YARC03097-01//ITH-08,Smooth,Undulating,0,Till/silt,Hummocky,None,2,Moraine,2,Near thermokarst lake and ice wedge polygons
+ENG.YARC03097-01//ITH-09,Smooth,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,
+ENG.YARC03097-01//ITH-10,Moderately rugged,Moderately steep,0,Till,Alluvial,None,2,Moraine,3,
+ENG.YARC03097-01//ITH-11,Smooth,Rolling,0,Till/silt,Glaciofluvial (ice-contact),None,2,Moraine,2,
+ENG.YARC03097-01//ITH-12,Smooth,Undulating,0,Till,Glaciofluvial (ice-contact),None,2,Moraine,3,
+ENG.YARC03097-01//ITH-13,Smooth,Flat,0,Till/clay,Glaciofluvial (outwash),None,2,Moraine,2,Near ice wedge polygons
+ENG.YARC03097-01//ITH-14,Smooth,Undulating,0,Till/silt,Glaciofluvial (outwash),None,2,Moraine,2,
+ENG.YARC03097-01//TUK_H (NTGS 10),Smooth,Rolling,0.6,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,2,
+ENG.YARC03097-01//TVC_H (NTGS 5),Smooth,Undulating,2,Clay/till,Hummocky,Organics,3,Glaciolacustrine,3,
+ENG.YARC03097-01//TVC_P (NTGS 4),Smooth,Undulating,4,Silt/clay,Hummocky,Organics,3,Glaciolacustrine,3,Within ice wedge polygons
+ENG.YARC03097-01//TVC_R (NTGS 6),Smooth,Flat,1.5,Till/clay,Hummocky,Organics,3,Moraine,3,Within ice wedge polygons
+GSC1A - P1,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+GSC1A - P2,Smooth,Rolling,0,Till/sand,Hummocky,None,2,Moraine,2,
+GSC1A - P3,Smooth,Flat,0,Till/clay,Hummocky,None,2,Moraine,2,
+GSC1A - P4,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+GSC1A - P5,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+GSC1A - P6,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+GSC3 - 10,Smooth,Undulating,0,Sand,Lacustrine,None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 11,Smooth,Undulating,0,Sand,Lacustrine,None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 14,Smooth,Undulating,0.2,Clay,Lacustrine,Organics,3,Glaciolacustrine,3,Near ice wedge polygons
+GSC3 - 16,Smooth,Flat,0,Clay,Lacustrine,None,2,Glaciolacustrine,3,Near ice wedge polygons
+GSC3 - 17,Moderately rugged,Flat,0,Clay,Lacustrine,None,2,Glaciolacustrine,3,Near ice wedge polygons
+GSC3 - 18,Moderately rugged,Flat,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 20,Moderately rugged,Flat,0,Sand/clay,Glaciofluvial (ice-contact),None,2,Glaciofluvial,2,Near ice wedge polygons
+GSC3 - 21,Moderately rugged,Undulating,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 22,Smooth,Undulating,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 23,Smooth,Undulating,1.2,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 24,Smooth,Undulating,0.2,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons
+GSC3 - 25,Moderately rugged,Rolling,0.2,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Near ice wedge polygons
+GSC3 - 26,Smooth,Undulating,0,Sand/clay,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 27,Moderately rugged,Undulating,0.2,Sand/clay,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 28,Smooth,Undulating,0.3,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 29,Smooth,Undulating,0.3,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,2,Near ice wedge polygons
+GSC3 - 31,Smooth,Undulating,0.8,Clay,Lacustrine,Organics,3,Glaciolacustrine,3,Near ice wedge polygons
+GSC3 - 32,Moderately rugged,Undulating,0,Sand/clay,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 33,Moderately rugged,Undulating,0,Sand/gravel,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 34,Moderately rugged,Rolling,0.5,Sand,Lacustrine,Organics,3,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - 7,Smooth,Flat,0.2,Clay,Lacustrine,Organics,3,Glaciolacustrine,3,Near ice wedge polygons
+GSC3 - P1,Smooth,Undulating,0,Sand/clay,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - P2,Smooth,Undulating,0,Sand/clay,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - P3,Smooth,Undulating,0,Sand,Lacustrine,None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC3 - P4,Smooth,Undulating,0,Sand,Lacustrine,None,2,Glaciofluvial,3,Near ice wedge polygons
+GSC4 - 11,Smooth,Undulating,0,Silt,Hummocky,None,2,Glaciolacustrine,3,
+GSC4 - 12,Smooth,Undulating,0,Silt/clay,Hummocky,None,2,Glaciolacustrine,3,
+GSC4 - 13,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+GSC4 - 14,Smooth,Undulating,1.8,Silt,Hummocky,Organics,3,Glaciolacustrine,3,
+GSC4 - 15,Smooth,Undulating,1.5,Till,Hummocky,Organics,3,Moraine,3,
+GSC4 - 16,Smooth,Rolling,1.5,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+GSC4 - 18,Smooth,Undulating,1.2,Silt,Hummocky,Organics,3,Glaciolacustrine,3,
+GSC4 - 19,Smooth,Rolling,1.5,Clay/silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,
+GSC4 - 21,Smooth,Flat,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,
+GSC4 - 25,Smooth,Flat,0,Sand/clay,Glaciofluvial (ice-contact),None,2,Glaciofluvial,2,
+GSC4 - 28,Smooth,Flat,0,Clay/sand,Glaciofluvial (ice-contact),Lacustrine,2,Glaciofluvial,1,
+GSC4 - 30,Smooth,Undulating,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,
+GSC4 - 36,Smooth,Flat,0,Silt/clay,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,3,
+GSC4 - 40,Smooth,Flat,0,Silt/clay,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,3,
+GSC4 - 42,Smooth,Flat,0.3,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,
+GSC4 - 44,Smooth,Undulating,0,Clay,Glaciofluvial (ice-contact),None,2,Glaciolacustrine,3,
+GSC4 - 49,Smooth,Undulating,1.5,Silt,Hummocky,Organics,3,Glaciolacustrine,3,
+GSC4 - 5,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+GSC4 - 55,Smooth,Rolling,0.9,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+GSC4 - 6,Smooth,Undulating,0.3,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+GSC4 - 7,Smooth,Undulating,1.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+GSC4 - 8,Smooth,Undulating,0.2,Silt/clay,Hummocky,Organics,3,Glaciolacustrine,3,
+GSC4 - 9,Smooth,Undulating,1.3,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+GSC4 - P1,Smooth,Undulating,0,Sand/clay,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,
+GSC4 - P2,Smooth,Flat,0.6,Clay/sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,
+GSC4 - P3,Smooth,Undulating,0,Sand,Glaciofluvial (ice-contact),None,2,Glaciofluvial,3,
+GSC4 - P3a,Smooth,Undulating,0,Clay/sand,Glaciofluvial (ice-contact),Lacustrine,2,Glaciofluvial,1,
+GSC4 - P4,Smooth,Undulating,0,Silt,Hummocky,None,2,Glaciolacustrine,3,
+I401A - 10,Rugged,Rolling,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,3,
+I401A - 13,Rugged,Undulating,0,Sand/till,Colluvial,Colluvial,2,Moraine,2,
+I401A - 16,Rugged,Undulating,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,3,
+I401A - 20,Rugged,Flat,0,Till/silt,Colluvial,Colluvial,1,Glaciolacustrine,1,
+I401A - 21,Rugged,Undulating,0,Sand/clay,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 22,Rugged,Rolling,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 25,Rugged,Undulating,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 27,Rugged,Undulating,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 30,Rugged,Undulating,0,Gravel/sand,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 33,Rugged,Undulating,0,Silt,Colluvial,Colluvial,2,Glaciolacustrine,2,
+I401A - 34,Rugged,Undulating,0,Till/clay,Colluvial,Colluvial,1,Glaciolacustrine,2,
+I401A - 35,Rugged,Flat,0,Sand/clay,Colluvial,Colluvial,2,Glaciolacustrine,2,
+I401A - 38,Rugged,Flat,0,Till/sand,Colluvial,Colluvial,1,Glaciofluvial,2,
+I401A - 39,Rugged,Rolling,0,Gravel/sand,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 43,Rugged,Flat,0,Silt,Colluvial,Colluvial,1,Glaciolacustrine,2,
+I401A - 44,Rugged,Rolling,0,Till/sand,Colluvial,Colluvial,1,Glaciofluvial,2,
+I401A - 46,Rugged,Undulating,0,Gravel/sand,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 48,Rugged,Undulating,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 49,Rugged,Undulating,0,Sand/till,Colluvial,Colluvial,3,Moraine,2,
+I401A - 50,Rugged,Rolling,0,Gravel/sand,Colluvial,Colluvial,3,Glaciofluvial,3,
+I401A - 52,Rugged,Rolling,0,Silt/clay,Colluvial,Colluvial,1,Glaciolacustrine,2,
+I401A - 53,Rugged,Undulating,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 55,Rugged,Undulating,0,Sand/till,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 56,Rugged,Undulating,0,Sand/silt,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 57,Rugged,Undulating,0,Clay,Colluvial,Colluvial,1,Glaciolacustrine,2,
+I401A - 59,Rugged,Undulating,0,Silt,Colluvial,Colluvial,1,Glaciolacustrine,2,
+I401A - 60,Rugged,Undulating,0,Clay,Colluvial,Colluvial,1,Glaciolacustrine,2,
+I401A - 61,Rugged,Undulating,0,Silt,Colluvial,Colluvial,1,Glaciolacustrine,2,
+I401A - 63,Rugged,Rolling,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,3,
+I401A - 64,Rugged,Undulating,0,Clay,Colluvial,Colluvial,1,Glaciolacustrine,2,
+I401A - 66,Rugged,Rolling,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,3,
+I401A - 67,Rugged,Undulating,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,3,
+I401A - 68,Rugged,Undulating,0,Sand/clay,Colluvial,Colluvial,2,Glaciolacustrine,2,
+I401A - 69,Rugged,Rolling,0,Sand/clay,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - 71,Rugged,Rolling,0,Sand/clay,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - P1,Rugged,Flat,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,2,
+I401A - P2,Rugged,Undulating,0,Clay/sand,Colluvial,Colluvial,2,Glaciofluvial,1,
+I401A - P3,Rugged,Undulating,0,Sand/till,Colluvial,Colluvial,2,Moraine,2,
+I401A - P4,Rugged,Rolling,0,Sand,Colluvial,Colluvial,2,Glaciofluvial,3,
+I401A - P5,Rugged,Undulating,0,Till/gravel,Colluvial,Colluvial,1,Glaciofluvial,2,
+I401A - P6,Rugged,Undulating,0,Clay,Colluvial,Colluvial,1,Glaciolacustrine,3,
+I401A - P7,Rugged,Undulating,0,Gravel/clay,Colluvial,Colluvial,3,Glaciolacustrine,3,
+I401A - P9,Rugged,Undulating,0,Till,Colluvial,Colluvial,1,Moraine,3,
+KP7 - P1,Rugged,Rolling,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+KP7 - P2,Rugged,Undulating,0.3,Clay/till,Hummocky,Organics,3,Glaciolacustrine,2,
+KP7 - P3,Smooth,Undulating,0.3,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+KP7 - P3a,Smooth,Undulating,0.5,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+KP7 - P5,Rugged,Flat,0.2,Sand,Hummocky,Organics,3,Glaciofluvial,3,
+KP7 - P6,Rugged,Flat,0.3,Sand,Hummocky,Organics,3,Glaciofluvial,2,
+PW10 - 12,Smooth,Rolling,0.2,Clay/sand,Hummocky,Organics,3,Glaciolacustrine,2,
+PW10 - 14,Rugged,Undulating,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW10 - 16,Rugged,Undulating,0.3,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW10 - 18,Rugged,Flat,1.8,None,Hummocky,Organics,3,Glaciolacustrine,2,Only ice and organics in the first 3 m
+PW10 - 19,Rugged,Undulating,0.2,Sand,Hummocky,Organics,3,Glaciofluvial,3,
+PW10 - 20,Rugged,Undulating,0.2,Sand,Hummocky,Organics,3,Glaciofluvial,3,
+PW10 - 21,Smooth,Rolling,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW10 - 22,Smooth,Rolling,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW10 - 26,Rugged,Undulating,0.2,Sand/clay,Hummocky,Organics,3,Glaciofluvial,2,
+PW10 - 28,Smooth,Undulating,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW10 - 30,Rugged,Rolling,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW10 - 33,Smooth,Rolling,0.2,Till/sand,Hummocky,Organics,3,Moraine,2,
+PW10 - 6,Smooth,Flat,0.2,Sand,Hummocky,Organics,3,Glaciofluvial,3,
+PW10 - 8,Smooth,Undulating,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW10 - P1,Smooth,Undulating,0,Sand,Hummocky,None,2,Glaciofluvial,3,
+PW10 - P2,Rugged,Flat,0,Sand,Hummocky,None,2,Glaciofluvial,3,
+PW10 - P3,Smooth,Undulating,0,Sand,Hummocky,None,2,Glaciofluvial,3,
+PW10 - P4,Rugged,Undulating,0,Clay,Hummocky,Colluvial,2,Glaciolacustrine,3,
+PW10 - P5,Smooth,Undulating,0,Sand/till,Hummocky,Colluvial,2,Moraine,2,
+PW11 - 10,Smooth,Rolling,0,Clay/sand,Hummocky,None,2,Glaciolacustrine,2,
+PW11 - 12,Smooth,Undulating,0.1,Sand,Hummocky,Organics,3,Glaciofluvial,3,Adjacent to esker
+PW11 - 14,Smooth,Flat,0.1,Sand,Hummocky,Organics,3,Glaciofluvial,3,Adjacent to esker
+PW11 - 16,Smooth,Undulating,0.2,Clay/sand,Hummocky,Organics,3,Glaciolacustrine,3,
+PW11 - 17,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+PW11 - 18,Smooth,Undulating,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW11 - 19,Smooth,Undulating,0.5,Sand,Hummocky,Organics,3,Glaciofluvial,3,
+PW11 - 22,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+PW11 - 5,Rugged,Rolling,0.1,Sand,Hummocky,Organics,3,Glaciofluvial,3,
+PW11 - 6,Smooth,Undulating,0.1,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW11 - 8,Smooth,Undulating,0.1,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW11 - 9,Smooth,Undulating,0,Till/clay,Hummocky,Colluvial,2,Moraine,2,
+PW11 - P1,Rugged,Undulating,0,Sand,Hummocky,None,2,Glaciofluvial,3,
+PW11 - P2,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+PW11 - P3,Smooth,Undulating,0.2,Clay/sand,Hummocky,Organics,3,Glaciofluvial,3,Adjacent to esker
+PW11 - P4,Smooth,Undulating,0,Sand,Hummocky,None,2,Glaciofluvial,3,Adjacent to esker
+PW12 - 12,Smooth,Flat,0,Clay,Colluvial,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 19,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 25,Smooth,Flat,0.1,Clay,Colluvial,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 31,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 32,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 34,Smooth,Undulating,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 43,Smooth,Undulating,0.1,Clay,Hummocky,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 48,Smooth,Undulating,0.1,Clay,Hummocky,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 55,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 56A,Smooth,Flat,0,Silt/clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 57,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 58,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 60,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 67,Smooth,Undulating,0.1,Silt/clay,Colluvial,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 68,Smooth,Undulating,0.1,Silt/clay,Colluvial,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 69,Smooth,Flat,0.1,Silt/clay,Hummocky,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 70,Smooth,Flat,0.1,Silt/clay,Hummocky,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 71,Smooth,Undulating,0.1,Clay,Hummocky,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - 72,Smooth,Undulating,0.6,Clay,Hummocky,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - P1,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - P2,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - P3,Smooth,Flat,0.6,Silt/clay,Hummocky,Organics,3,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - P4,Smooth,Undulating,0,Clay,Colluvial,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW12 - P5,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near river and thermokarst lakes
+PW13 - 21,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+PW13 - 33,Smooth,Undulating,0,Clay,Colluvial,None,2,Glaciolacustrine,3,
+PW13 - 58,Smooth,Undulating,0.2,Clay,Till blanket,None,2,Glaciolacustrine,3,
+PW13 - 61,Smooth,Undulating,0,Clay,Till blanket,None,2,Glaciolacustrine,3,
+PW13 - P1,Smooth,Undulating,0,Silt/clay,Hummocky,None,2,Glaciolacustrine,3,
+PW13 - P2,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+PW13 - P3,Smooth,Undulating,0,Silt,Colluvial,None,2,Glaciolacustrine,3,
+PW13 - P4,Smooth,Undulating,0,Clay,Till blanket,None,2,Glaciolacustrine,3,
+PW13 - P5,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+PW13 - P6,Smooth,Flat,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+PW17 - 22,Smooth,Rolling,0,Clay,Colluvial,None,2,Glaciolacustrine,3,
+PW17 - P1,Smooth,Undulating,0,Clay,Colluvial,None,2,Glaciolacustrine,3,
+PW17 - P4,Smooth,Undulating,0.6,Clay,Colluvial,Organics,3,Glaciolacustrine,3,
+PW17 - P5,Smooth,Rolling,0,Clay,Colluvial,None,2,Glaciolacustrine,3,
+PW17 - P6,Moderately rugged,Rolling,0,None,Colluvial,None,2,Glaciolacustrine,2,Only ice. Assigned glaciolacustrine based on surrounding boreholes and ice at the surface is assumed to be wedge ice.
+PW17 - P7,Smooth,Rolling,0,Silt/clay,Colluvial,None,2,Glaciolacustrine,3,
+PW18 - P1,Smooth,Flat,0,Gravel/sand/clay,Colluvial,None,2,Glaciofluvial,2,Near thaw slump
+PW18 - P2,Moderately rugged,Undulating,0,Sand/clay,Colluvial,Colluvial,2,Glaciolacustrine,2,Near thaw slump
+PW18 - P4,Smooth,Rolling,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Near thaw slump
+PW18 - P5,Smooth,Undulating,0,Sand,Hummocky,None,2,Glaciofluvial,3,Near thaw slump
+PW6 - P19,Smooth,Rolling,0,Clay,Hummocky,None,2,Glaciolacustrine,3,Outide of LiDAR DEM range
+PW6 - P21,Smooth,Rolling,0.3,Clay,Hummocky,None,2,Glaciolacustrine,3,Outide of LiDAR DEM range
+PW6 - P3,Smooth,Rolling,0,Sand,Hummocky,None,2,Glaciofluvial,3,Outide of LiDAR DEM range
+PW6 - P4,Smooth,Undulating,0.2,Clay,Hummocky,None,2,Glaciolacustrine,3,Outide of LiDAR DEM range
+PW6 - P5,Smooth,Rolling,0,Silt/sand,Hummocky,None,2,Glaciolacustrine,2,Outide of LiDAR DEM range
+PW6 - P6,Smooth,Flat,0.2,Clay,Hummocky,None,2,Glaciolacustrine,3,Outide of LiDAR DEM range
+PW9 - P1,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+PW9 - P2,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+PW9 - P3,Smooth,Undulating,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+PW9 - P4,Rugged,Flat,0.3,Clay/till,Hummocky,Organics,3,Moraine,2,
+PW9 - P5,Smooth,Undulating,0.2,Till/clay,Hummocky,Organics,3,Moraine,2,
+PW9 - P6,Smooth,Undulating,1.7,Silt,Hummocky,Organics,3,Glaciolacustrine,3,
+PW9 - P7,Smooth,Undulating,0,Sand,Hummocky,None,2,Glaciofluvial,3,
+PW9 - P8,Smooth,Flat,1.5,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+W14103137-AH117.8C,Smooth,Rolling,1.5,Clay/sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,Near ice wedge polygons and thermokarst lakes
+W14103137-AH117.8N,Smooth,Undulating,0.1,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Near ice wedge polygons and thermokarst lakes
+W14103137-AH117.8S,Smooth,Undulating,0.2,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Near ice wedge polygons and thermokarst lakes
+W14103137-AH18.15C,Smooth,Undulating,0.2,Gravel/ice,Hummocky,Organics,3,Glaciofluvial,2,
+W14103137-AH18.15N,Smooth,Undulating,0.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+W14103137-AH18.15S,Smooth,Undulating,0,Clay,Hummocky,None,2,Glaciolacustrine,3,
+W14103137-AH48.9C,Smooth,Undulating,1.5,Sand/silt,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,2,
+W14103137-AH48.9N,Smooth,Undulating,0.6,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,
+W14103137-AH48.9S,Smooth,Undulating,1.5,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,
+W14103137-AH90.3C,Smooth,Rolling,2.4,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Within ice wedge polygons
+W14103137-AH90.3N,Smooth,Rolling,2.3,Silt,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Within ice wedge polygons
+W14103137-AH90.3S,Smooth,Undulating,2.1,Sand,Glaciofluvial (ice-contact),Organics,3,Glaciofluvial,3,Within ice wedge polygons
+W14103137-CR15N,Moderately rugged,Undulating,1.2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+W14103137-CR15S,Moderately rugged,Flat,2,Clay,Hummocky,Organics,3,Glaciolacustrine,3,
+W14103137-CR17aN,Moderately rugged,Undulating,2.2,Till,Hummocky,Organics,3,Moraine,3,
+W14103137-CR17aS,Moderately rugged,Flat,2.4,Silt,Hummocky,Organics,3,Glaciolacustrine,2,
+W14103137-CR18N,Moderately rugged,Undulating,1.8,Silt,Hummocky,Organics,3,Glaciolacustrine,3,By a stream
+W14103137-CR18S,Rugged,Rolling,1.8,Clay,Hummocky,Organics,3,Glaciolacustrine,3,By a stream
+W14103137-CR21N,Moderately rugged,Undulating,0,Clay,Lacustrine,Organics,3,Glaciolacustrine,3,
+W14103137-CR21S,Moderately rugged,Undulating,3,Till,Lacustrine,Organics,3,Moraine,2,
+W14103137-CR23aN,Rugged,Undulating,0.6,Sand/till,Colluvial,Organics,3,Glaciofluvial,3,
+W14103137-CR23aS,Moderately rugged,Undulating,0.4,Clay/sand,Colluvial,Organics,3,Glaciolacustrine,2,
+W14103137-CR30a1,Smooth,Undulating,0,Sand/till,Glaciofluvial (outwash),Colluvial,2,Moraine,2,Near river
+W14103137-CR30a2,Moderately rugged,Rolling,0,Silt/till,Glaciofluvial (outwash),Colluvial,2,Moraine,2,Near river
+W14103137-CR30a3,Moderately rugged,Rolling,0.1,Silt/gravel/sand,Glaciofluvial (outwash),Organics,3,Glaciofluvial,3,Near river
+W14103137-CR30a3a,Rugged,Undulating,1.1,Sand/gravel,Glaciofluvial (outwash),Organics,3,Glaciofluvial,3,Near river
+W14103137-CR30a4,Rugged,Undulating,0.3,Till,Glaciofluvial (outwash),Organics,3,Moraine,3,Near river
+W14103137-CR31N,Moderately rugged,Flat,0.15,Silt,Lacustrine,Organics,3,Glaciolacustrine,3,Near river
+W14103137-CR31S,Rugged,Flat,0.3,Silt/sand/gravel,Lacustrine,Lacustrine,2,Glaciofluvial,2,Near river
+W14103137-CR35aN,Smooth,Flat,0.15,Silt,Glaciolacustrine,Organics,3,Glaciolacustrine,3,Within ice wedge polygons
+W14103137-CR35aS,Moderately rugged,Undulating,0.6,Silt/clay/till,Glaciolacustrine,Organics,3,Glaciolacustrine,3,
+W14103137-CR3N,Smooth,Flat,2.8,Silt,Alluvial,Organics,3,Glaciolacustrine,2,By a stream
+W14103137-CR3S,Smooth,Rolling,0.5,Clay,Alluvial,Organics,3,Glaciolacustrine,2,By a stream
+W14103137-CR4N,Smooth,Undulating,1.8,Silt,Alluvial,Organics,3,Glaciolacustrine,2,By a stream
+W14103137-CR4S,Smooth,Rolling,0.5,Silt,Alluvial,Organics,3,Glaciolacustrine,2,By a stream
+W14103137-CR8N,Rugged,Undulating,0.2,Sand/silt,Hummocky,Organics,3,Glaciolacustrine,1,By a stream
+W14103137-CR8S,Rugged,Undulating,0.7,Silt,Hummocky,Organics,3,Glaciolacustrine,2,"By a stream, ice at the surface"
+W14103137-CRA12N,Smooth,Undulating,0.75,Sand,Hummocky,Organics,3,Glaciofluvial,3,Near ice wedge polygons
+W14103137-CRA12S,Smooth,Undulating,0.95,Silt,Hummocky,Organics,3,Glaciolacustrine,3,Within ice wedge polygons
+W14103137-CRA3N,Moderately rugged,Undulating,2.4,Clay,Glaciofluvial (ice-contact),Organics,3,Glaciolacustrine,3,Within ice wedge polygons
+W14103137-CRA3S,Smooth,Flat,2.6,Till,Glaciofluvial (ice-contact),Organics,3,Moraine,3,Within ice wedge polygons
+W14103137-S6-BH01,Smooth,Undulating,0.2,Till,Colluvial,Organics,3,Moraine,3,
+W14103137-S6-BH02,Smooth,Undulating,0.1,Till,Colluvial,Organics,3,Moraine,3,
+W14103137-S6-BH03,Smooth,Undulating,0.1,Till,Colluvial,Organics,3,Moraine,3,
+W14103137-S6-BH04,Smooth,Rolling,0.1,Silt/till,Colluvial,Organics,3,Moraine,3,Outide of LiDAR DEM range
+W14103137-S6-BH05,Smooth,Undulating,0.1,Till,Colluvial,Organics,3,Moraine,3,Outide of LiDAR DEM range
+W14103137-S6-BH06,Smooth,Undulating,0.1,Till,Colluvial,Organics,3,Moraine,3,Outide of LiDAR DEM range
+W14103137-S6-BH07,Smooth,Undulating,0.1,Sand/clay,Colluvial,Organics,3,Glaciofluvial,2,Outide of LiDAR DEM range
+W14103137-S6-BH08,Smooth,Undulating,0.1,Gravel/till,Colluvial,Organics,3,Moraine,3,Outide of LiDAR DEM range
+W14103137-S6-BH09,Smooth,Undulating,0.1,Clay,Colluvial,Organics,3,Glaciolacustrine,3,Outide of LiDAR DEM range
+W14103137-S6-BH10,Smooth,Rolling,0.1,Gravel,Colluvial,Organics,3,Glaciofluvial,3,Outide of LiDAR DEM range
+W14103137-S6-BH11,Smooth,Undulating,0.1,Till,Colluvial,Organics,3,Moraine,3,
+W14103137-S6-BH12,Smooth,Undulating,0.1,Till,Colluvial,Organics,3,Moraine,3,
+W14103137-S6-BH13,Smooth,Undulating,0.1,Till,Colluvial,Organics,3,Moraine,3,
+W14103137-S6-BH14,Smooth,Undulating,0.1,Silt/Clay,Colluvial,Organics,3,Glaciolacustrine,2,
+W14103137-S6-BH15,Smooth,Rolling,0,Till,Colluvial,None,2,Moraine,3,
+W14103137-S6-BH16,Smooth,Rolling,0.1,Till,Colluvial,Organics,3,Moraine,3,
