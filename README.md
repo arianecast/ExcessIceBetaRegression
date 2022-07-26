@@ -1,0 +1,2 @@
+# ExcessIceBetaRegression
+This project is associated with the Arctic Science publication titled "Vertical distribution of excess ice in icy sediments and its statistical estimation from geotechnical data (Tuktoyaktuk Coastlands and Anderson Plain, Northwest Territories)" (Castagner et al., 2022; in processing). The R code reproduces all of the analyses performed in this publication (fitting the beta regression model using geotechnical variables, bootstrapping confidence intervals, and producing base plots).
